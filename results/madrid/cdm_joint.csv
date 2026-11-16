@@ -1,0 +1,13 @@
+operator,hierarchy,model,scheme,condition,reviews,experts,reference_winner,top1_pct,top1_lo,top1_hi,exact_pct,exact_lo,exact_hi,margin_min,margin_lo,margin_hi,inverts_pct,invert_1,invert_2,invert_3,invert_4,invert_5,invert_6,invert_7,invert_8,invert_9,invert_10,invert_11,replicas
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,runs,600,599,Zenith Brunch & Cocktails - Valverde,98.7,98.5,98.8,54.4,53.7,55.1,0.004,-0.026,0.024,41.1,1.5,0.0,0.0,38.3,0.0,0.1,0.7,0.0,0.0,2.2,0.0,20000
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,experts,600,599,Zenith Brunch & Cocktails - Valverde,55.9,55.2,56.6,0.3,0.2,0.4,0.004,-0.38637,-0.03766,99.7,39.9,17.9,34.8,48.2,6.0,37.7,41.8,36.7,11.9,43.1,5.2,20000
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,both,600,599,Zenith Brunch & Cocktails - Valverde,55.7,55.0,56.4,0.3,0.2,0.4,0.004,-0.39077,-0.03844,99.7,40.0,18.2,34.9,48.2,6.3,38.0,42.0,36.9,12.1,43.3,5.2,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,runs,600,599,Los Montes de Galicia,88.9,88.5,89.4,53.8,53.1,54.5,0.02263,-0.03167,0.02657,46.1,11.1,0.0,6.7,8.7,0.2,0.0,15.4,5.5,0.0,9.5,0.0,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,experts,600,599,Los Montes de Galicia,56.8,56.1,57.5,0.2,0.1,0.2,0.02263,-0.3888,-0.03938,99.8,39.0,16.4,38.5,40.6,30.9,14.6,44.6,41.0,21.6,42.0,6.3,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,both,600,599,Los Montes de Galicia,55.6,54.9,56.3,0.2,0.1,0.2,0.02263,-0.39661,-0.0434,99.8,39.4,17.8,38.8,40.9,31.3,14.9,44.7,41.1,22.0,42.2,6.6,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,runs,600,599,Zenith Brunch & Cocktails - Valverde,100.0,100.0,100.0,83.5,83.0,84.1,0.024,-0.016,0.03,14.4,0.0,0.0,1.0,0.0,0.9,0.0,0.1,0.0,2.8,9.9,0.0,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,experts,600,599,Zenith Brunch & Cocktails - Valverde,90.1,89.7,90.5,0.1,0.1,0.2,0.024,-0.44372,-0.04925,99.9,4.0,38.4,42.1,24.3,43.1,23.1,40.2,27.6,42.7,44.4,6.0,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,both,600,599,Zenith Brunch & Cocktails - Valverde,89.5,89.0,89.9,0.1,0.1,0.1,0.024,-0.44932,-0.05,99.9,4.5,38.5,42.1,24.6,42.8,23.3,40.3,27.8,42.7,44.2,6.1,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,runs,600,599,Zenith Brunch & Cocktails - Valverde,100.0,100.0,100.0,98.1,97.9,98.3,0.0242,0.00127,0.03597,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.0,0.0,0.7,0.0,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,experts,600,599,Zenith Brunch & Cocktails - Valverde,63.8,63.2,64.5,0.3,0.2,0.4,0.0242,-0.37723,-0.03476,99.7,31.5,27.9,31.1,35.6,28.4,18.4,44.1,37.3,21.8,43.0,5.3,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,both,600,599,Zenith Brunch & Cocktails - Valverde,63.4,62.8,64.1,0.3,0.2,0.4,0.0242,-0.37815,-0.03437,99.7,31.6,28.0,31.4,35.8,28.5,18.6,44.2,37.4,21.7,43.1,5.3,20000

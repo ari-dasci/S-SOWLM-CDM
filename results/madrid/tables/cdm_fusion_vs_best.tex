@@ -1,0 +1,21 @@
+\begin{table*}[htbp]
+\centering
+\caption{The fused system against each of its members and the proprietary reference, on the quantities a decision rests on (LABEL-5, 2-tuple operator, two-level hierarchy). Top and Min are the $\beta$ lead of the winner over the runner-up and the smallest adjacent gap. Top-1 and Exact under runs resample each review's runs with the crowd fixed; Top-1 and Cand.\ under crowd resample the experts with the runs fixed: Cand.\ is the size of the simultaneous candidate set, the alternatives no rival is simultaneously better than (Table~\ref{tab:cdm_candidates}). $r$ is the review-level Pearson correlation with the authors' star ratings. Cost is the median request latency times ten runs, in seconds per review; the fusion's is the sum over its members. The hosted reference has no comparable latency.}
+\label{tab:cdm_fusion_vs_best}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrrrrr}
+\toprule
+ & & & & \multicolumn{2}{c}{\textbf{Runs}} & \multicolumn{2}{c}{\textbf{Crowd}} & & \\
+\cmidrule(lr){5-6}\cmidrule(lr){7-8}
+\textbf{System} & \textbf{Winner} & \textbf{Lead} & \textbf{Min gap} & \textbf{Top-1} & \textbf{Exact} & \textbf{Top-1} & \textbf{Cand.} & \textbf{$r$} & \textbf{Cost (s)} \\
+\midrule
+  Gemma 4 E4B & Zenith Brunch \& Cocktails--Valverde & 0.0340 & 0.0040 & 98.7\% & 54.4\% & 55.9\% & 5 & 0.815 & 0.34 \\
+  Ministral 3 8B & Los Montes de Galicia & 0.0301 & 0.0226 & 88.9\% & 53.8\% & 56.8\% & 8 & 0.780 & 0.27 \\
+  Qwen 3.6 35B & Zenith Brunch \& Cocktails--Valverde & 0.1280 & 0.0240 & 100.0\% & 83.5\% & 90.1\% & 6 & 0.871 & 0.71 \\
+\midrule
+  Fusion (open-weight) & Zenith Brunch \& Cocktails--Valverde & 0.0580 & 0.0242 & 100.0\% & 98.1\% & 63.8\% & 6 & 0.853 & 1.32 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

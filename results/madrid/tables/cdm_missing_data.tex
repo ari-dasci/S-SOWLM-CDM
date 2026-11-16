@@ -1,0 +1,26 @@
+\begin{table}[htbp]
+\centering
+\caption{Sensitivity of the collective ranking to the treatment of rejected outputs under LABEL-5. \texttt{available} keeps a review and averages whatever runs parsed; \texttt{listwise} drops the review unless all ten did. Neither is neutral: the first compares reviews aggregated from different numbers of runs, the second removes reviews from the corpus. For the fused system \texttt{listwise} keeps a review only if every member returned all ten runs for it. Only systems with rejections can differ.}
+\label{tab:cdm_missing}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{llrlr}
+\toprule
+\textbf{Model} & \textbf{Policy} & \textbf{Reviews} & \textbf{Winner} & \textbf{Min gap} \\
+\midrule
+  \multirow{2}{*}{Gemma 4 E4B} & \texttt{available} & 600 & Zenith Brunch \& Cocktails--Valverde & 0.00400 \\
+   & \texttt{listwise} & 600 & Zenith Brunch \& Cocktails--Valverde & 0.00400 \\
+\midrule
+  \multirow{2}{*}{Ministral 3 8B} & \texttt{available} & 600 & Los Montes de Galicia & 0.02263 \\
+   & \texttt{listwise} & 557 & Los Montes de Galicia & 0.02645 \\
+\midrule
+  \multirow{2}{*}{Qwen 3.6 35B} & \texttt{available} & 600 & Zenith Brunch \& Cocktails--Valverde & 0.02400 \\
+   & \texttt{listwise} & 600 & Zenith Brunch \& Cocktails--Valverde & 0.02400 \\
+\midrule
+  \multirow{2}{*}{Fusion (open-weight)} & \texttt{available} & 600 & Zenith Brunch \& Cocktails--Valverde & 0.02420 \\
+   & \texttt{listwise} & 557 & Los Montes de Galicia & 0.00331 \\
+\bottomrule
+\end{tabular}%
+}
+\\[2pt]\footnotesize Rejection is selective: for Ministral 3 8B the 43 affected reviews average $+0.51$ against $+0.45$ for the rest, and the share of an alternative's reviews affected ranges from 2.0\% to 12.0\%.
+\end{table}

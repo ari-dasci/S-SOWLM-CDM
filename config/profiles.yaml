@@ -1,0 +1,63 @@
+# The four collections behind the paper. A profile says where the raw archives
+# are, which corpus they were collected against, where the derived files go and
+# which systems are reported, in table order.
+#
+# `raw` is the model id the runner wrote, colon included; on disk the colon is
+# a dash (raw/london/gemma4-e4b/). `display` is the name used in every table.
+# `reference` is the hosted system reported beside the local ones and kept out
+# of the fusion. `stratified: true` adds resampling of participants within each
+# alternative (a corpus drawn to a fixed number of reviews per alternative).
+# `greedy: true` reads the T = 0 archives (single_label_5c_t0) instead of the
+# three T = 1 schemes.
+
+london:
+  description: >-
+    TripR-2020Large, 474 reviews of four London restaurants. Five open-weight
+    models served locally plus GPT-5.2 as a hosted reference kept out of the
+    fusion.
+  data_csv: data/TripR-2020Large_FullReviews.csv
+  raw_dir: raw/london
+  out_dir: results/london
+  reference: GPT-5.2
+  models:
+    - {raw: "gemma4:e4b", display: Gemma 4 E4B, runs_csv: runs_gemma4_e4b.csv}
+    - {raw: "ministral-3:8b", display: Ministral 3 8B, runs_csv: runs_ministral3_local.csv}
+    - {raw: "gemma4:31b", display: Gemma 4 31B, runs_csv: runs_gemma4_31b.csv}
+    - {raw: "ornith:35b", display: Ornith 35B, runs_csv: runs_ornith_35b.csv}
+    - {raw: "qwen3.6:35b", display: Qwen 3.6 35B, runs_csv: runs_qwen36_35b.csv}
+    - {raw: "gpt-5.2-2025-12-11", display: GPT-5.2, runs_csv: runs_gpt52.csv}
+
+london_t0:
+  description: LABEL-5 under greedy decoding for the five local London systems.
+  data_csv: data/TripR-2020Large_FullReviews.csv
+  raw_dir: raw/london
+  out_dir: results/london_t0
+  greedy: true
+  models:
+    - {raw: "gemma4:e4b", display: Gemma 4 E4B, runs_csv: runs_gemma4_e4b.csv}
+    - {raw: "ministral-3:8b", display: Ministral 3 8B, runs_csv: runs_ministral3_local.csv}
+    - {raw: "gemma4:31b", display: Gemma 4 31B, runs_csv: runs_gemma4_31b.csv}
+    - {raw: "ornith:35b", display: Ornith 35B, runs_csv: runs_ornith_35b.csv}
+    - {raw: "qwen3.6:35b", display: Qwen 3.6 35B, runs_csv: runs_qwen36_35b.csv}
+
+madrid:
+  description: >-
+    TripAdvisor Restaurant Reviews v2.0.0 (doi:10.5281/zenodo.14622324), 600
+    reviews of twelve Madrid restaurants, three local systems. Sampling
+    protocol in data/sample_uniovi.py.
+  data_csv: data/UniOvi-Madrid-600.csv
+  raw_dir: raw/madrid
+  out_dir: results/madrid
+  stratified: true
+  models: &madrid_local
+    - {raw: "gemma4:e4b", display: Gemma 4 E4B, runs_csv: runs_gemma4_e4b.csv}
+    - {raw: "ministral-3:8b", display: Ministral 3 8B, runs_csv: runs_ministral3_local.csv}
+    - {raw: "qwen3.6:35b", display: Qwen 3.6 35B, runs_csv: runs_qwen36_35b.csv}
+
+madrid_t0:
+  description: LABEL-5 under greedy decoding for the three Madrid systems.
+  data_csv: data/UniOvi-Madrid-600.csv
+  raw_dir: raw/madrid
+  out_dir: results/madrid_t0
+  greedy: true
+  models: *madrid_local

@@ -1,0 +1,38 @@
+\begin{table}[htbp]
+\centering
+\caption{Sensitivity of the collective ranking to the linguistic mapping. The 2-tuple model places the terms at equally spaced indices; \texttt{compressed} moves the interior terms towards the center and \texttt{stretched} away from it, holding the endpoints and the ordering fixed. $\tau$ is the Kendall correlation of the resulting ranking against the uniform one.}
+\label{tab:cdm_mapping}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lllcc}
+\toprule
+\textbf{Model} & \textbf{Scheme} & \textbf{Placement} & \textbf{Winner} & \textbf{$\tau$ vs uniform} \\
+\midrule
+  Gemma 4 E4B & LABEL-7 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Gemma 4 E4B & LABEL-7 & \texttt{compressed} & Los Montes de Galicia & 0.909 \\
+  Gemma 4 E4B & LABEL-7 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 0.939 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{compressed} & Los Montes de Galicia & 0.848 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 0.939 \\
+  Ministral 3 8B & LABEL-7 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Ministral 3 8B & LABEL-7 & \texttt{compressed} & Los Montes de Galicia & 0.909 \\
+  Ministral 3 8B & LABEL-7 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Ministral 3 8B & LABEL-5 & \texttt{uniform} & Los Montes de Galicia & 1.000 \\
+  Ministral 3 8B & LABEL-5 & \texttt{compressed} & Los Montes de Galicia & 0.879 \\
+  Ministral 3 8B & LABEL-5 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 0.970 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{compressed} & Zenith Brunch \& Cocktails--Valverde & 0.970 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 0.909 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{compressed} & Zenith Brunch \& Cocktails--Valverde & 0.939 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 0.939 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{compressed} & Los Montes de Galicia & 0.909 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{uniform} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{compressed} & Zenith Brunch \& Cocktails--Valverde & 0.939 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{stretched} & Zenith Brunch \& Cocktails--Valverde & 1.000 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

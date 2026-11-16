@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\caption{Agreement with the 1--5 star rating the author of each review attached to it, over all 600 reviews under LABEL-5. A rating of $k$ stars is $\beta_{\star} = k-1$, so Diff.\ (the mean signed difference from the stars, negative when the pipeline scores a review below its author) and MAD are in $\beta$ units. Same term is the share of reviews whose aggregate rounds onto the author's own term; $\tau$ compares each collective ranking with the star ranking given beneath. The stars rate a visit, the answer rates the text: related constructs, not one quantity measured twice.}
+\label{tab:cdm_stars}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lccrrcr}
+\toprule
+\textbf{Model} & \textbf{$r$} & \textbf{$\rho$} & \textbf{Diff.} & \textbf{MAD} & \textbf{Same term} & \textbf{$\tau$} \\
+\midrule
+  Gemma 4 E4B & 0.815 & 0.644 & -0.241 & 0.361 & 67.8\% & +0.89 \\
+  Ministral 3 8B & 0.780 & 0.609 & -0.615 & 0.682 & 36.5\% & +0.89 \\
+  Qwen 3.6 35B & 0.871 & 0.705 & -0.006 & 0.242 & 78.5\% & +0.89 \\
+  Fusion (open-weight) & 0.853 & 0.660 & -0.287 & 0.422 & 68.0\% & +0.95 \\
+\midrule
+  \multicolumn{7}{l}{Star ranking: Zenith Brunch \& Cocktails--Valverde $>$ Los Montes de Galicia $>$ Meson Restaurante La Mi Venta $>$ Taberna Mas Al Sur $>$ Inclan Brutal Bar $>$ La Cabana Argentina $>$ Oven Mozzarella Fuencarral $>$ Oven Mozzarella Gran Via 6 $>$ Rosi La Loca $>$ Restaurante Botin $>$ Mercado de San Miguel $>$ La Barraca \quad (margin 0.00000)} \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

@@ -1,0 +1,40 @@
+\begin{table}[htbp]
+\centering
+\caption{Where the operator is allowed to act, under LABEL-5. \texttt{review} is the reported pipeline: the operator aggregates the ten runs of a review, and every level above carries $\beta$ forward as a continuous value. \texttt{all} applies the same operator again at review~$\to$~expert and expert~$\to$~alternative, which is what a study aggregating ``by majority vote'' throughout would be doing. Distinct is how many different collective values the four alternatives receive; an operator acting at every level cannot express a difference smaller than one term, so alternatives come back tied and the ranking stops existing.}
+\label{tab:cdm_scope}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{llccr}
+\toprule
+\textbf{Model} & \textbf{Operator} & \textbf{Scope} & \textbf{Distinct} & \textbf{Min gap} \\
+\midrule
+  \multirow{8}{*}{Gemma 4 E4B} & \texttt{two\_tuple} & \texttt{review} & 12 & 0.0040 \\
+   & \texttt{two\_tuple} & \texttt{all} & 12 & 0.0040 \\
+   & \texttt{mean\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{mean\_round} & \texttt{all} & 2 & -- \\
+   & \texttt{median\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{median\_round} & \texttt{all} & 2 & -- \\
+   & \texttt{majority} & \texttt{review} & 10 & -- \\
+   & \texttt{majority} & \texttt{all} & 2 & -- \\
+\midrule
+  \multirow{8}{*}{Ministral 3 8B} & \texttt{two\_tuple} & \texttt{review} & 12 & 0.0226 \\
+   & \texttt{two\_tuple} & \texttt{all} & 12 & 0.0226 \\
+   & \texttt{mean\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{mean\_round} & \texttt{all} & 2 & -- \\
+   & \texttt{median\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{median\_round} & \texttt{all} & 1 & -- \\
+   & \texttt{majority} & \texttt{review} & 11 & -- \\
+   & \texttt{majority} & \texttt{all} & 1 & -- \\
+\midrule
+  \multirow{8}{*}{Qwen 3.6 35B} & \texttt{two\_tuple} & \texttt{review} & 12 & 0.0240 \\
+   & \texttt{two\_tuple} & \texttt{all} & 12 & 0.0240 \\
+   & \texttt{mean\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{mean\_round} & \texttt{all} & 2 & -- \\
+   & \texttt{median\_round} & \texttt{review} & 11 & -- \\
+   & \texttt{median\_round} & \texttt{all} & 1 & -- \\
+   & \texttt{majority} & \texttt{review} & 12 & 0.0200 \\
+   & \texttt{majority} & \texttt{all} & 1 & -- \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

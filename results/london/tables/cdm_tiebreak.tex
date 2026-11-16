@@ -1,0 +1,21 @@
+\begin{table}[htbp]
+\centering
+\caption{The tie rule of the \texttt{majority} operator (LABEL-5, two-level hierarchy). The reported rule breaks a tie between modal terms towards the lower term; the alternative breaks it towards the upper one. Changed is the number of reviews whose review-level value differs between the rules (for the fusion, whose mode is taken over its members' review values). Min is the smallest adjacent gap of the collective ranking under each rule.}
+\label{tab:cdm_tiebreak}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrllcrr}
+\toprule
+\textbf{System} & \textbf{Changed} & \textbf{Winner (lower)} & \textbf{Winner (upper)} & \textbf{Same order} & \textbf{Min gap (lower)} & \textbf{Min gap (upper)} \\
+\midrule
+  Gemma 4 E4B & 41 & The Ivy & J. Sheekey & no & 0.0079 & 0.0070 \\
+  Ministral 3 8B & 39 & J. Sheekey & J. Sheekey & no & 0.0263 & 0.0087 \\
+  Gemma 4 31B & 7 & J. Sheekey & J. Sheekey & yes & 0.0320 & 0.0126 \\
+  Ornith 35B & 16 & J. Sheekey & J. Sheekey & yes & 0.0312 & 0.0519 \\
+  Qwen 3.6 35B & 13 & J. Sheekey & J. Sheekey & yes & 0.0128 & 0.0216 \\
+  GPT-5.2 & 1 & J. Sheekey & J. Sheekey & yes & 0.0764 & 0.0764 \\
+  Fusion (open-weight) & 27 & J. Sheekey & J. Sheekey & yes & 0.0509 & 0.0426 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

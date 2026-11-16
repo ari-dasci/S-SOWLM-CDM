@@ -1,0 +1,5 @@
+model,scheme,winner,margin_top,margin_min,top1_runs,exact_runs,top1_crowd,inverts_crowd,candidates_crowd,candidates_crowd_pairwise,r_stars,cost_s_per_review
+Gemma 4 E4B,LABEL-5,Zenith Brunch & Cocktails - Valverde,0.034,0.004,98.7,54.4,55.9,99.7,5,4,0.8145,0.34
+Ministral 3 8B,LABEL-5,Los Montes de Galicia,0.03009,0.02263,88.9,53.8,56.8,99.8,8,6,0.7801,0.27
+Qwen 3.6 35B,LABEL-5,Zenith Brunch & Cocktails - Valverde,0.128,0.024,100.0,83.5,90.1,99.9,6,3,0.8706,0.71
+Fusion (open-weight),LABEL-5,Zenith Brunch & Cocktails - Valverde,0.05797,0.0242,100.0,98.1,63.8,99.7,6,5,0.8534,1.32

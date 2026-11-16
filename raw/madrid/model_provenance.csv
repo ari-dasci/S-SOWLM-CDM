@@ -1,0 +1,4 @@
+model,tag,digest,architecture,parameters,quantization,context_length,collected_from,collected_to,think,runtime,gpu,snapshot_taken
+Gemma 4 E4B,gemma4:e4b,dc35e8d9c606,gemma4,7.5B,Q4_K_M,131072,2026-10-14,2026-10-14,False,0.40.4,"NVIDIA GeForce RTX 5090, 615.78.08",2026-10-14
+Ministral 3 8B,ministral-3:8b,1922accd5827,mistral3,8.9B,Q4_K_M,262144,2026-10-14,2026-10-14,False,0.40.4,"NVIDIA GeForce RTX 5090, 615.78.08",2026-10-14
+Qwen 3.6 35B,qwen3.6:35b,07d35212591f,qwen35moe,36.0B,Q4_K_M,262144,2026-10-14,2026-10-14,False,0.40.4,"NVIDIA GeForce RTX 5090, 615.78.08",2026-10-14

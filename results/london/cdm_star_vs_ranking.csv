@@ -1,0 +1,8 @@
+model,scheme,hierarchy,winner,star_winner,same_winner,tau_vs_stars,margin_min,star_margin_min
+Fusion (open-weight),LABEL-5,two_level,J. Sheekey,The Ivy,False,0.6667,0.01454,0.01045
+GPT-5.2,LABEL-5,two_level,J. Sheekey,The Ivy,False,0.6667,0.08039,0.01045
+Gemma 4 31B,LABEL-5,two_level,J. Sheekey,The Ivy,False,0.3333,0.02288,0.01045
+Gemma 4 E4B,LABEL-5,two_level,The Ivy,The Ivy,True,1.0,0.00266,0.01045
+Ministral 3 8B,LABEL-5,two_level,J. Sheekey,The Ivy,False,0.6667,0.00085,0.01045
+Ornith 35B,LABEL-5,two_level,J. Sheekey,The Ivy,False,0.6667,0.0387,0.01045
+Qwen 3.6 35B,LABEL-5,two_level,J. Sheekey,The Ivy,False,0.6667,0.03555,0.01045

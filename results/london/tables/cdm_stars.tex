@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Agreement with the 1--5 star rating the author of each review attached to it, over all 474 reviews under LABEL-5. A rating of $k$ stars is $\beta_{\star} = k-1$, so Diff.\ (the mean signed difference from the stars, negative when the pipeline scores a review below its author) and MAD are in $\beta$ units. Same term is the share of reviews whose aggregate rounds onto the author's own term; $\tau$ compares each collective ranking with the star ranking given beneath. The stars rate a visit, the answer rates the text: related constructs, not one quantity measured twice.}
+\label{tab:cdm_stars}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lccrrcr}
+\toprule
+\textbf{Model} & \textbf{$r$} & \textbf{$\rho$} & \textbf{Diff.} & \textbf{MAD} & \textbf{Same term} & \textbf{$\tau$} \\
+\midrule
+  Gemma 4 E4B & 0.764 & 0.640 & -0.158 & 0.536 & 54.0\% & +1.00 \\
+  Ministral 3 8B & 0.752 & 0.690 & -0.639 & 0.723 & 37.8\% & +0.67 \\
+  Gemma 4 31B & 0.798 & 0.709 & -0.055 & 0.396 & 63.7\% & +0.33 \\
+  Ornith 35B & 0.816 & 0.722 & -0.089 & 0.385 & 65.6\% & +0.67 \\
+  Qwen 3.6 35B & 0.814 & 0.735 & -0.045 & 0.405 & 61.6\% & +0.67 \\
+  GPT-5.2 & 0.782 & 0.710 & -0.146 & 0.444 & 60.8\% & +0.67 \\
+  Fusion (open-weight) & 0.814 & 0.728 & -0.197 & 0.460 & 65.2\% & +0.67 \\
+\midrule
+  \multicolumn{7}{l}{Star ranking: The Ivy $>$ J. Sheekey $>$ The Wolseley $>$ Oxo Tower \quad (margin 0.01045)} \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

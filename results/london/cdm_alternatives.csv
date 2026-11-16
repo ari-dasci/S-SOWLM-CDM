@@ -1,0 +1,169 @@
+model,scheme,alternative,beta,n,hierarchy,two_tuple,rank
+Fusion (open-weight),LABEL-5,J. Sheekey,3.1671494027164133,97,two_level,"(Positive, +0.17)",1
+Fusion (open-weight),LABEL-5,The Ivy,3.1303013728013727,148,two_level,"(Positive, +0.13)",2
+Fusion (open-weight),LABEL-5,The Wolseley,2.962844705046198,134,two_level,"(Positive, -0.04)",3
+Fusion (open-weight),LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.94830910609858,95,two_level,"(Positive, -0.05)",4
+Fusion (open-weight),LABEL-7,J. Sheekey,4.658487972508591,97,two_level,"(Very Positive, -0.34)",1
+Fusion (open-weight),LABEL-7,The Ivy,4.585825825825825,148,two_level,"(Very Positive, -0.41)",2
+Fusion (open-weight),LABEL-7,The Wolseley,4.402885572139303,134,two_level,"(Positive, +0.40)",3
+Fusion (open-weight),LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.310409356725146,95,two_level,"(Positive, +0.31)",4
+Fusion (open-weight),SCORE,J. Sheekey,3.333637113402062,97,two_level,"(Positive, +0.33)",1
+Fusion (open-weight),SCORE,The Ivy,3.269013513513513,148,two_level,"(Positive, +0.27)",2
+Fusion (open-weight),SCORE,The Wolseley,3.147738805970149,134,two_level,"(Positive, +0.15)",3
+Fusion (open-weight),SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.117421052631579,95,two_level,"(Positive, +0.12)",4
+GPT-5.2,LABEL-5,J. Sheekey,3.270103092783505,97,two_level,"(Positive, +0.27)",1
+GPT-5.2,LABEL-5,The Ivy,3.1364864864864863,148,two_level,"(Positive, +0.14)",2
+GPT-5.2,LABEL-5,The Wolseley,3.047761194029851,134,two_level,"(Positive, +0.05)",3
+GPT-5.2,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.9673684210526314,95,two_level,"(Positive, -0.03)",4
+GPT-5.2,LABEL-7,J. Sheekey,4.521649484536082,97,two_level,"(Very Positive, -0.48)",1
+GPT-5.2,LABEL-7,The Ivy,4.437162162162163,148,two_level,"(Positive, +0.44)",2
+GPT-5.2,LABEL-7,The Wolseley,4.316417910447761,134,two_level,"(Positive, +0.32)",3
+GPT-5.2,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.1821052631578945,95,two_level,"(Positive, +0.18)",4
+GPT-5.2,SCORE,J. Sheekey,3.2786804123711337,97,two_level,"(Positive, +0.28)",1
+GPT-5.2,SCORE,The Ivy,3.206432432432432,148,two_level,"(Positive, +0.21)",2
+GPT-5.2,SCORE,The Wolseley,3.1013432835820893,134,two_level,"(Positive, +0.10)",3
+GPT-5.2,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.0344210526315787,95,two_level,"(Positive, +0.03)",4
+Gemma 4 31B,LABEL-5,J. Sheekey,3.3577319587628867,97,two_level,"(Positive, +0.36)",1
+Gemma 4 31B,LABEL-5,The Ivy,3.2804054054054053,148,two_level,"(Positive, +0.28)",2
+Gemma 4 31B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.086315789473684,95,two_level,"(Positive, +0.09)",3
+Gemma 4 31B,LABEL-5,The Wolseley,3.0634328358208953,134,two_level,"(Positive, +0.06)",4
+Gemma 4 31B,LABEL-7,J. Sheekey,4.924742268041237,97,two_level,"(Very Positive, -0.08)",1
+Gemma 4 31B,LABEL-7,The Ivy,4.789864864864865,148,two_level,"(Very Positive, -0.21)",2
+Gemma 4 31B,LABEL-7,The Wolseley,4.550000000000001,134,two_level,"(Very Positive, -0.45)",3
+Gemma 4 31B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.44,95,two_level,"(Positive, +0.44)",4
+Gemma 4 31B,SCORE,J. Sheekey,3.3658762886597935,97,two_level,"(Positive, +0.37)",1
+Gemma 4 31B,SCORE,The Ivy,3.309054054054054,148,two_level,"(Positive, +0.31)",2
+Gemma 4 31B,SCORE,The Wolseley,3.171194029850746,134,two_level,"(Positive, +0.17)",3
+Gemma 4 31B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.122736842105263,95,two_level,"(Positive, +0.12)",4
+Gemma 4 E4B,LABEL-5,The Ivy,3.1635135135135135,148,two_level,"(Positive, +0.16)",1
+Gemma 4 E4B,LABEL-5,J. Sheekey,3.1463917525773195,97,two_level,"(Positive, +0.15)",2
+Gemma 4 E4B,LABEL-5,The Wolseley,3.0268656716417914,134,two_level,"(Positive, +0.03)",3
+Gemma 4 E4B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.0242105263157897,95,two_level,"(Positive, +0.02)",4
+Gemma 4 E4B,LABEL-7,The Ivy,4.701351351351351,148,two_level,"(Very Positive, -0.30)",1
+Gemma 4 E4B,LABEL-7,J. Sheekey,4.689690721649484,97,two_level,"(Very Positive, -0.31)",2
+Gemma 4 E4B,LABEL-7,The Wolseley,4.538805970149254,134,two_level,"(Very Positive, -0.46)",3
+Gemma 4 E4B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.451578947368421,95,two_level,"(Positive, +0.45)",4
+Gemma 4 E4B,SCORE,J. Sheekey,3.25101030927835,97,two_level,"(Positive, +0.25)",1
+Gemma 4 E4B,SCORE,The Ivy,3.222824324324324,148,two_level,"(Positive, +0.22)",2
+Gemma 4 E4B,SCORE,The Wolseley,3.111134328358209,134,two_level,"(Positive, +0.11)",3
+Gemma 4 E4B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.1100842105263156,95,two_level,"(Positive, +0.11)",4
+Ministral 3 8B,LABEL-5,J. Sheekey,2.6872934053346427,97,two_level,"(Positive, -0.31)",1
+Ministral 3 8B,LABEL-5,The Ivy,2.663669026169026,148,two_level,"(Positive, -0.34)",2
+Ministral 3 8B,LABEL-5,The Wolseley,2.547660506988865,134,two_level,"(Positive, -0.45)",3
+Ministral 3 8B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.5468086883876357,95,two_level,"(Positive, -0.45)",4
+Ministral 3 8B,LABEL-7,J. Sheekey,4.042955326460481,97,two_level,"(Positive, +0.04)",1
+Ministral 3 8B,LABEL-7,The Ivy,4.000075075075075,148,two_level,"(Positive, +0.00)",2
+Ministral 3 8B,LABEL-7,The Wolseley,3.898839137645108,134,two_level,"(Positive, -0.10)",3
+Ministral 3 8B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",3.8794152046783625,95,two_level,"(Positive, -0.12)",4
+Ministral 3 8B,SCORE,J. Sheekey,3.2963711340206183,97,two_level,"(Positive, +0.30)",1
+Ministral 3 8B,SCORE,The Ivy,3.2189864864864863,148,two_level,"(Positive, +0.22)",2
+Ministral 3 8B,SCORE,The Wolseley,3.1255671641791043,134,two_level,"(Positive, +0.13)",3
+Ministral 3 8B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.099968421052631,95,two_level,"(Positive, +0.10)",4
+Ornith 35B,LABEL-5,J. Sheekey,3.3000000000000003,97,two_level,"(Positive, +0.30)",1
+Ornith 35B,LABEL-5,The Ivy,3.235135135135135,148,two_level,"(Positive, +0.24)",2
+Ornith 35B,LABEL-5,The Wolseley,3.0723880597014923,134,two_level,"(Positive, +0.07)",3
+Ornith 35B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.0336842105263155,95,two_level,"(Positive, +0.03)",4
+Ornith 35B,LABEL-7,J. Sheekey,4.765979381443299,97,two_level,"(Very Positive, -0.23)",1
+Ornith 35B,LABEL-7,The Ivy,4.657432432432432,148,two_level,"(Very Positive, -0.34)",2
+Ornith 35B,LABEL-7,The Wolseley,4.464925373134328,134,two_level,"(Positive, +0.46)",3
+Ornith 35B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.333684210526315,95,two_level,"(Positive, +0.33)",4
+Ornith 35B,SCORE,J. Sheekey,3.378927835051546,97,two_level,"(Positive, +0.38)",1
+Ornith 35B,SCORE,The Ivy,3.295608108108108,148,two_level,"(Positive, +0.30)",2
+Ornith 35B,SCORE,The Wolseley,3.1650820895522385,134,two_level,"(Positive, +0.17)",3
+Ornith 35B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.122736842105263,95,two_level,"(Positive, +0.12)",4
+Qwen 3.6 35B,LABEL-5,J. Sheekey,3.344329896907216,97,two_level,"(Positive, +0.34)",1
+Qwen 3.6 35B,LABEL-5,The Ivy,3.3087837837837837,148,two_level,"(Positive, +0.31)",2
+Qwen 3.6 35B,LABEL-5,The Wolseley,3.1038764510779435,134,two_level,"(Positive, +0.10)",3
+Qwen 3.6 35B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.0505263157894738,95,two_level,"(Positive, +0.05)",4
+Qwen 3.6 35B,LABEL-7,J. Sheekey,4.869072164948454,97,two_level,"(Very Positive, -0.13)",1
+Qwen 3.6 35B,LABEL-7,The Ivy,4.780405405405405,148,two_level,"(Very Positive, -0.22)",2
+Qwen 3.6 35B,LABEL-7,The Wolseley,4.561857379767828,134,two_level,"(Very Positive, -0.44)",3
+Qwen 3.6 35B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.447368421052632,95,two_level,"(Positive, +0.45)",4
+Qwen 3.6 35B,SCORE,J. Sheekey,3.376,97,two_level,"(Positive, +0.38)",1
+Qwen 3.6 35B,SCORE,The Ivy,3.2985945945945945,148,two_level,"(Positive, +0.30)",2
+Qwen 3.6 35B,SCORE,The Wolseley,3.1657164179104478,134,two_level,"(Positive, +0.17)",3
+Qwen 3.6 35B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.1315789473684212,95,two_level,"(Positive, +0.13)",4
+Fusion (open-weight),LABEL-5,J. Sheekey,3.1307619047619046,81,three_level,"(Positive, +0.13)",1
+Fusion (open-weight),LABEL-5,The Ivy,3.0992723947550034,115,three_level,"(Positive, +0.10)",2
+Fusion (open-weight),LABEL-5,The Wolseley,2.9737494732406238,113,three_level,"(Positive, -0.03)",3
+Fusion (open-weight),LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.9530039255845706,93,three_level,"(Positive, -0.05)",4
+Fusion (open-weight),LABEL-7,J. Sheekey,4.611137174211248,81,three_level,"(Very Positive, -0.39)",1
+Fusion (open-weight),LABEL-7,The Ivy,4.5485584541062805,115,three_level,"(Very Positive, -0.45)",2
+Fusion (open-weight),LABEL-7,The Wolseley,4.425511307767945,113,three_level,"(Positive, +0.43)",3
+Fusion (open-weight),LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.315280764635603,93,three_level,"(Positive, +0.32)",4
+Fusion (open-weight),SCORE,J. Sheekey,3.2977919341563786,81,three_level,"(Positive, +0.30)",1
+Fusion (open-weight),SCORE,The Ivy,3.238744347826087,115,three_level,"(Positive, +0.24)",2
+Fusion (open-weight),SCORE,The Wolseley,3.1575412979351034,113,three_level,"(Positive, +0.16)",3
+Fusion (open-weight),SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.123921505376344,93,three_level,"(Positive, +0.12)",4
+GPT-5.2,LABEL-5,J. Sheekey,3.2351851851851854,81,three_level,"(Positive, +0.24)",1
+GPT-5.2,LABEL-5,The Ivy,3.1042608695652176,115,three_level,"(Positive, +0.10)",2
+GPT-5.2,LABEL-5,The Wolseley,3.063495575221239,113,three_level,"(Positive, +0.06)",3
+GPT-5.2,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.9666666666666663,93,three_level,"(Positive, -0.03)",4
+GPT-5.2,LABEL-7,J. Sheekey,4.468415637860082,81,three_level,"(Positive, +0.47)",1
+GPT-5.2,LABEL-7,The Ivy,4.4154492753623185,115,three_level,"(Positive, +0.42)",2
+GPT-5.2,LABEL-7,The Wolseley,4.319616519174041,113,three_level,"(Positive, +0.32)",3
+GPT-5.2,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.189784946236559,93,three_level,"(Positive, +0.19)",4
+GPT-5.2,SCORE,J. Sheekey,3.2452748971193413,81,three_level,"(Positive, +0.25)",1
+GPT-5.2,SCORE,The Ivy,3.1838872463768113,115,three_level,"(Positive, +0.18)",2
+GPT-5.2,SCORE,The Wolseley,3.1100176991150446,113,three_level,"(Positive, +0.11)",3
+GPT-5.2,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.0401827956989242,93,three_level,"(Positive, +0.04)",4
+Gemma 4 31B,LABEL-5,J. Sheekey,3.3237654320987655,81,three_level,"(Positive, +0.32)",1
+Gemma 4 31B,LABEL-5,The Ivy,3.2453043478260866,115,three_level,"(Positive, +0.25)",2
+Gemma 4 31B,LABEL-5,The Wolseley,3.089085545722714,113,three_level,"(Positive, +0.09)",3
+Gemma 4 31B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.0881720430107524,93,three_level,"(Positive, +0.09)",4
+Gemma 4 31B,LABEL-7,J. Sheekey,4.859876543209876,81,three_level,"(Very Positive, -0.14)",1
+Gemma 4 31B,LABEL-7,The Ivy,4.74231884057971,115,three_level,"(Very Positive, -0.26)",2
+Gemma 4 31B,LABEL-7,The Wolseley,4.5883480825958705,113,three_level,"(Very Positive, -0.41)",3
+Gemma 4 31B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.444086021505377,93,three_level,"(Positive, +0.44)",4
+Gemma 4 31B,SCORE,J. Sheekey,3.327777777777778,81,three_level,"(Positive, +0.33)",1
+Gemma 4 31B,SCORE,The Ivy,3.2805811594202896,115,three_level,"(Positive, +0.28)",2
+Gemma 4 31B,SCORE,The Wolseley,3.1856342182890853,113,three_level,"(Positive, +0.19)",3
+Gemma 4 31B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.1286021505376342,93,three_level,"(Positive, +0.13)",4
+Gemma 4 E4B,LABEL-5,The Ivy,3.130086956521739,115,three_level,"(Positive, +0.13)",1
+Gemma 4 E4B,LABEL-5,J. Sheekey,3.111213991769547,81,three_level,"(Positive, +0.11)",2
+Gemma 4 E4B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.0333333333333337,93,three_level,"(Positive, +0.03)",3
+Gemma 4 E4B,LABEL-5,The Wolseley,3.027433628318584,113,three_level,"(Positive, +0.03)",4
+Gemma 4 E4B,LABEL-7,The Ivy,4.662289855072464,115,three_level,"(Very Positive, -0.34)",1
+Gemma 4 E4B,LABEL-7,J. Sheekey,4.651687242798354,81,three_level,"(Very Positive, -0.35)",2
+Gemma 4 E4B,LABEL-7,The Wolseley,4.541150442477876,113,three_level,"(Very Positive, -0.46)",3
+Gemma 4 E4B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.461827956989247,93,three_level,"(Positive, +0.46)",4
+Gemma 4 E4B,SCORE,J. Sheekey,3.2203897119341565,81,three_level,"(Positive, +0.22)",1
+Gemma 4 E4B,SCORE,The Ivy,3.196845217391304,115,three_level,"(Positive, +0.20)",2
+Gemma 4 E4B,SCORE,The Wolseley,3.1191991150442475,113,three_level,"(Positive, +0.12)",3
+Gemma 4 E4B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.1182043010752687,93,three_level,"(Positive, +0.12)",4
+Ministral 3 8B,LABEL-5,The Ivy,2.646956176673568,115,three_level,"(Positive, -0.35)",1
+Ministral 3 8B,LABEL-5,J. Sheekey,2.6426572604350382,81,three_level,"(Positive, -0.36)",2
+Ministral 3 8B,LABEL-5,The Wolseley,2.5551903357213095,113,three_level,"(Positive, -0.44)",3
+Ministral 3 8B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",2.550503498890596,93,three_level,"(Positive, -0.45)",4
+Ministral 3 8B,LABEL-7,J. Sheekey,4.001611796982167,81,three_level,"(Positive, +0.00)",1
+Ministral 3 8B,LABEL-7,The Ivy,3.96924154589372,115,three_level,"(Positive, -0.03)",2
+Ministral 3 8B,LABEL-7,The Wolseley,3.920009832841691,113,three_level,"(Positive, -0.08)",3
+Ministral 3 8B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",3.8844683393070487,93,three_level,"(Positive, -0.12)",4
+Ministral 3 8B,SCORE,J. Sheekey,3.253308641975308,81,three_level,"(Positive, +0.25)",1
+Ministral 3 8B,SCORE,The Ivy,3.190666376811594,115,three_level,"(Positive, +0.19)",2
+Ministral 3 8B,SCORE,The Wolseley,3.138497050147492,113,three_level,"(Positive, +0.14)",3
+Ministral 3 8B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.1086075268817206,93,three_level,"(Positive, +0.11)",4
+Ornith 35B,LABEL-5,J. Sheekey,3.265411522633745,81,three_level,"(Positive, +0.27)",1
+Ornith 35B,LABEL-5,The Ivy,3.2006956521739127,115,three_level,"(Positive, +0.20)",2
+Ornith 35B,LABEL-5,The Wolseley,3.0831858407079644,113,three_level,"(Positive, +0.08)",3
+Ornith 35B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.038709677419355,93,three_level,"(Positive, +0.04)",4
+Ornith 35B,LABEL-7,J. Sheekey,4.723991769547325,81,three_level,"(Very Positive, -0.28)",1
+Ornith 35B,LABEL-7,The Ivy,4.628115942028986,115,three_level,"(Very Positive, -0.37)",2
+Ornith 35B,LABEL-7,The Wolseley,4.48429203539823,113,three_level,"(Positive, +0.48)",3
+Ornith 35B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.336559139784947,93,three_level,"(Positive, +0.34)",4
+Ornith 35B,SCORE,J. Sheekey,3.3448580246913577,81,three_level,"(Positive, +0.34)",1
+Ornith 35B,SCORE,The Ivy,3.2623623188405797,115,three_level,"(Positive, +0.26)",2
+Ornith 35B,SCORE,The Wolseley,3.1730250737463126,113,three_level,"(Positive, +0.17)",3
+Ornith 35B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.127956989247312,93,three_level,"(Positive, +0.13)",4
+Qwen 3.6 35B,LABEL-5,J. Sheekey,3.310761316872428,81,three_level,"(Positive, +0.31)",1
+Qwen 3.6 35B,LABEL-5,The Ivy,3.27331884057971,115,three_level,"(Positive, +0.27)",2
+Qwen 3.6 35B,LABEL-5,The Wolseley,3.113852015732547,113,three_level,"(Positive, +0.11)",3
+Qwen 3.6 35B,LABEL-5,"Oxo Tower Restaurant, Bar and Brasserie",3.054301075268817,93,three_level,"(Positive, +0.05)",4
+Qwen 3.6 35B,LABEL-7,J. Sheekey,4.818518518518519,81,three_level,"(Very Positive, -0.18)",1
+Qwen 3.6 35B,LABEL-7,The Ivy,4.740826086956522,115,three_level,"(Very Positive, -0.26)",2
+Qwen 3.6 35B,LABEL-7,The Wolseley,4.593756145526057,113,three_level,"(Very Positive, -0.41)",3
+Qwen 3.6 35B,LABEL-7,"Oxo Tower Restaurant, Bar and Brasserie",4.449462365591398,93,three_level,"(Positive, +0.45)",4
+Qwen 3.6 35B,SCORE,J. Sheekey,3.342625514403292,81,three_level,"(Positive, +0.34)",1
+Qwen 3.6 35B,SCORE,The Ivy,3.2632666666666665,115,three_level,"(Positive, +0.26)",2
+Qwen 3.6 35B,SCORE,The Wolseley,3.1713510324483773,113,three_level,"(Positive, +0.17)",3
+Qwen 3.6 35B,SCORE,"Oxo Tower Restaurant, Bar and Brasserie",3.136236559139785,93,three_level,"(Positive, +0.14)",4

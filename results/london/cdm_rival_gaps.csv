@@ -1,0 +1,49 @@
+model,scheme,hierarchy,crowd_mode,kind,upper,lower,upper_rank,lower_rank,gap,gap_lo,gap_hi,le0_pct,distinguished,replicas
+Gemma 4 31B,LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.07733,-0.17094,0.32117,27.41,False,20000
+Gemma 4 31B,LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,3,0.27142,-0.047,0.58477,4.7,False,20000
+Gemma 4 31B,LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,4,0.2943,0.01591,0.56427,1.96,True,20000
+Gemma 4 31B,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.07733,-0.17094,0.32117,27.41,False,20000
+Gemma 4 31B,LABEL-5,two_level,experts,adjacent,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,3,0.19409,-0.09681,0.48847,9.69,False,20000
+Gemma 4 31B,LABEL-5,two_level,experts,adjacent,"Oxo Tower Restaurant, Bar and Brasserie",The Wolseley,3,4,0.02288,-0.29075,0.32467,43.91,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,The Ivy,J. Sheekey,1,2,0.01712,-0.22723,0.26944,44.31,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,The Ivy,The Wolseley,1,3,0.13665,-0.08796,0.36242,11.77,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.1393,-0.15288,0.42727,17.44,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,The Ivy,J. Sheekey,1,2,0.01712,-0.22723,0.26944,44.31,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Wolseley,2,3,0.11953,-0.15356,0.384,19.54,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00266,-0.28263,0.29039,49.84,False,20000
+GPT-5.2,LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.13362,-0.12589,0.38271,15.32,False,20000
+GPT-5.2,LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,3,0.22234,-0.07178,0.50339,6.77,False,20000
+GPT-5.2,LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.30273,-0.02589,0.61697,3.62,False,20000
+GPT-5.2,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.13362,-0.12589,0.38271,15.32,False,20000
+GPT-5.2,LABEL-5,two_level,experts,adjacent,The Ivy,The Wolseley,2,3,0.08873,-0.13896,0.31725,22.14,False,20000
+GPT-5.2,LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.08039,-0.21719,0.38171,30.11,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.02362,-0.18241,0.22034,41.52,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,3,0.13963,-0.09236,0.36439,11.95,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.14048,-0.13227,0.39883,15.0,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.02362,-0.18241,0.22034,41.52,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,The Ivy,The Wolseley,2,3,0.11601,-0.07744,0.30883,12.11,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00085,-0.2388,0.24217,50.14,False,20000
+Ornith 35B,LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.06486,-0.15563,0.28198,28.29,False,20000
+Ornith 35B,LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,3,0.22761,-0.03162,0.48152,4.18,False,20000
+Ornith 35B,LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.26632,-0.01601,0.54406,3.19,False,20000
+Ornith 35B,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.06486,-0.15563,0.28198,28.29,False,20000
+Ornith 35B,LABEL-5,two_level,experts,adjacent,The Ivy,The Wolseley,2,3,0.16275,-0.02445,0.35154,4.55,False,20000
+Ornith 35B,LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.0387,-0.23862,0.31653,39.57,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.03555,-0.19447,0.26124,38.19,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,3,0.24045,-0.02826,0.49887,4.0,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.2938,-0.00628,0.59144,2.79,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.03555,-0.19447,0.26124,38.19,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,The Ivy,The Wolseley,2,3,0.20491,0.00728,0.40363,2.08,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.05335,-0.24089,0.34964,36.7,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,J. Sheekey,The Ivy,1,2,0.03685,-0.18643,0.25468,37.39,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,J. Sheekey,The Wolseley,1,3,0.2043,-0.04981,0.45008,5.73,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.21884,-0.06601,0.4989,6.69,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,J. Sheekey,The Ivy,1,2,0.03685,-0.18643,0.25468,37.39,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,The Ivy,The Wolseley,2,3,0.16746,-0.02614,0.3629,4.66,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.01454,-0.25876,0.2891,46.27,False,20000
+Stars (reference),LABEL-5,two_level,experts,winner,The Ivy,J. Sheekey,1,2,0.01045,-0.16948,0.20385,45.57,False,20000
+Stars (reference),LABEL-5,two_level,experts,winner,The Ivy,The Wolseley,1,3,0.23518,0.06579,0.40414,0.25,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.36031,0.15206,0.57428,0.04,True,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,The Ivy,J. Sheekey,1,2,0.01045,-0.16948,0.20385,45.57,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,J. Sheekey,The Wolseley,2,3,0.22473,0.00469,0.4319,2.31,True,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.12514,-0.12474,0.37136,16.23,False,20000

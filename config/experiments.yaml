@@ -1,0 +1,53 @@
+# The elicitation schemes: prompt, temperature, output cap and reasoning
+# switch, as sent with every request.
+#
+#   single_score_v2_t1  -> SCORE    (a number in [-1, 1])
+#   single_label_7c_t1  -> LABEL-7  (seven labels)
+#   single_label_5c_t1  -> LABEL-5  (five labels; the reported scheme)
+#   single_label_5c_t0  -> LABEL-5 under greedy decoding
+#
+# The label vocabularies must match utils/parsing.py. `think: false` disables
+# the reasoning trace on reasoning-capable models; it is pinned here, and
+# recorded in every run, because the provider default has moved.
+
+single_score_v2_t1:
+  description: "Single score sentiment classification using a score between -1 and 1"
+  response_type: score
+  system_prompt: ""
+  user_template: "Classify the sentiment of the following text using a score between -1 and 1, where -1 represents a completely negative sentiment, 0 a neutral sentiment and 1 a completely positive sentiment. The response must be only the score:\n {review}"
+  temperature: 1.0
+  max_tokens: 2048
+  think: false
+
+single_label_7c_t1:
+  description: "Single word sentiment classification using 7 labels"
+  response_type: label_7
+  system_prompt: ""
+  user_template: "Classify the sentiment of the following text as extremely_positive, very_positive, positive, neutral, negative, very_negative or extremely_negative, the answer must be a single label:\n {review}"
+  temperature: 1.0
+  max_tokens: 2048
+  think: false
+
+single_label_5c_t1:
+  description: "Single word sentiment classification using 5 labels"
+  response_type: label_5
+  system_prompt: ""
+  user_template: "Classify the sentiment of the following text as very_positive, positive, neutral, negative or very_negative, the answer must be a single label and one word:\n {review}"
+  temperature: 1.0
+  max_tokens: 2048
+  think: false
+
+# Temperature contrast. Identical to single_label_5c_t1 in every respect except
+# the sampling temperature, so the difference between the two collections is
+# attributable to sampling and nothing else. Greedy decoding is not the same as
+# a deterministic system: batching, kernel selection and tie-breaking inside the
+# sampler still leave run-to-run differences, which is precisely the quantity
+# this collection is for.
+single_label_5c_t0:
+  description: "Single word sentiment classification using 5 labels, greedy decoding"
+  response_type: label_5
+  system_prompt: ""
+  user_template: "Classify the sentiment of the following text as very_positive, positive, neutral, negative or very_negative, the answer must be a single label and one word:\n {review}"
+  temperature: 0.0
+  max_tokens: 2048
+  think: false

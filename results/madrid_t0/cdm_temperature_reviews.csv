@@ -1,0 +1,4 @@
+model,n,pearson_r,mean_abs_diff
+Gemma 4 E4B,600,0.9828,0.0815
+Ministral 3 8B,599,0.9483,0.1998
+Qwen 3.6 35B,600,0.9833,0.0877

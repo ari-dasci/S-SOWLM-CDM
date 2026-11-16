@@ -1,0 +1,8 @@
+review_id,model,runs,labels,beta,two_tuple
+review-300,Gemma 4 E4B,10.0,4 4 4 4 3 3 4 4 4 3,3.7,"(Very Positive, -0.30)"
+review-300,Ministral 3 8B,10.0,1 1 1 1 1 1 1 1 2 1,1.1,"(Negative, +0.10)"
+review-300,Gemma 4 31B,10.0,3 3 3 3 3 3 3 3 3 3,3.0,"(Positive, +0.00)"
+review-300,Ornith 35B,10.0,3 3 3 3 3 4 4 3 3 3,3.2,"(Positive, +0.20)"
+review-300,Qwen 3.6 35B,10.0,3 3 3 3 3 3 3 3 3 3,3.0,"(Positive, +0.00)"
+review-300,GPT-5.2,10.0,3 3 3 3 3 3 3 3 3 3,3.0,"(Positive, +0.00)"
+review-300,Fusion (open-weight),,,2.8,"(Positive, -0.20)"

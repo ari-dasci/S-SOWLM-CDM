@@ -1,0 +1,13 @@
+model,scheme,n,domain,pearson_r,spearman_rho,bias_beta,mad_beta,same_term_pct
+Gemma 4 E4B,SCORE,600,"y [-1,1]",0.8512,0.67,,,
+Gemma 4 E4B,LABEL-7,600,"y [-1,1]",0.8089,0.6576,,,
+Gemma 4 E4B,LABEL-5,600,beta (5-point),0.8145,0.6441,-0.2408,0.3615,67.8
+Ministral 3 8B,SCORE,600,"y [-1,1]",0.8487,0.6643,,,
+Ministral 3 8B,LABEL-7,600,"y [-1,1]",0.8073,0.6182,,,
+Ministral 3 8B,LABEL-5,600,beta (5-point),0.7801,0.609,-0.6146,0.6823,36.5
+Qwen 3.6 35B,SCORE,600,"y [-1,1]",0.8651,0.6882,,,
+Qwen 3.6 35B,LABEL-7,600,"y [-1,1]",0.8775,0.7099,,,
+Qwen 3.6 35B,LABEL-5,600,beta (5-point),0.8706,0.7049,-0.0057,0.242,78.5
+Fusion (open-weight),SCORE,600,"y [-1,1]",0.8628,0.6837,,,
+Fusion (open-weight),LABEL-7,600,"y [-1,1]",0.8585,0.6684,,,
+Fusion (open-weight),LABEL-5,600,beta (5-point),0.8534,0.6601,-0.287,0.4219,68.0

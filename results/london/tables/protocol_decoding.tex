@@ -1,0 +1,18 @@
+\begin{table*}[htbp]
+\centering
+\caption{Decoding parameters. \emph{Request} is what the runner set on every call; temperature, the 2{,}048-token cap and \texttt{think} come from the scheme (Table~\ref{tab:prompts}). \emph{Model defaults} are the Modelfile parameters the runtime applied to everything else, as \texttt{ollama show --parameters} reports them; they belong to the manifest, so they are given only where the digest recorded at collection is still the one installed, and are otherwise unrecorded. A request temperature overrides the Modelfile's. The hosted reference used its provider's defaults.}
+\label{tab:decoding}
+\small
+\begin{tabular}{lllp{0.42\textwidth}}
+\toprule
+\textbf{System} & \textbf{Digest} & \textbf{Request} & \textbf{Model defaults} \\
+\midrule
+  Gemma 4 E4B & \texttt{c6eb396dbd59} & think unrecorded & \texttt{unrecorded} \\
+  Ministral 3 8B & \texttt{1922accd5827} & think off & \texttt{temperature=0.15} \\
+  Gemma 4 31B & \texttt{6316f0629137} & think off & \texttt{temperature=1; top\_k=64; top\_p=0.95} \\
+  Ornith 35B & \texttt{5a470e0f652c} & think off & \texttt{temperature=0.6; top\_k=20; top\_p=0.95} \\
+  Qwen 3.6 35B & \texttt{07d35212591f} & think off & \texttt{temperature=1; top\_k=20; top\_p=0.95; min\_p=0; presence\_penalty=1.5; repeat\_penalty=1} \\
+  GPT-5.2 & -- & think unrecorded & provider default \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,43 @@
+operator,hierarchy,model,scheme,placement,winner,order,tau_vs_uniform
+two_tuple,two_level,Gemma 4 31B,LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 31B,LABEL-7,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 31B,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 31B,LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",1.0
+two_tuple,two_level,Gemma 4 31B,LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",1.0
+two_tuple,two_level,Gemma 4 31B,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.666667
+two_tuple,two_level,Gemma 4 E4B,LABEL-7,uniform,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 E4B,LABEL-7,compressed,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 E4B,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.666667
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,uniform,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,compressed,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",0.333333
+two_tuple,two_level,GPT-5.2,LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,GPT-5.2,LABEL-7,compressed,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.666667
+two_tuple,two_level,GPT-5.2,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,GPT-5.2,LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,GPT-5.2,LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,GPT-5.2,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-7,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ministral 3 8B,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",0.666667
+two_tuple,two_level,Ornith 35B,LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ornith 35B,LABEL-7,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ornith 35B,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ornith 35B,LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ornith 35B,LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Ornith 35B,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-7,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-7,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-7,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-7,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-5,uniform,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-5,compressed,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0
+two_tuple,two_level,Fusion (open-weight),LABEL-5,stretched,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",1.0

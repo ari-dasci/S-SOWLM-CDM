@@ -1,0 +1,20 @@
+\begin{table*}[htbp]
+\centering
+\caption{Provenance of the served models. Tag is the identifier passed to the runtime and Digest the manifest hash the runtime resolved that tag to on 2026-07-31, when this table was captured; the tag is mutable and the digest identifies the weights. For Gemma 4 E4B, collected before that date, the digest does not establish which weights were used. Parameters and quantization are as the runtime reports them, not as the model card advertises them. Trace is the reasoning-trace setting recorded in the run records. Systems served through a hosted API carry none of these and are omitted; their identifier is the dated model string in Section~\ref{sec:protocol}.}
+\label{tab:provenance}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllrrll}
+\toprule
+\textbf{Model} & \textbf{Tag} & \textbf{Digest} & \textbf{Architecture} & \textbf{Params} & \textbf{Ctx} & \textbf{Quant.} & \textbf{Trace} \\
+\midrule
+  Gemma 4 E4B & \texttt{gemma4:e4b} & \texttt{c6eb396dbd59} & \texttt{gemma4} & 8.0B & 131072 & Q4\_K\_M & unrecorded \\
+  Ministral 3 8B & \texttt{ministral-3:8b} & \texttt{1922accd5827} & \texttt{mistral3} & 8.9B & 262144 & Q4\_K\_M & False \\
+  Gemma 4 31B & \texttt{gemma4:31b} & \texttt{6316f0629137} & \texttt{gemma4} & 31.3B & 262144 & Q4\_K\_M & False \\
+  Ornith 35B & \texttt{ornith:35b} & \texttt{5a470e0f652c} & \texttt{qwen35moe} & 34.7B & 262144 & Q4\_K\_M & False \\
+  Qwen 3.6 35B & \texttt{qwen3.6:35b} & \texttt{07d35212591f} & \texttt{qwen35moe} & 36.0B & 262144 & Q4\_K\_M & False \\
+\bottomrule
+\end{tabular}%
+}
+\\[2pt]\footnotesize Serving stack: Ollama 0.31.1, NVIDIA GeForce RTX 5090, NVIDIA driver 610.43.03.
+\end{table*}

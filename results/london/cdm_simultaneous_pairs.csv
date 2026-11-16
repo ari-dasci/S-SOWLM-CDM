@@ -1,0 +1,97 @@
+model,scheme,crowd_mode,method,i,j,i_rank,j_rank,gap_full,se,lo_simult,hi_simult,excluded_by
+Gemma 4 31B,LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.07733,0.12607,-0.24581,0.40047,False
+Gemma 4 31B,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,3,0.27142,0.16042,-0.13975,0.68258,False
+Gemma 4 31B,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,4,0.2943,0.14044,-0.06565,0.65425,False
+Gemma 4 31B,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,3,0.19409,0.14916,-0.18823,0.57641,False
+Gemma 4 31B,LABEL-5,experts,max_t,The Ivy,The Wolseley,2,4,0.21697,0.11047,-0.06618,0.50013,False
+Gemma 4 31B,LABEL-5,experts,max_t,"Oxo Tower Restaurant, Bar and Brasserie",The Wolseley,3,4,0.02288,0.15573,-0.37628,0.42205,False
+Gemma 4 E4B,LABEL-5,experts,max_t,The Ivy,J. Sheekey,1,2,0.01712,0.12693,-0.30896,0.3432,False
+Gemma 4 E4B,LABEL-5,experts,max_t,The Ivy,The Wolseley,1,3,0.13665,0.11461,-0.15778,0.43108,False
+Gemma 4 E4B,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.1393,0.14769,-0.24008,0.51869,False
+Gemma 4 E4B,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,2,3,0.11953,0.13762,-0.23401,0.47307,False
+Gemma 4 E4B,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.12218,0.15454,-0.27481,0.51917,False
+Gemma 4 E4B,LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00266,0.14608,-0.37261,0.37792,False
+GPT-5.2,LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.13362,0.12952,-0.19923,0.46646,False
+GPT-5.2,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,3,0.22234,0.14683,-0.15498,0.59967,False
+GPT-5.2,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.30273,0.16502,-0.12134,0.72681,False
+GPT-5.2,LABEL-5,experts,max_t,The Ivy,The Wolseley,2,3,0.08873,0.11624,-0.20999,0.38744,False
+GPT-5.2,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.16912,0.15034,-0.21723,0.55546,False
+GPT-5.2,LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.08039,0.15185,-0.30983,0.47061,False
+Ministral 3 8B,LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.02362,0.1033,-0.24204,0.28929,False
+Ministral 3 8B,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,3,0.13963,0.11628,-0.15941,0.43867,False
+Ministral 3 8B,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.14048,0.1342,-0.20466,0.48563,False
+Ministral 3 8B,LABEL-5,experts,max_t,The Ivy,The Wolseley,2,3,0.11601,0.09861,-0.13759,0.36961,False
+Ministral 3 8B,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.11686,0.1139,-0.17607,0.40979,False
+Ministral 3 8B,LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00085,0.1221,-0.31316,0.31486,False
+Ornith 35B,LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.06486,0.11247,-0.22399,0.35372,False
+Ornith 35B,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,3,0.22761,0.1305,-0.10756,0.56278,False
+Ornith 35B,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.26632,0.14256,-0.09984,0.63247,False
+Ornith 35B,LABEL-5,experts,max_t,The Ivy,The Wolseley,2,3,0.16275,0.09673,-0.08569,0.41118,False
+Ornith 35B,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.20145,0.13102,-0.13504,0.53795,False
+Ornith 35B,LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.0387,0.14038,-0.32185,0.39925,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.03555,0.11714,-0.26432,0.33542,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,3,0.24045,0.13469,-0.10436,0.58527,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.2938,0.15181,-0.09482,0.68242,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,The Ivy,The Wolseley,2,3,0.20491,0.1017,-0.05544,0.46525,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.25826,0.13857,-0.09649,0.613,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.05335,0.14928,-0.3288,0.4355,False
+Fusion (open-weight),LABEL-5,experts,max_t,J. Sheekey,The Ivy,1,2,0.03685,0.11272,-0.25204,0.32574,False
+Fusion (open-weight),LABEL-5,experts,max_t,J. Sheekey,The Wolseley,1,3,0.2043,0.12753,-0.12254,0.53114,False
+Fusion (open-weight),LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.21884,0.14411,-0.1505,0.58818,False
+Fusion (open-weight),LABEL-5,experts,max_t,The Ivy,The Wolseley,2,3,0.16746,0.10023,-0.08941,0.42432,False
+Fusion (open-weight),LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.18199,0.13179,-0.15576,0.51974,False
+Fusion (open-weight),LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.01454,0.13875,-0.34108,0.37015,False
+Stars (reference),LABEL-5,experts,max_t,The Ivy,J. Sheekey,1,2,0.01045,0.09627,-0.23518,0.25608,False
+Stars (reference),LABEL-5,experts,max_t,The Ivy,The Wolseley,1,3,0.23518,0.08676,0.01381,0.45654,True
+Stars (reference),LABEL-5,experts,max_t,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.36031,0.10859,0.08324,0.63738,True
+Stars (reference),LABEL-5,experts,max_t,J. Sheekey,The Wolseley,2,3,0.22473,0.10927,-0.05408,0.50353,False
+Stars (reference),LABEL-5,experts,max_t,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.34986,0.1273,0.02506,0.67467,True
+Stars (reference),LABEL-5,experts,max_t,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.12514,0.12613,-0.1967,0.44698,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.07733,0.12607,-0.29446,0.44911,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,3,0.27142,0.16042,-0.10037,0.6432,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,4,0.2943,0.14044,-0.07748,0.66608,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,3,0.19409,0.14916,-0.17769,0.56587,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,4,0.21697,0.11047,-0.15481,0.58875,False
+Gemma 4 31B,LABEL-5,experts,percentile_max,"Oxo Tower Restaurant, Bar and Brasserie",The Wolseley,3,4,0.02288,0.15573,-0.3489,0.39466,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,The Ivy,J. Sheekey,1,2,0.01712,0.12693,-0.34526,0.3795,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,1,3,0.13665,0.11461,-0.22573,0.49903,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.1393,0.14769,-0.22308,0.50168,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,2,3,0.11953,0.13762,-0.24285,0.48191,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.12218,0.15454,-0.2402,0.48456,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00266,0.14608,-0.35973,0.36504,False
+GPT-5.2,LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.13362,0.12952,-0.24288,0.51011,False
+GPT-5.2,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,3,0.22234,0.14683,-0.15415,0.59884,False
+GPT-5.2,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.30273,0.16502,-0.07376,0.67923,False
+GPT-5.2,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,3,0.08873,0.11624,-0.28777,0.46522,False
+GPT-5.2,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.16912,0.15034,-0.20738,0.54561,False
+GPT-5.2,LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.08039,0.15185,-0.2961,0.45689,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.02362,0.1033,-0.27843,0.32568,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,3,0.13963,0.11628,-0.16242,0.44169,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.14048,0.1342,-0.16157,0.44254,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,3,0.11601,0.09861,-0.18604,0.41806,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.11686,0.1139,-0.18519,0.41891,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.00085,0.1221,-0.3012,0.3029,False
+Ornith 35B,LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.06486,0.11247,-0.26922,0.39895,False
+Ornith 35B,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,3,0.22761,0.1305,-0.10647,0.56169,False
+Ornith 35B,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.26632,0.14256,-0.06776,0.6004,False
+Ornith 35B,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,3,0.16275,0.09673,-0.17133,0.49683,False
+Ornith 35B,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.20145,0.13102,-0.13263,0.53553,False
+Ornith 35B,LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.0387,0.14038,-0.29538,0.37278,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.03555,0.11714,-0.31762,0.38871,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,3,0.24045,0.13469,-0.11271,0.59362,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.2938,0.15181,-0.05936,0.64697,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,3,0.20491,0.1017,-0.14826,0.55808,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.25826,0.13857,-0.09491,0.61143,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.05335,0.14928,-0.29982,0.40652,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,J. Sheekey,The Ivy,1,2,0.03685,0.11272,-0.29619,0.36989,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,1,3,0.2043,0.12753,-0.12873,0.53734,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.21884,0.14411,-0.1142,0.55188,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,The Ivy,The Wolseley,2,3,0.16746,0.10023,-0.16558,0.50049,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.18199,0.13179,-0.15105,0.51503,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.01454,0.13875,-0.3185,0.34757,False
+Stars (reference),LABEL-5,experts,percentile_max,The Ivy,J. Sheekey,1,2,0.01045,0.09627,-0.28025,0.30115,False
+Stars (reference),LABEL-5,experts,percentile_max,The Ivy,The Wolseley,1,3,0.23518,0.08676,-0.05552,0.52588,False
+Stars (reference),LABEL-5,experts,percentile_max,The Ivy,"Oxo Tower Restaurant, Bar and Brasserie",1,4,0.36031,0.10859,0.06961,0.65101,True
+Stars (reference),LABEL-5,experts,percentile_max,J. Sheekey,The Wolseley,2,3,0.22473,0.10927,-0.06597,0.51543,False
+Stars (reference),LABEL-5,experts,percentile_max,J. Sheekey,"Oxo Tower Restaurant, Bar and Brasserie",2,4,0.34986,0.1273,0.05916,0.64056,True
+Stars (reference),LABEL-5,experts,percentile_max,The Wolseley,"Oxo Tower Restaurant, Bar and Brasserie",3,4,0.12514,0.12613,-0.16556,0.41584,False

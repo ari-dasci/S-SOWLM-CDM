@@ -1,0 +1,7 @@
+model,n,missing,mean_s,median_s,p95_s,total_s,source,remeasured_n
+Gemma 4 E4B,14220,14220,0.346,0.3,0.503,,remeasured,171.0
+Ministral 3 8B,14220,0,0.135,0.134,0.149,1915.0,instrumented,
+Gemma 4 31B,14220,0,0.318,0.317,0.38,4525.4,instrumented,
+Ornith 35B,14220,0,0.165,0.161,0.206,2340.3,instrumented,
+Qwen 3.6 35B,14220,0,0.19,0.186,0.236,2708.5,instrumented,
+GPT-5.2,14220,14220,,,,,none,

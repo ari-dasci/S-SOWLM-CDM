@@ -1,0 +1,67 @@
+i,j,gap_stars,gap_fusion,diff,lo,hi
+Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,0.12,0.058,0.062,-0.053,0.18
+Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,0.18,0.1258,0.0542,-0.07,0.186
+Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,0.18,0.1804,-0.0004,-0.141,0.141
+Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,0.28,0.2351,0.0449,-0.074,0.174
+Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,0.4,0.3205,0.0795,-0.063,0.231
+Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,0.4,0.4569,-0.0569,-0.214,0.098
+Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,0.42,0.4811,-0.0611,-0.22,0.098
+Zenith Brunch & Cocktails - Valverde,Rosi La Loca,0.62,0.5391,0.0809,-0.063,0.235
+Zenith Brunch & Cocktails - Valverde,Restaurante Botin,0.64,0.6992,-0.0592,-0.232,0.109
+Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,0.7,0.6713,0.0287,-0.162,0.215
+Zenith Brunch & Cocktails - Valverde,La Barraca,1.16,1.034,0.126,-0.052,0.306
+Los Montes de Galicia,Taberna Mas Al Sur,0.06,0.0679,-0.0079,-0.138,0.129
+Los Montes de Galicia,Meson Restaurante La Mi Venta,0.06,0.1224,-0.0624,-0.207,0.081
+Los Montes de Galicia,Inclan Brutal Bar,0.16,0.1771,-0.0171,-0.142,0.112
+Los Montes de Galicia,Oven Mozzarella Fuencarral,0.28,0.2626,0.0174,-0.131,0.172
+Los Montes de Galicia,La Cabana Argentina,0.28,0.3989,-0.1189,-0.279,0.044
+Los Montes de Galicia,Oven Mozzarella Gran Via 6,0.3,0.4232,-0.1232,-0.284,0.037
+Los Montes de Galicia,Rosi La Loca,0.5,0.4812,0.0188,-0.13,0.178
+Los Montes de Galicia,Restaurante Botin,0.52,0.6412,-0.1212,-0.299,0.052
+Los Montes de Galicia,Mercado de San Miguel,0.58,0.6134,-0.0334,-0.225,0.153
+Los Montes de Galicia,La Barraca,1.04,0.976,0.064,-0.117,0.248
+Taberna Mas Al Sur,Meson Restaurante La Mi Venta,0.0,0.0546,-0.0546,-0.214,0.097
+Taberna Mas Al Sur,Inclan Brutal Bar,0.1,0.1093,-0.0093,-0.147,0.131
+Taberna Mas Al Sur,Oven Mozzarella Fuencarral,0.22,0.1947,0.0253,-0.137,0.191
+Taberna Mas Al Sur,La Cabana Argentina,0.22,0.3311,-0.1111,-0.282,0.058
+Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,0.24,0.3553,-0.1153,-0.288,0.055
+Taberna Mas Al Sur,Rosi La Loca,0.44,0.4133,0.0267,-0.134,0.194
+Taberna Mas Al Sur,Restaurante Botin,0.46,0.5734,-0.1134,-0.301,0.067
+Taberna Mas Al Sur,Mercado de San Miguel,0.52,0.5455,-0.0255,-0.225,0.169
+Taberna Mas Al Sur,La Barraca,0.98,0.9081,0.0719,-0.12,0.263
+Meson Restaurante La Mi Venta,Inclan Brutal Bar,0.1,0.0547,0.0453,-0.103,0.197
+Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,0.22,0.1401,0.0799,-0.09,0.254
+Meson Restaurante La Mi Venta,La Cabana Argentina,0.22,0.2765,-0.0565,-0.233,0.122
+Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,0.24,0.3007,-0.0607,-0.238,0.12
+Meson Restaurante La Mi Venta,Rosi La Loca,0.44,0.3587,0.0813,-0.088,0.254
+Meson Restaurante La Mi Venta,Restaurante Botin,0.46,0.5188,-0.0588,-0.254,0.132
+Meson Restaurante La Mi Venta,Mercado de San Miguel,0.52,0.4909,0.0291,-0.183,0.233
+Meson Restaurante La Mi Venta,La Barraca,0.98,0.8536,0.1264,-0.072,0.328
+Inclan Brutal Bar,Oven Mozzarella Fuencarral,0.12,0.0854,0.0346,-0.123,0.192
+Inclan Brutal Bar,La Cabana Argentina,0.12,0.2218,-0.1018,-0.271,0.06
+Inclan Brutal Bar,Oven Mozzarella Gran Via 6,0.14,0.246,-0.106,-0.274,0.059
+Inclan Brutal Bar,Rosi La Loca,0.34,0.304,0.036,-0.11,0.187
+Inclan Brutal Bar,Restaurante Botin,0.36,0.4641,-0.1041,-0.289,0.073
+Inclan Brutal Bar,Mercado de San Miguel,0.42,0.4362,-0.0162,-0.215,0.174
+Inclan Brutal Bar,La Barraca,0.88,0.7989,0.0811,-0.104,0.266
+Oven Mozzarella Fuencarral,La Cabana Argentina,0.0,0.1364,-0.1364,-0.324,0.048
+Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,0.02,0.1606,-0.1406,-0.327,0.042
+Oven Mozzarella Fuencarral,Rosi La Loca,0.22,0.2186,0.0014,-0.175,0.183
+Oven Mozzarella Fuencarral,Restaurante Botin,0.24,0.3787,-0.1387,-0.339,0.055
+Oven Mozzarella Fuencarral,Mercado de San Miguel,0.3,0.3508,-0.0508,-0.265,0.156
+Oven Mozzarella Fuencarral,La Barraca,0.76,0.7134,0.0466,-0.158,0.254
+La Cabana Argentina,Oven Mozzarella Gran Via 6,0.02,0.0242,-0.0042,-0.197,0.187
+La Cabana Argentina,Rosi La Loca,0.22,0.0822,0.1378,-0.044,0.324
+La Cabana Argentina,Restaurante Botin,0.24,0.2423,-0.0023,-0.21,0.198
+La Cabana Argentina,Mercado de San Miguel,0.3,0.2144,0.0856,-0.137,0.304
+La Cabana Argentina,La Barraca,0.76,0.5771,0.1829,-0.024,0.396
+Oven Mozzarella Gran Via 6,Rosi La Loca,0.2,0.058,0.142,-0.043,0.333
+Oven Mozzarella Gran Via 6,Restaurante Botin,0.22,0.2181,0.0019,-0.204,0.206
+Oven Mozzarella Gran Via 6,Mercado de San Miguel,0.28,0.1902,0.0898,-0.135,0.302
+Oven Mozzarella Gran Via 6,La Barraca,0.74,0.5529,0.1871,-0.022,0.4
+Rosi La Loca,Restaurante Botin,0.02,0.1601,-0.1401,-0.344,0.057
+Rosi La Loca,Mercado de San Miguel,0.08,0.1322,-0.0522,-0.269,0.157
+Rosi La Loca,La Barraca,0.54,0.4948,0.0452,-0.159,0.245
+Restaurante Botin,Mercado de San Miguel,0.06,-0.0279,0.0879,-0.144,0.314
+Restaurante Botin,La Barraca,0.52,0.3348,0.1852,-0.035,0.411
+Mercado de San Miguel,La Barraca,0.46,0.3626,0.0974,-0.134,0.336

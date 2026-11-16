@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.claude/
+.stfolder/
+
+# Manuscript sources: the paper is distributed by the publisher.
+paper/
+
+# Run JSON and logs of a collection in progress (scripts/collect.sh); the
+# record of the reported runs is raw/.
+collected/
+logs/
+
+# The Zenodo release data/sample_uniovi.py samples from.
+data/uniovi_tripadvisor/

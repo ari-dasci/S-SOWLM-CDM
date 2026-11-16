@@ -1,0 +1,182 @@
+model,raw_model_id,experiment,review_dir,run,review_idx,raw,reason
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-128,6,UID_55570393883D0CD5B93E979FAC848EFF_d731402,"**neutral** (with slight positive undertones)
+
+*(The response leans slightly positive but includes enough objective details—such as ""a bit of secret"" and comparative mentions—to keep the overall tone neutral rather than definitively uplifting.)*
+
+**Final label: neutral.**",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-190,0,UID_DD2A009E1454BF8037319D194020E1FF_d731402,neutral to **very_positive**,ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-22,1,UID_55570393883D0CD5B93E979FAC848EFF_d680501,"**neutral** (Note: The text does contain elements of enjoyment and pleasure, but the mention of expense (""not cheap"") introduces some reservation or pragmatic consideration.) Corrected with the appropriate single label:
+Very_positive",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-24,9,UID_EA03F72710C18DBD66CBA2E54BCF40BB_d680501,"**negative**
+(Though there are positive aspects (""service was good,"" ""view...excellent""), the inclusion of a critique (""went a few years back and had...""—implying disappointment in current experience compared to past) leans toward an overall negative tone.)*
+
+*(Correction: Upon re-reading, the phrasing implies a nostalgic but neutral/comparative sentiment with more positive emphasis. The correct label is **neutral**.)*
+
+---
+**neutral**
+(The text describes a past experience favorably while subtly suggesting the current setting fell short. The focus remains on the past’s positives, but the critique (“went back”) introduces ambiguity—too mixed for clear positive/negative. No extreme bias.)
+---",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-271,4,UID_DC017F05750F899D0D73BF7FE092ABCD_d776287,"**neutral** (The text leans slightly toward positive sentiment, but it lacks strong emotional intensity to justify labels like ""very_positive"" or ""extremely_positive"")",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-300,2,UID_0709854B3690EDFB10DFA2EB65D339F2_d776287,"**Sentiment: Neutral**
+
+*(Rationale: While the text has many positive notes, the inclusion of significant issues (tough octopus and steak) and critical comparisons (""very disappointing,"" ""could get... so wrong"") skew it from being primarily positive.)*",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-300,4,UID_0709854B3690EDFB10DFA2EB65D339F2_d776287,"**Sentiment: neutral**
+
+*(Note: The review mixes **mixed sentiments**—positive experiences outweigh the negative, but there is a **notable disappointment (the steak)**, keeping it from being clearly positive.)*",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-323,4,UID_411C3B860E4F975ECCF7E40C86353243_d776287,**Sentiment:** **very_negative** (due to significant dissatisfaction despite positive aspects),ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-334,5,UID_690331E3F12290291A756F24A880136D_d776287,"**neutral** *(but leaning toward **very_positive**)*
+
+*Note:* While ""neutral"" technically includes both positive and negative components (e.g., ""always looked after"" vs. implied no negatives), the overall context overwhelmingly skews positive. The strict single-label requirement defaults to **""neutral""** for balance, though **very_positive** would be more accurate if forced to choose. If you'd prefer a purely positive label in this case: **very_positive**.",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-389,6,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d719379,"neutral is incorrect here since the text clearly indicates positive sentiment.
+The appropriate classification for the given text is **very_positive**.",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_7c_t1,review-49,8,UID_9F2CD26D35173DE5EFF8E5C1B38A3E4E_d680501,"**neutral** (correction: after reconsideration based on context, the more accurate label is **very_positive**)",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-1,0,UID_208D1FF8BC4CF66CC786FD665F0E14B1_d680501,**fantastic**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-1,7,UID_208D1FF8BC4CF66CC786FD665F0E14B1_d680501,**Excellent.**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-1,9,UID_208D1FF8BC4CF66CC786FD665F0E14B1_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-108,6,UID_B9DF2EA33AC2F73A8D19D9BC59B81738_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-108,9,UID_B9DF2EA33AC2F73A8D19D9BC59B81738_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-109,1,UID_38458C382A9CC0752723FC381E3313FE_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-109,2,UID_38458C382A9CC0752723FC381E3313FE_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-109,4,UID_38458C382A9CC0752723FC381E3313FE_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-109,5,UID_38458C382A9CC0752723FC381E3313FE_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-109,7,UID_38458C382A9CC0752723FC381E3313FE_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,0,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,exciting,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,1,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,delighted,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,2,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,**exciting**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,3,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,exciting,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,6,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,exciting,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,7,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,exciting,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,8,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,exciting,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-111,9,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d731402,**exciting**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-128,2,UID_55570393883D0CD5B93E979FAC848EFF_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-128,3,UID_55570393883D0CD5B93E979FAC848EFF_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-128,5,UID_55570393883D0CD5B93E979FAC848EFF_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-128,7,UID_55570393883D0CD5B93E979FAC848EFF_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-153,9,UID_C5F2038AF599575492406C1F0D6E084E_d731402,improved,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,0,UID_98FC608BEEF1C61FC208837707279879_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,1,UID_98FC608BEEF1C61FC208837707279879_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,2,UID_98FC608BEEF1C61FC208837707279879_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,3,UID_98FC608BEEF1C61FC208837707279879_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,5,UID_98FC608BEEF1C61FC208837707279879_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,7,UID_98FC608BEEF1C61FC208837707279879_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,8,UID_98FC608BEEF1C61FC208837707279879_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-169,9,UID_98FC608BEEF1C61FC208837707279879_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-177,0,UID_290A3B763742BCDFE57D3ECFB7C50DFD_d731402,average,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-177,5,UID_290A3B763742BCDFE57D3ECFB7C50DFD_d731402,average,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-179,0,UID_AA2ED67B203B0859BAF9687323A59997_d731402,worth_it,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-179,7,UID_AA2ED67B203B0859BAF9687323A59997_d731402,**worthit**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-179,8,UID_AA2ED67B203B0859BAF9687323A59997_d731402,**worth_it**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-180,2,UID_9F42AD48C4873544245C5A816C49D42C_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-180,4,UID_9F42AD48C4873544245C5A816C49D42C_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-180,6,UID_9F42AD48C4873544245C5A816C49D42C_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-180,7,UID_9F42AD48C4873544245C5A816C49D42C_d731402,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-180,9,UID_9F42AD48C4873544245C5A816C49D42C_d731402,Excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-181,2,UID_40081C121C291BBE144150876966D762_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-181,7,UID_40081C121C291BBE144150876966D762_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-190,9,UID_DD2A009E1454BF8037319D194020E1FF_d731402,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-194,6,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d731402,fabulous,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-194,8,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d731402,fabulous,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-203,0,UID_B6CF9CB75FF2BF7FB4B8B13F54FDBF91_d731402,noisy,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-203,9,UID_B6CF9CB75FF2BF7FB4B8B13F54FDBF91_d731402,noisy,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-204,8,UID_65EE635AA60563F493C754D38BFB8A6C_d731402,**delighted**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-205,6,UID_0BFC7D5C2D0B9329C0ADF0EDCBE685A4_d731402,"**neutral**
+(Overall praise with minor negative detail)",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-207,2,UID_D0A58CC1C365059E3AD7A4863CA3B7E3_d731402,**mixed**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-229,3,UID_23622AA5E297FF32D989DF6A1F06787B_d776287,exquisite,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-229,5,UID_23622AA5E297FF32D989DF6A1F06787B_d776287,exquisite,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-229,6,UID_23622AA5E297FF32D989DF6A1F06787B_d776287,exquisite,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-230,0,UID_F9806A43C164A13146A2923161DE9E43_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-230,3,UID_F9806A43C164A13146A2923161DE9E43_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-230,7,UID_F9806A43C164A13146A2923161DE9E43_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-232,2,UID_208D1FF8BC4CF66CC786FD665F0E14B1_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-232,4,UID_208D1FF8BC4CF66CC786FD665F0E14B1_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-243,5,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d776287,glorious,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-249,1,UID_0BF4F44553962E24FC40E383794820CE_d776287,"**neutral**
+(Though slightly positive with qualified appreciation, the overall tone is tempered.)",ambiguous
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-264,9,UID_37B57DA046D2E5C226A7A2770F0A44E8_d776287,terrific,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-274,9,UID_02E1914022A97587D9E5B79B52A40003_d776287,exceptional,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-278,3,UID_4678E0AD33842832605038D3A23D8D86_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-278,5,UID_4678E0AD33842832605038D3A23D8D86_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-278,9,UID_4678E0AD33842832605038D3A23D8D86_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-282,7,UID_7C248AD6792EB7C921D00D028FCE6AC2_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-290,1,UID_E15E0FCCE5849285DB7AA9BB0C5EF8CC_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-296,9,UID_21B5375D832BE791A02469B2A490FDA9_d776287,**average**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-299,1,UID_0709854B3690EDFB10DFA2EB65D339F2_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-299,4,UID_0709854B3690EDFB10DFA2EB65D339F2_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-305,8,UID_A33FE81A1C1B8CEA593D3969EBE0698A_d776287,perfect,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-312,1,UID_FFC959C5C3232B151C12F34F98081F3A_d776287,**elegant**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-312,3,UID_FFC959C5C3232B151C12F34F98081F3A_d776287,elegant,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-312,6,UID_FFC959C5C3232B151C12F34F98081F3A_d776287,**elegant**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-312,7,UID_FFC959C5C3232B151C12F34F98081F3A_d776287,elegant,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-312,9,UID_FFC959C5C3232B151C12F34F98081F3A_d776287,elegant,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-313,0,UID_98FC608BEEF1C61FC208837707279879_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-313,2,UID_98FC608BEEF1C61FC208837707279879_d776287,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-313,6,UID_98FC608BEEF1C61FC208837707279879_d776287,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-313,7,UID_98FC608BEEF1C61FC208837707279879_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-321,2,UID_0C557FA56F67219E1A39EBC63E5CAB15_d776287,delightful,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-321,7,UID_0C557FA56F67219E1A39EBC63E5CAB15_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-321,9,UID_0C557FA56F67219E1A39EBC63E5CAB15_d776287,delightful,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-322,2,UID_0C557FA56F67219E1A39EBC63E5CAB15_d776287,perfect,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-323,0,UID_411C3B860E4F975ECCF7E40C86353243_d776287,disappointed,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-323,8,UID_411C3B860E4F975ECCF7E40C86353243_d776287,disappointed,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-332,7,UID_23A0D71C82E601F762C7D1DE667D4E50_d776287,disappointed,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-334,9,UID_690331E3F12290291A756F24A880136D_d776287,**best**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-341,2,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d776287,**enjoyable**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-341,3,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d776287,enjoyable,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-341,5,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d776287,enjoyable,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-341,8,UID_F3DA218BE5CF46C76B8D39E2CBF08FA2_d776287,enjoyable,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-346,9,UID_4629E8402AB22B33827911895FBEA896_d776287,superb,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-358,3,UID_9376D4BD59661B274B1E286B202502B8_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-358,9,UID_9376D4BD59661B274B1E286B202502B8_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-361,4,UID_9376D4BD59661B274B1E286B202502B8_d776287,delicious,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-366,4,UID_CA282456FEA5F95B43473C9A7AD6504E_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-366,8,UID_CA282456FEA5F95B43473C9A7AD6504E_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-366,9,UID_CA282456FEA5F95B43473C9A7AD6504E_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-375,8,UID_AB1210F3F6017938E422FFC1181CACE3_d776287,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-389,1,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d719379,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-389,2,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-389,6,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-389,7,UID_FFA89DFEF3C6BF554AF9CD37AA9D1A1A_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-392,2,UID_4418848C0132A92D49B45E4A7D0725C1_d719379,**informal**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-392,5,UID_4418848C0132A92D49B45E4A7D0725C1_d719379,informal,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-402,0,UID_38458C382A9CC0752723FC381E3313FE_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-403,0,UID_E47079B7BB42F2B540C193CAB0FC7F0C_d719379,wonderful,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-408,6,UID_710AFC795F15DAAD3B8151718EE0638E_d719379,**enjoyed**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-409,3,UID_37B57DA046D2E5C226A7A2770F0A44E8_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-409,4,UID_37B57DA046D2E5C226A7A2770F0A44E8_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-409,5,UID_37B57DA046D2E5C226A7A2770F0A44E8_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,0,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,**expensive**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,1,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,expensive,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,2,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,**expensive**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,3,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,expensive,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,4,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,**expensive**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,5,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,expensive,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-413,9,UID_9FC32E1E19706C0D069E88F436B775DD_d719379,expensive,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-441,3,UID_40081C121C291BBE144150876966D762_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-441,5,UID_40081C121C291BBE144150876966D762_d719379,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-456,2,UID_9376D4BD59661B274B1E286B202502B8_d719379,delightful,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-456,9,UID_9376D4BD59661B274B1E286B202502B8_d719379,delightful,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-466,8,UID_A3961A8942F2FB92C2502D014D83C4CD_d719379,superb,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-59,3,UID_9964A817851242794E86447A3F379632_d680501,amazing,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-59,9,UID_9964A817851242794E86447A3F379632_d680501,amazing,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-63,4,UID_9F42AD48C4873544245C5A816C49D42C_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-63,6,UID_9F42AD48C4873544245C5A816C49D42C_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,0,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,premium,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,2,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,premium,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,3,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,premium,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,4,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,premium,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,5,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,**premium**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-67,8,UID_6C0B5565F8A653C03B204F7FCE32E1CC_d680501,premium,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-71,6,UID_690331E3F12290291A756F24A880136D_d680501,recommend,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-80,4,UID_E6C20A71DBB80832BB03731DAA3E78B8_d680501,casual,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-84,8,UID_4629E8402AB22B33827911895FBEA896_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-93,0,UID_B571B45CD52A3D7ECB36BCFECB1585DF_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-93,2,UID_B571B45CD52A3D7ECB36BCFECB1585DF_d680501,**excellent**,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-93,4,UID_B571B45CD52A3D7ECB36BCFECB1585DF_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-93,5,UID_B571B45CD52A3D7ECB36BCFECB1585DF_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-93,9,UID_B571B45CD52A3D7ECB36BCFECB1585DF_d680501,excellent,no_label
+Ministral 3 8B,ministral-3:8b,single_label_5c_t1,review-98,0,UID_240E859B55300F2B30C5B0EB6032F57C_d731402,average,no_label
+Qwen 3.6 35B,qwen3.6:35b,single_label_7c_t1,review-107,8,UID_0BF4F44553962E24FC40E383794820CE_d731402,mixed,no_label
+Qwen 3.6 35B,qwen3.6:35b,single_label_5c_t1,review-105,6,UID_261B61FA39FE50C49D29F951BE6BAB52_d731402,mixed,no_label
+Qwen 3.6 35B,qwen3.6:35b,single_label_5c_t1,review-107,5,UID_0BF4F44553962E24FC40E383794820CE_d731402,mixed,no_label
+Qwen 3.6 35B,qwen3.6:35b,single_label_5c_t1,review-107,8,UID_0BF4F44553962E24FC40E383794820CE_d731402,mixed,no_label

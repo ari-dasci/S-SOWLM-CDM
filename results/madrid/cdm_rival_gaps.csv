@@ -1,0 +1,221 @@
+model,scheme,hierarchy,crowd_mode,kind,upper,lower,upper_rank,lower_rank,gap,gap_lo,gap_hi,le0_pct,distinguished,replicas
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,-0.17617,0.2715,39.92,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,-0.03595,0.34926,5.55,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,-0.02926,0.46777,4.46,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.01042,0.42682,1.93,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.20588,0.67242,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.23026,0.74218,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.26756,0.78494,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.29626,0.86365,0.01,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.5642,0.96621,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.53731,1.04839,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.77908,1.49399,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,-0.17617,0.2715,39.92,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,-0.14375,0.36667,17.96,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,-0.21385,0.33818,34.82,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,-0.28724,0.28231,48.16,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,-0.05472,0.49468,5.99,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,-0.26334,0.36419,37.74,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,-0.29667,0.36702,41.77,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,La Cabana Argentina,Rosi La Loca,8,9,0.058,-0.29392,0.41282,36.69,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.19,-0.12677,0.49529,11.95,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.026,-0.26573,0.31828,43.15,False,20000
+Gemma 4 E4B,LABEL-5,two_level,experts,adjacent,Restaurante Botin,La Barraca,11,12,0.334,-0.06705,0.75434,5.25,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,-0.21156,0.25347,38.95,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,-0.12207,0.3604,14.8,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,-0.11044,0.4221,11.17,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,-0.0827,0.4726,8.09,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,-0.00969,0.53135,2.93,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.1292,0.72428,0.23,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.14464,0.75762,0.26,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.17827,0.7977,0.07,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.3305,0.89785,0.0,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.33761,0.95476,0.01,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,winner,Los Montes de Galicia,La Barraca,1,12,0.94802,0.59547,1.30552,0.0,True,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,-0.21156,0.25347,38.95,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,-0.09858,0.29734,16.36,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,-0.19712,0.27419,38.54,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,-0.23314,0.30674,40.64,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,-0.20648,0.35207,30.88,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,-0.13648,0.4599,14.65,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,La Cabana Argentina,Rosi La Loca,7,8,0.02263,-0.30552,0.35664,44.59,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,-0.30299,0.37481,40.99,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,-0.1954,0.44208,21.64,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,-0.28965,0.35489,42.02,False,20000
+Ministral 3 8B,LABEL-5,two_level,experts,adjacent,Restaurante Botin,La Barraca,11,12,0.29831,-0.08138,0.68477,6.33,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,-0.01361,0.30734,3.96,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,-0.02957,0.42111,5.38,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.01933,0.39324,1.34,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.08282,0.54703,0.15,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.06626,0.63036,0.42,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.23377,0.72583,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.25605,0.78713,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.31204,0.97347,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.4467,0.90093,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.43222,0.97514,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.67733,1.48008,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,-0.01361,0.30734,3.96,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,-0.20831,0.32045,38.42,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,-0.26631,0.29084,42.16,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,-0.17751,0.39311,24.27,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,-0.31728,0.39001,43.09,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,-0.22857,0.48629,23.14,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,-0.30514,0.39366,40.17,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,-0.28381,0.53885,27.57,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.038,-0.35545,0.41332,42.75,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.026,-0.31226,0.37211,44.45,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,experts,adjacent,Restaurante Botin,La Barraca,11,12,0.372,-0.09097,0.85267,6.02,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,-0.13913,0.29022,31.49,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,-0.03337,0.30263,6.33,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,-0.00616,0.38078,2.89,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,-0.00056,0.49088,2.53,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.11438,0.55246,0.08,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.22847,0.71391,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.24218,0.74323,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.26463,0.83658,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.46649,0.88555,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.45227,0.95987,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.69863,1.40065,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,-0.13913,0.29022,31.49,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,-0.18596,0.2983,27.85,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,-0.16717,0.27501,31.08,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,-0.22192,0.34442,35.57,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,-0.21683,0.38776,28.38,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,-0.16288,0.43574,18.39,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,-0.29783,0.34888,44.09,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,-0.29346,0.42011,37.31,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,-0.20101,0.45031,21.77,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,-0.27509,0.3339,43.01,False,20000
+Fusion (open-weight),LABEL-5,two_level,experts,adjacent,Restaurante Botin,La Barraca,11,12,0.33477,-0.0675,0.75237,5.27,False,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,-0.06382,0.34546,11.61,False,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.01369,0.35417,1.69,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.00833,0.35948,2.0,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.05348,0.52459,0.64,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.17111,0.65719,0.01,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.18421,0.63219,0.01,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.17532,0.68096,0.02,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.34545,0.91534,0.0,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.37179,0.9302,0.0,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.47115,0.93414,0.0,True,20000
+Stars (reference),LABEL-5,two_level,experts,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.79766,1.5506,0.0,True,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,-0.06382,0.34546,11.61,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,-0.19,0.28,29.74,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,-0.2096,0.21154,50.57,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,-0.16455,0.37538,23.73,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,-0.19385,0.43612,22.31,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,-0.30818,0.30159,50.27,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,-0.29291,0.33214,45.42,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,-0.16198,0.5625,13.66,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Rosi La Loca,Restaurante Botin,9,10,0.02,-0.35366,0.39566,46.88,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Restaurante Botin,Mercado de San Miguel,10,11,0.06,-0.28826,0.39455,35.88,False,20000
+Stars (reference),LABEL-5,two_level,experts,adjacent,Mercado de San Miguel,La Barraca,11,12,0.46,0.045,0.89698,1.45,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,-0.17,0.268,40.3,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,-0.032,0.344,5.47,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,-0.02605,0.47005,4.28,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.012,0.422,1.82,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.208,0.66405,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.23,0.742,0.01,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.268,0.78,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.3,0.86,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.568,0.964,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.542,1.044,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.778,1.478,0.0,True,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,-0.17,0.268,40.3,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,-0.14,0.362,17.36,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,-0.212,0.34,35.1,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,-0.288,0.286,48.18,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,-0.052,0.488,5.64,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,-0.262,0.362,38.01,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,-0.294,0.372,42.23,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,La Cabana Argentina,Rosi La Loca,8,9,0.058,-0.298,0.414,37.31,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.19,-0.126,0.5,11.58,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.026,-0.258,0.314,43.43,False,20000
+Gemma 4 E4B,LABEL-5,two_level,stratified,adjacent,Restaurante Botin,La Barraca,11,12,0.334,-0.07,0.744,5.38,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,-0.20843,0.25049,38.38,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,-0.11485,0.35929,14.01,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,-0.10113,0.42143,10.81,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,-0.08453,0.47294,8.11,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,-0.00198,0.53184,2.6,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.1282,0.72993,0.28,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.14707,0.75539,0.2,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.18263,0.78964,0.1,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.33444,0.89454,0.01,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.34375,0.95077,0.01,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,winner,Los Montes de Galicia,La Barraca,1,12,0.94802,0.59737,1.29394,0.0,True,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,-0.20843,0.25049,38.38,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,-0.09565,0.29118,16.07,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,-0.19411,0.26744,39.03,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,-0.23312,0.30611,40.64,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,-0.21167,0.34934,30.65,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,-0.13835,0.45718,14.83,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,La Cabana Argentina,Rosi La Loca,7,8,0.02263,-0.30311,0.35594,44.39,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,-0.30544,0.37934,41.13,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,-0.18596,0.4462,21.0,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,-0.2824,0.34622,42.38,False,20000
+Ministral 3 8B,LABEL-5,two_level,stratified,adjacent,Restaurante Botin,La Barraca,11,12,0.29831,-0.08098,0.67885,6.14,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,-0.01,0.304,3.62,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,-0.024,0.414,4.9,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.022,0.39,1.16,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.086,0.54,0.14,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.07,0.634,0.39,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.23595,0.72,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.252,0.786,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.32,0.97,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.444,0.896,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.432,0.964,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.68,1.466,0.0,True,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,-0.01,0.304,3.62,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,-0.202,0.31,38.34,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,-0.256,0.288,42.24,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,-0.172,0.384,23.89,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,-0.318,0.39,43.54,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,-0.236,0.486,23.16,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,-0.304,0.396,40.79,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,-0.286,0.54,27.8,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.038,-0.352,0.416,41.79,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.026,-0.308,0.368,44.67,False,20000
+Qwen 3.6 35B,LABEL-5,two_level,stratified,adjacent,Restaurante Botin,La Barraca,11,12,0.372,-0.088,0.84005,5.76,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,-0.13792,0.28728,31.31,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,-0.03063,0.29856,6.07,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,-0.00354,0.37656,2.73,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,0.00532,0.49654,2.24,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.11685,0.54544,0.06,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.22866,0.70943,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.23674,0.7436,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.26847,0.83393,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.47174,0.88276,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.45471,0.95358,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.69695,1.38531,0.0,True,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,-0.13792,0.28728,31.31,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,-0.17958,0.29349,27.56,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,-0.16104,0.27207,31.05,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,-0.22067,0.34204,36.08,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,-0.22045,0.38591,28.34,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,-0.16229,0.43415,18.35,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,-0.30239,0.35027,44.34,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,-0.29659,0.42037,37.37,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,-0.19863,0.45422,21.13,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,-0.27052,0.3281,43.31,False,20000
+Fusion (open-weight),LABEL-5,two_level,stratified,adjacent,Restaurante Botin,La Barraca,11,12,0.33477,-0.06831,0.74194,5.24,False,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,-0.06,0.34,13.35,False,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.02,0.34,1.95,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.02,0.36,2.48,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.06,0.52,0.81,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.18,0.66,0.0,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.2,0.62,0.01,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.18,0.68,0.03,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.34,0.92,0.0,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.38,0.92,0.0,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.48,0.94,0.0,True,20000
+Stars (reference),LABEL-5,two_level,stratified,winner,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.8,1.54,0.0,True,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,-0.06,0.34,13.35,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,-0.18,0.28,31.56,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,-0.2,0.2,54.19,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,-0.16,0.38,26.13,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,-0.18,0.44,24.24,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,-0.3,0.3,52.71,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,-0.3,0.34,48.04,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,-0.16,0.56,14.74,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Rosi La Loca,Restaurante Botin,9,10,0.02,-0.36,0.4,48.01,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Restaurante Botin,Mercado de San Miguel,10,11,0.06,-0.28,0.4,37.94,False,20000
+Stars (reference),LABEL-5,two_level,stratified,adjacent,Mercado de San Miguel,La Barraca,11,12,0.46,0.04,0.88,1.59,True,20000

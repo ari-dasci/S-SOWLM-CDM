@@ -1,0 +1,31 @@
+\begin{table*}[htbp]
+\centering
+\caption{Stability of the collective ranking under resampling of the \emph{experts}, with each expert carrying all of their reviews and the model outputs held fixed. Reviews by one expert are not independent observations of the crowd, so they are drawn as a cluster. This is the uncertainty a decision maker actually faces (a different sample of diners might have ranked the restaurants differently), and it is a different quantity from Table~\ref{tab:cdm_stability}, not a robustness check on it. Every row is scored on the same redrawn crowds, those of the crowd rows of Table~\ref{tab:cdm_joint}; Top-1 and Exact are defined as in Table~\ref{tab:cdm_stability}. Min gap gives the full-data value with the 2.5th and 97.5th percentiles across 20{,}000 replicas, measured between alternatives consecutive in the full-data ranking so that it goes negative when a replica inverts a pair; Inv.\ is the share of replicas in which it does. An interval reaching below zero means the surveyed crowd does not determine the complete ranking; which rivals it leaves undistinguished from the winner is in Table~\ref{tab:cdm_candidates}.}
+\label{tab:cdm_crowd}
+\small
+\begin{tabular}{llccclr}
+\toprule
+\textbf{Model} & \textbf{Operator} & \textbf{$\tau$} & \textbf{Exact} & \textbf{Top-1} & \textbf{Min gap [95\%]} & \textbf{Inv.} \\
+\midrule
+  \multirow{4}{*}{Gemma 4 E4B} & \texttt{two\_tuple} & 0.839 & 0.3\% \tiny[0.2, 0.4] & 55.9\% \tiny[55.2, 56.6] & 0.0040 [-0.3864, -0.0377] & 100\% \\
+   & \texttt{mean\_round} & 0.856 & 0.0\% \tiny[0.0, 0.0] & 77.9\% \tiny[77.3, 78.5] & 0.0000 [-0.3923, -0.0298] & 100\% \\
+   & \texttt{median\_round} & 0.856 & 0.0\% \tiny[0.0, 0.0] & 77.9\% \tiny[77.3, 78.5] & 0.0000 [-0.3923, -0.0298] & 100\% \\
+   & \texttt{majority} & 0.841 & 0.0\% \tiny[0.0, 0.0] & 65.6\% \tiny[65.0, 66.3] & 0.0000 [-0.4100, -0.0451] & 100\% \\
+\midrule
+  \multirow{4}{*}{Ministral 3 8B} & \texttt{two\_tuple} & 0.813 & 0.2\% \tiny[0.1, 0.2] & 56.8\% \tiny[56.1, 57.5] & 0.0226 [-0.3888, -0.0394] & 100\% \\
+   & \texttt{mean\_round} & 0.801 & 0.0\% \tiny[0.0, 0.0] & 53.0\% \tiny[52.3, 53.7] & 0.0000 [-0.3968, -0.0478] & 100\% \\
+   & \texttt{median\_round} & 0.801 & 0.0\% \tiny[0.0, 0.0] & 53.0\% \tiny[52.3, 53.7] & 0.0000 [-0.3968, -0.0476] & 100\% \\
+   & \texttt{majority} & 0.797 & 0.0\% \tiny[0.0, 0.0] & 45.9\% \tiny[45.3, 46.6] & 0.0000 [-0.4000, -0.0488] & 100\% \\
+\midrule
+  \multirow{4}{*}{Qwen 3.6 35B} & \texttt{two\_tuple} & 0.801 & 0.1\% \tiny[0.1, 0.2] & 90.1\% \tiny[89.7, 90.5] & 0.0240 [-0.4437, -0.0493] & 100\% \\
+   & \texttt{mean\_round} & 0.797 & 0.0\% \tiny[0.0, 0.0] & 92.0\% \tiny[91.6, 92.4] & 0.0000 [-0.4712, -0.0536] & 100\% \\
+   & \texttt{median\_round} & 0.797 & 0.0\% \tiny[0.0, 0.0] & 92.0\% \tiny[91.6, 92.4] & 0.0000 [-0.4712, -0.0536] & 100\% \\
+   & \texttt{majority} & 0.795 & 0.1\% \tiny[0.0, 0.1] & 94.0\% \tiny[93.6, 94.3] & 0.0200 [-0.4768, -0.0549] & 100\% \\
+\midrule
+  \multirow{4}{*}{Fusion (open-weight)} & \texttt{two\_tuple} & 0.831 & 0.3\% \tiny[0.2, 0.4] & 63.8\% \tiny[63.2, 64.5] & 0.0242 [-0.3772, -0.0348] & 100\% \\
+   & \texttt{mean\_round} & 0.840 & 0.3\% \tiny[0.3, 0.4] & 82.5\% \tiny[82.0, 83.0] & 0.0200 [-0.4140, -0.0370] & 100\% \\
+   & \texttt{median\_round} & 0.839 & 0.3\% \tiny[0.2, 0.4] & 88.0\% \tiny[87.5, 88.4] & 0.0200 [-0.4067, -0.0371] & 100\% \\
+   & \texttt{majority} & 0.835 & 0.0\% \tiny[0.0, 0.0] & 73.7\% \tiny[73.1, 74.3] & 0.0000 [-0.4299, -0.0443] & 100\% \\
+\bottomrule
+\end{tabular}
+\end{table*}

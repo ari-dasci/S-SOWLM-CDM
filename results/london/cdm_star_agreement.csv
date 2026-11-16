@@ -1,0 +1,22 @@
+model,scheme,n,domain,pearson_r,spearman_rho,bias_beta,mad_beta,same_term_pct
+Gemma 4 31B,SCORE,474,"y [-1,1]",0.8013,0.7116,,,
+Gemma 4 31B,LABEL-7,474,"y [-1,1]",0.8186,0.7471,,,
+Gemma 4 31B,LABEL-5,474,beta (5-point),0.7979,0.7086,-0.0551,0.3956,63.7
+Gemma 4 E4B,SCORE,474,"y [-1,1]",0.7805,0.6986,,,
+Gemma 4 E4B,LABEL-7,474,"y [-1,1]",0.7728,0.6527,,,
+Gemma 4 E4B,LABEL-5,474,beta (5-point),0.764,0.6405,-0.1576,0.5365,54.0
+GPT-5.2,SCORE,474,"y [-1,1]",0.8003,0.7157,,,
+GPT-5.2,LABEL-7,474,"y [-1,1]",0.7888,0.6809,,,
+GPT-5.2,LABEL-5,474,beta (5-point),0.7825,0.7099,-0.1462,0.4437,60.8
+Ministral 3 8B,SCORE,474,"y [-1,1]",0.7821,0.7011,,,
+Ministral 3 8B,LABEL-7,474,"y [-1,1]",0.7606,0.6781,,,
+Ministral 3 8B,LABEL-5,474,beta (5-point),0.752,0.6896,-0.6388,0.7232,37.8
+Ornith 35B,SCORE,474,"y [-1,1]",0.7978,0.7189,,,
+Ornith 35B,LABEL-7,474,"y [-1,1]",0.8133,0.7234,,,
+Ornith 35B,LABEL-5,474,beta (5-point),0.8161,0.7221,-0.089,0.3852,65.6
+Qwen 3.6 35B,SCORE,474,"y [-1,1]",0.7962,0.7126,,,
+Qwen 3.6 35B,LABEL-7,474,"y [-1,1]",0.8225,0.7385,,,
+Qwen 3.6 35B,LABEL-5,474,beta (5-point),0.8141,0.7349,-0.0447,0.4054,61.6
+Fusion (open-weight),SCORE,474,"y [-1,1]",0.7997,0.7206,,,
+Fusion (open-weight),LABEL-7,474,"y [-1,1]",0.8198,0.7351,,,
+Fusion (open-weight),LABEL-5,474,beta (5-point),0.8141,0.728,-0.197,0.4601,65.2

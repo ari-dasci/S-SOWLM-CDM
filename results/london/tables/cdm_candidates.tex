@@ -1,0 +1,22 @@
+\begin{table*}[htbp]
+\centering
+\caption{Candidate sets under resampling of the crowd (LABEL-5, 2-tuple operator, two-level hierarchy). Every difference between two alternatives of a system is recomputed on 20{,}000 redrawn crowds, the same crowds for every system. Set (simult.)\ is the reported candidate set, a confidence set for the best alternative: the alternatives no rival is simultaneously better than, from bootstrap max-$t$ intervals over all pairwise differences of the system (critical value $c$ = 2.55 to 2.57); Not excluded lists its members other than the winner. Coverage is simultaneous over all pairwise differences of a system under this resampling design, not with respect to a population of platform users. Set (pairw.)\ is the pairwise sensitivity statement: the winner and every rival whose gap to it has its 2.5th percentile at or below zero, one pair at a time. Neither set shows its members to be equivalent to each other. Lead is the gap to the runner-up with its 2.5th and 97.5th percentiles; Adjacent pairs separated applies the pairwise test to pairs consecutive in the full-data ranking and lists the ranks of those it separates.}
+\label{tab:cdm_candidates}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llccclcl}
+\toprule
+\textbf{System} & \textbf{Winner} & \textbf{Top-1} & \textbf{Set (pairw.)} & \textbf{Set (simult.)} & \textbf{Not excluded (simult.)} & \textbf{Lead [95\%]} & \textbf{Adjacent pairs separated} \\
+\midrule
+  Gemma 4 E4B & The Ivy & 47.4\% & 4 of 4 & 4 of 4 & J. Sheekey, The Wolseley, Oxo Tower & +0.0171 [-0.2272, +0.2694] & 0 of 3 \\
+  Ministral 3 8B & J. Sheekey & 53.8\% & 4 of 4 & 4 of 4 & The Ivy, The Wolseley, Oxo Tower & +0.0236 [-0.1824, +0.2203] & 0 of 3 \\
+  Gemma 4 31B & J. Sheekey & 71.1\% & 3 of 4 & 4 of 4 & The Ivy, Oxo Tower, The Wolseley & +0.0773 [-0.1709, +0.3212] & 0 of 3 \\
+  Ornith 35B & J. Sheekey & 70.7\% & 4 of 4 & 4 of 4 & The Ivy, The Wolseley, Oxo Tower & +0.0649 [-0.1556, +0.2820] & 0 of 3 \\
+  Qwen 3.6 35B & J. Sheekey & 61.3\% & 4 of 4 & 4 of 4 & The Ivy, The Wolseley, Oxo Tower & +0.0355 [-0.1945, +0.2612] & 1 of 3: 2--3 \\
+  GPT-5.2 & J. Sheekey & 81.2\% & 4 of 4 & 4 of 4 & The Ivy, The Wolseley, Oxo Tower & +0.1336 [-0.1259, +0.3827] & 0 of 3 \\
+  Fusion (open-weight) & J. Sheekey & 60.8\% & 4 of 4 & 4 of 4 & The Ivy, The Wolseley, Oxo Tower & +0.0369 [-0.1864, +0.2547] & 0 of 3 \\
+  Stars (reference) & The Ivy & 54.5\% & 2 of 4 & 2 of 4 & J. Sheekey & +0.0104 [-0.1695, +0.2039] & 1 of 3: 2--3 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

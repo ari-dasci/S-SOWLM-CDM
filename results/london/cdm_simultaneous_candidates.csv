@@ -1,0 +1,17 @@
+model,scheme,crowd_mode,method,c,n_pairs,winner,candidates,candidate_ranks,set_size,set_size_pairwise,pairwise_subset,alternatives,replicas
+Gemma 4 31B,LABEL-5,experts,max_t,2.5631,6,J. Sheekey,"J. Sheekey; The Ivy; Oxo Tower Restaurant, Bar and Brasserie; The Wolseley","1, 2, 3, 4",4,3,True,4,20000
+Gemma 4 E4B,LABEL-5,experts,max_t,2.5689,6,The Ivy,"The Ivy; J. Sheekey; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+GPT-5.2,LABEL-5,experts,max_t,2.5698,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Ministral 3 8B,LABEL-5,experts,max_t,2.5718,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Ornith 35B,LABEL-5,experts,max_t,2.5684,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Qwen 3.6 35B,LABEL-5,experts,max_t,2.56,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Fusion (open-weight),LABEL-5,experts,max_t,2.5629,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Stars (reference),LABEL-5,experts,max_t,2.5515,6,The Ivy,The Ivy; J. Sheekey,"1, 2",2,2,True,4,20000
+Gemma 4 31B,LABEL-5,experts,percentile_max,0.3718,6,J. Sheekey,"J. Sheekey; The Ivy; Oxo Tower Restaurant, Bar and Brasserie; The Wolseley","1, 2, 3, 4",4,3,True,4,20000
+Gemma 4 E4B,LABEL-5,experts,percentile_max,0.3624,6,The Ivy,"The Ivy; J. Sheekey; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+GPT-5.2,LABEL-5,experts,percentile_max,0.3765,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Ministral 3 8B,LABEL-5,experts,percentile_max,0.3021,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Ornith 35B,LABEL-5,experts,percentile_max,0.3341,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,0.3532,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Fusion (open-weight),LABEL-5,experts,percentile_max,0.333,6,J. Sheekey,"J. Sheekey; The Ivy; The Wolseley; Oxo Tower Restaurant, Bar and Brasserie","1, 2, 3, 4",4,4,True,4,20000
+Stars (reference),LABEL-5,experts,percentile_max,0.2907,6,The Ivy,The Ivy; J. Sheekey; The Wolseley,"1, 2, 3",3,2,True,4,20000

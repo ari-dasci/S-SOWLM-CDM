@@ -1,0 +1,8 @@
+model,scheme,winner,margin_top,margin_min,top1_runs,exact_runs,top1_crowd,inverts_crowd,candidates_crowd,candidates_crowd_pairwise,r_stars,cost_s_per_review
+Gemma 4 31B,LABEL-5,J. Sheekey,0.07733,0.02288,100.0,100.0,71.1,66.5,4,3,0.7979,3.17
+Gemma 4 E4B,LABEL-5,The Ivy,0.01712,0.00266,85.8,48.4,47.4,83.0,4,4,0.764,3.0
+GPT-5.2,LABEL-5,J. Sheekey,0.13362,0.08039,100.0,100.0,81.2,59.0,4,4,0.7825,
+Ministral 3 8B,LABEL-5,J. Sheekey,0.02362,0.00085,90.3,46.8,53.8,77.6,4,4,0.752,1.34
+Ornith 35B,LABEL-5,J. Sheekey,0.06486,0.0387,100.0,99.9,70.7,61.8,4,4,0.8161,1.61
+Qwen 3.6 35B,LABEL-5,J. Sheekey,0.03555,0.03555,99.9,99.9,61.3,64.0,4,4,0.8141,1.86
+Fusion (open-weight),LABEL-5,J. Sheekey,0.03685,0.01454,100.0,99.0,60.8,70.8,4,4,0.8141,10.98

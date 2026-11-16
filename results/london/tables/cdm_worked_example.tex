@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\examplebox{Worked example: \texttt{review-300}}{%
+\textit{``We went to the Ivy for dinner on the last night before our friends flew back to the USA. We had made a reservation for 7:15 pm and the restaurant was very busy with a mixture of earlier dinners and people about to leave to go on to the theatre. We started with some predinner drinks which unfortunately took some time for our server to get right and when they came the mixers had already been poured into the glasses [\ldots{} 284 more words]''}
+
+\smallskip\noindent Author's rating: 4 stars. Alternative: The Ivy.
+Run labels as term indices, 0 = \emph{very negative} to 4 = \emph{very positive}.
+
+\smallskip\noindent{\footnotesize\begin{tabular}{@{}lll@{}}
+System & Ten runs & 2-tuple \\
+\hline
+Gemma 4 E4B & 4 4 4 4 3 3 4 4 4 3 & (Very Positive, -0.30) \\
+Ministral 3 8B & 1 1 1 1 1 1 1 1 2 1 & (Negative, +0.10) \\
+Gemma 4 31B & 3 3 3 3 3 3 3 3 3 3 & (Positive, +0.00) \\
+Ornith 35B & 3 3 3 3 3 4 4 3 3 3 & (Positive, +0.20) \\
+Qwen 3.6 35B & 3 3 3 3 3 3 3 3 3 3 & (Positive, +0.00) \\
+GPT-5.2 & 3 3 3 3 3 3 3 3 3 3 & (Positive, +0.00) \\
+Fusion (open-weight) & -- & (Positive, -0.20) \\
+\end{tabular}}
+}
+\caption{The review on which the systems disagree most under LABEL-5 (largest range of the review-level $\beta$ across systems, chosen by \texttt{utils/worked\_example.py}), its ten runs per system, and the 2-tuples they aggregate to.}
+\label{tab:cdm_worked_example}
+\end{table}

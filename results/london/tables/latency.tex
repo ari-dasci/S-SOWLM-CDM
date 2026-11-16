@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\caption{Wall-clock latency per request on a single consumer GPU, measured around the backend call over every collected run. $n$ is the number of requests; median and the 95th percentile are reported alongside the mean because a model that emits a reasoning trace on a minority of reviews has a mean far above its typical request. Source distinguishes the two ways a row can be obtained: \emph{instrumented} means every request of the collection was timed as it was made; \emph{remeasured} means the collection predates that instrumentation and the figure comes from replaying the first 60 reviews of the corpus under all three schemes through the same experiment configuration on the same hardware (180 requests, of which the first 3 per scheme are discarded as warm-up, leaving 171). A remeasured row states what the system costs now under the stated configuration; it is not a recovery of what the original sweep did. Systems with neither are omitted rather than estimated.}
+\label{tab:latency}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrl}
+\toprule
+\textbf{Model} & \textbf{$n$} & \textbf{Mean (s)} & \textbf{Median (s)} & \textbf{p95 (s)} & \textbf{Source} \\
+\midrule
+  Gemma 4 E4B & 171 & 0.35 & 0.30 & 0.50 & remeasured \\
+  Ministral 3 8B & 14{,}220 & 0.14 & 0.13 & 0.15 & instrumented \\
+  Gemma 4 31B & 14{,}220 & 0.32 & 0.32 & 0.38 & instrumented \\
+  Ornith 35B & 14{,}220 & 0.17 & 0.16 & 0.21 & instrumented \\
+  Qwen 3.6 35B & 14{,}220 & 0.19 & 0.19 & 0.24 & instrumented \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

@@ -1,0 +1,67 @@
+\begin{table*}[htbp]
+\centering
+\caption{Simultaneous 95\% intervals for the pairwise differences $\beta_i-\beta_j$ under resampling of the crowd (\emph{participants}; LABEL-5, 2-tuple operator, two-level hierarchy), $i$ ranked above $j$ in the system's full data. $\hat d$ is the full-data difference, se its standard deviation over the redrawn crowds, and the interval $\hat d \mp c\,$se with $c$ the system's max-$t$ critical value. A pair whose interval lies above zero has $i$ simultaneously better than $j$.}
+\label{tab:cdm_simultaneous_pairs}
+\small
+\begin{tabular}{lllrrr}
+\toprule
+\textbf{System} & \textbf{$i$} & \textbf{$j$} & \textbf{$\hat d$} & \textbf{se} & \textbf{Interval} \\
+\midrule
+  Gemma 4 E4B & The Ivy & J. Sheekey & +0.0171 & 0.1269 & [-0.309, +0.343] \\
+   & The Ivy & The Wolseley & +0.1366 & 0.1146 & [-0.158, +0.431] \\
+   & The Ivy & Oxo Tower & +0.1393 & 0.1477 & [-0.240, +0.519] \\
+   & J. Sheekey & The Wolseley & +0.1195 & 0.1376 & [-0.234, +0.473] \\
+   & J. Sheekey & Oxo Tower & +0.1222 & 0.1545 & [-0.275, +0.519] \\
+   & The Wolseley & Oxo Tower & +0.0027 & 0.1461 & [-0.373, +0.378] \\
+\addlinespace
+  Ministral 3 8B & J. Sheekey & The Ivy & +0.0236 & 0.1033 & [-0.242, +0.289] \\
+   & J. Sheekey & The Wolseley & +0.1396 & 0.1163 & [-0.159, +0.439] \\
+   & J. Sheekey & Oxo Tower & +0.1405 & 0.1342 & [-0.205, +0.486] \\
+   & The Ivy & The Wolseley & +0.1160 & 0.0986 & [-0.138, +0.370] \\
+   & The Ivy & Oxo Tower & +0.1169 & 0.1139 & [-0.176, +0.410] \\
+   & The Wolseley & Oxo Tower & +0.0008 & 0.1221 & [-0.313, +0.315] \\
+\addlinespace
+  Gemma 4 31B & J. Sheekey & The Ivy & +0.0773 & 0.1261 & [-0.246, +0.400] \\
+   & J. Sheekey & Oxo Tower & +0.2714 & 0.1604 & [-0.140, +0.683] \\
+   & J. Sheekey & The Wolseley & +0.2943 & 0.1404 & [-0.066, +0.654] \\
+   & The Ivy & Oxo Tower & +0.1941 & 0.1492 & [-0.188, +0.576] \\
+   & The Ivy & The Wolseley & +0.2170 & 0.1105 & [-0.066, +0.500] \\
+   & Oxo Tower & The Wolseley & +0.0229 & 0.1557 & [-0.376, +0.422] \\
+\addlinespace
+  Ornith 35B & J. Sheekey & The Ivy & +0.0649 & 0.1125 & [-0.224, +0.354] \\
+   & J. Sheekey & The Wolseley & +0.2276 & 0.1305 & [-0.108, +0.563] \\
+   & J. Sheekey & Oxo Tower & +0.2663 & 0.1426 & [-0.100, +0.632] \\
+   & The Ivy & The Wolseley & +0.1628 & 0.0967 & [-0.086, +0.411] \\
+   & The Ivy & Oxo Tower & +0.2014 & 0.1310 & [-0.135, +0.538] \\
+   & The Wolseley & Oxo Tower & +0.0387 & 0.1404 & [-0.322, +0.399] \\
+\addlinespace
+  Qwen 3.6 35B & J. Sheekey & The Ivy & +0.0355 & 0.1171 & [-0.264, +0.335] \\
+   & J. Sheekey & The Wolseley & +0.2404 & 0.1347 & [-0.104, +0.585] \\
+   & J. Sheekey & Oxo Tower & +0.2938 & 0.1518 & [-0.095, +0.682] \\
+   & The Ivy & The Wolseley & +0.2049 & 0.1017 & [-0.055, +0.465] \\
+   & The Ivy & Oxo Tower & +0.2583 & 0.1386 & [-0.096, +0.613] \\
+   & The Wolseley & Oxo Tower & +0.0534 & 0.1493 & [-0.329, +0.435] \\
+\addlinespace
+  GPT-5.2 & J. Sheekey & The Ivy & +0.1336 & 0.1295 & [-0.199, +0.466] \\
+   & J. Sheekey & The Wolseley & +0.2223 & 0.1468 & [-0.155, +0.600] \\
+   & J. Sheekey & Oxo Tower & +0.3027 & 0.1650 & [-0.121, +0.727] \\
+   & The Ivy & The Wolseley & +0.0887 & 0.1162 & [-0.210, +0.387] \\
+   & The Ivy & Oxo Tower & +0.1691 & 0.1503 & [-0.217, +0.555] \\
+   & The Wolseley & Oxo Tower & +0.0804 & 0.1519 & [-0.310, +0.471] \\
+\addlinespace
+  Fusion (open-weight) & J. Sheekey & The Ivy & +0.0369 & 0.1127 & [-0.252, +0.326] \\
+   & J. Sheekey & The Wolseley & +0.2043 & 0.1275 & [-0.123, +0.531] \\
+   & J. Sheekey & Oxo Tower & +0.2188 & 0.1441 & [-0.150, +0.588] \\
+   & The Ivy & The Wolseley & +0.1675 & 0.1002 & [-0.089, +0.424] \\
+   & The Ivy & Oxo Tower & +0.1820 & 0.1318 & [-0.156, +0.520] \\
+   & The Wolseley & Oxo Tower & +0.0145 & 0.1388 & [-0.341, +0.370] \\
+\addlinespace
+  Stars (reference) & The Ivy & J. Sheekey & +0.0104 & 0.0963 & [-0.235, +0.256] \\
+   & The Ivy & The Wolseley & +0.2352 & 0.0868 & [+0.014, +0.457] \\
+   & The Ivy & Oxo Tower & +0.3603 & 0.1086 & [+0.083, +0.637] \\
+   & J. Sheekey & The Wolseley & +0.2247 & 0.1093 & [-0.054, +0.504] \\
+   & J. Sheekey & Oxo Tower & +0.3499 & 0.1273 & [+0.025, +0.675] \\
+   & The Wolseley & Oxo Tower & +0.1251 & 0.1261 & [-0.197, +0.447] \\
+\bottomrule
+\end{tabular}
+\end{table*}

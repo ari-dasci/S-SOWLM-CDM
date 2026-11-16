@@ -1,0 +1,22 @@
+\begin{table*}[htbp]
+\centering
+\caption{Sampling temperature: $T = 1.0$ against greedy decoding, under LABEL-5. Same prompt, vocabulary, parser and reviews; for Gemma 4 E4B the two collections also come from different campaigns (Section~\ref{sec:protocol}). $\mathit{SD}_w$ is the mean spread of the ten runs of a review and Ident.\ the share of reviews whose ten runs agree; Distinct counts the different review-level aggregates, Terms the linguistic terms the collective evaluations occupy, and Min gap the smallest adjacent gap. Each system is scored on the reviews that survived parsing at both temperatures; Drop is how many that cost. Greedy decoding removes the run-level spread, reduces resolution, and moves the margin in both directions.}
+\label{tab:cdm_temperature}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+ & \multicolumn{4}{c}{\textbf{Run level}} & \multicolumn{2}{c}{\textbf{Resolution}} & \multicolumn{4}{c}{\textbf{Decision}} & \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-7}\cmidrule(lr){8-11}
+\textbf{Model} & $\mathit{SD}_w^{T1}$ & $\mathit{SD}_w^{T0}$ & Ident.$^{T1}$ & Ident.$^{T0}$ & Dist.$^{T1}$ & Dist.$^{T0}$ & Terms$^{T1}$ & Terms$^{T0}$ & Min gap$^{T1}$ & Min gap$^{T0}$ & Drop \\
+\midrule
+  Gemma 4 31B & 0.025 & 0.001 & 94\% & 100\% & 21 & 6 & 1 & 1 & 0.0229 & 0.0283 & 0 \\
+  Gemma 4 E4B & 0.323 & 0.002 & 26\% & 99\% & 39 & 8 & 1 & 1 & 0.0027 & 0.0534 & 0 \\
+  Ministral 3 8B & 0.351 & 0.003 & 23\% & 99\% & 64 & 9 & 1 & 2 & 0.0082 & 0.0120 & 8 \\
+  Ornith 35B & 0.200 & 0.000 & 52\% & 100\% & 37 & 5 & 1 & 1 & 0.0387 & 0.0264 & 0 \\
+  Qwen 3.6 35B & 0.185 & 0.000 & 55\% & 100\% & 41 & 5 & 1 & 1 & 0.0355 & 0.0427 & 0 \\
+  Fusion (open-weight) & -- & -- & -- & -- & 175 & 31 & 1 & 1 & 0.0145 & 0.0152 & 0 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

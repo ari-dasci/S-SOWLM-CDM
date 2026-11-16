@@ -1,0 +1,56 @@
+\begin{table}[htbp]
+\centering
+\caption{Sensitivity of the collective ranking to the linguistic mapping. The 2-tuple model places the terms at equally spaced indices; \texttt{compressed} moves the interior terms towards the center and \texttt{stretched} away from it, holding the endpoints and the ordering fixed. $\tau$ is the Kendall correlation of the resulting ranking against the uniform one.}
+\label{tab:cdm_mapping}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lllcc}
+\toprule
+\textbf{Model} & \textbf{Scheme} & \textbf{Placement} & \textbf{Winner} & \textbf{$\tau$ vs uniform} \\
+\midrule
+  Gemma 4 E4B & LABEL-7 & \texttt{uniform} & The Ivy & 1.000 \\
+  Gemma 4 E4B & LABEL-7 & \texttt{compressed} & The Ivy & 1.000 \\
+  Gemma 4 E4B & LABEL-7 & \texttt{stretched} & J. Sheekey & 0.667 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{uniform} & The Ivy & 1.000 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{compressed} & The Ivy & 1.000 \\
+  Gemma 4 E4B & LABEL-5 & \texttt{stretched} & J. Sheekey & 0.333 \\
+  Ministral 3 8B & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Ministral 3 8B & LABEL-7 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Ministral 3 8B & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Ministral 3 8B & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Ministral 3 8B & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Ministral 3 8B & LABEL-5 & \texttt{stretched} & J. Sheekey & 0.667 \\
+  Gemma 4 31B & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Gemma 4 31B & LABEL-7 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Gemma 4 31B & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Gemma 4 31B & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Gemma 4 31B & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Gemma 4 31B & LABEL-5 & \texttt{stretched} & J. Sheekey & 0.667 \\
+  Ornith 35B & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Ornith 35B & LABEL-7 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Ornith 35B & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Ornith 35B & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Ornith 35B & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Ornith 35B & LABEL-5 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Qwen 3.6 35B & LABEL-5 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  GPT-5.2 & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  GPT-5.2 & LABEL-7 & \texttt{compressed} & The Ivy & 0.667 \\
+  GPT-5.2 & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  GPT-5.2 & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  GPT-5.2 & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  GPT-5.2 & LABEL-5 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-7 & \texttt{stretched} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{uniform} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{compressed} & J. Sheekey & 1.000 \\
+  Fusion (open-weight) & LABEL-5 & \texttt{stretched} & J. Sheekey & 1.000 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

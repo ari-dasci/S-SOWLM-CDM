@@ -1,0 +1,41 @@
+\begin{table}[htbp]
+\centering
+\caption{Stability of the collective ranking (LABEL-5, 2-tuple operator, two-level hierarchy) under three resamplings computed by one procedure: \emph{runs} redraws each review's repeated runs with the crowd held fixed; \emph{crowd} redraws the experts as clusters, each bringing all of their reviews, with the runs held fixed; \emph{both} does the two in the same replica, on the same redrawn crowds. For the fused system each member's runs are redrawn independently. Top-1 is the share of replicas in which no alternative strictly beats the system's full-data winner; Exact the share reproducing its full-data ranking. Brackets are 95\% Wilson intervals, one decimal (a printed 100.0 lower limit is above 99.95\%), over 20{,}000 replicas. Which rivals the crowd does not separate from the winner is in Table~\ref{tab:cdm_candidates}.}
+\label{tab:cdm_joint}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{llcc}
+\toprule
+\textbf{Model} & \textbf{Resampled} & \textbf{Top-1} & \textbf{Exact} \\
+\midrule
+  \multirow{3}{*}{Gemma 4 E4B} & runs & 85.8\% \tiny[85.3, 86.3] & 48.4\% \tiny[47.8, 49.1] \\
+   & crowd & 47.4\% \tiny[46.7, 48.1] & 17.1\% \tiny[16.5, 17.6] \\
+   & both & 47.0\% \tiny[46.3, 47.6] & 16.6\% \tiny[16.1, 17.1] \\
+\midrule
+  \multirow{3}{*}{Ministral 3 8B} & runs & 90.3\% \tiny[89.9, 90.7] & 46.8\% \tiny[46.1, 47.5] \\
+   & crowd & 53.8\% \tiny[53.1, 54.4] & 22.4\% \tiny[21.8, 22.9] \\
+   & both & 53.4\% \tiny[52.7, 54.1] & 22.1\% \tiny[21.5, 22.7] \\
+\midrule
+  \multirow{3}{*}{Gemma 4 31B} & runs & 100.0\% \tiny[100.0, 100.0] & 100.0\% \tiny[100.0, 100.0] \\
+   & crowd & 71.1\% \tiny[70.5, 71.7] & 33.5\% \tiny[32.8, 34.2] \\
+   & both & 71.2\% \tiny[70.6, 71.9] & 33.4\% \tiny[32.8, 34.1] \\
+\midrule
+  \multirow{3}{*}{Ornith 35B} & runs & 100.0\% \tiny[100.0, 100.0] & 99.9\% \tiny[99.8, 99.9] \\
+   & crowd & 70.7\% \tiny[70.0, 71.3] & 38.2\% \tiny[37.5, 38.9] \\
+   & both & 70.3\% \tiny[69.7, 71.0] & 37.8\% \tiny[37.1, 38.5] \\
+\midrule
+  \multirow{3}{*}{Qwen 3.6 35B} & runs & 99.9\% \tiny[99.9, 99.9] & 99.9\% \tiny[99.9, 99.9] \\
+   & crowd & 61.3\% \tiny[60.6, 62.0] & 36.0\% \tiny[35.4, 36.7] \\
+   & both & 61.2\% \tiny[60.6, 61.9] & 36.1\% \tiny[35.4, 36.7] \\
+\midrule
+  \multirow{3}{*}{GPT-5.2} & runs & 100.0\% \tiny[100.0, 100.0] & 100.0\% \tiny[100.0, 100.0] \\
+   & crowd & 81.2\% \tiny[80.7, 81.7] & 41.0\% \tiny[40.3, 41.7] \\
+   & both & 81.2\% \tiny[80.7, 81.7] & 40.8\% \tiny[40.1, 41.5] \\
+\midrule
+  \multirow{3}{*}{Fusion (open-weight)} & runs & 100.0\% \tiny[100.0, 100.0] & 99.0\% \tiny[98.8, 99.1] \\
+   & crowd & 60.8\% \tiny[60.1, 61.4] & 29.2\% \tiny[28.6, 29.8] \\
+   & both & 60.6\% \tiny[59.9, 61.3] & 29.0\% \tiny[28.4, 29.6] \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

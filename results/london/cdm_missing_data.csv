@@ -1,0 +1,15 @@
+policy,operator,hierarchy,model,scheme,reviews,winner,order,margin_min
+available,two_tuple,two_level,Gemma 4 31B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",0.02288
+available,two_tuple,two_level,Gemma 4 E4B,LABEL-5,474,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.00266
+available,two_tuple,two_level,GPT-5.2,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.08039
+available,two_tuple,two_level,Ministral 3 8B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.00085
+available,two_tuple,two_level,Ornith 35B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.0387
+available,two_tuple,two_level,Qwen 3.6 35B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.03555
+available,two_tuple,two_level,Fusion (open-weight),LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.01454
+listwise,two_tuple,two_level,Gemma 4 31B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > Oxo Tower Restaurant, Bar and Brasserie > The Wolseley",0.02288
+listwise,two_tuple,two_level,Gemma 4 E4B,LABEL-5,474,The Ivy,"The Ivy > J. Sheekey > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.00266
+listwise,two_tuple,two_level,GPT-5.2,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.08039
+listwise,two_tuple,two_level,Ministral 3 8B,LABEL-5,413,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.04607
+listwise,two_tuple,two_level,Ornith 35B,LABEL-5,474,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.0387
+listwise,two_tuple,two_level,Qwen 3.6 35B,LABEL-5,472,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.03555
+listwise,two_tuple,two_level,Fusion (open-weight),LABEL-5,411,J. Sheekey,"J. Sheekey > The Ivy > The Wolseley > Oxo Tower Restaurant, Bar and Brasserie",0.06805

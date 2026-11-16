@@ -1,0 +1,29 @@
+\begin{table}[htbp]
+\centering
+\caption{Stability of the collective ranking (LABEL-5, 2-tuple operator, two-level hierarchy) under three resamplings computed by one procedure: \emph{runs} redraws each review's repeated runs with the crowd held fixed; \emph{crowd} redraws the experts as clusters, each bringing all of their reviews, with the runs held fixed; \emph{both} does the two in the same replica, on the same redrawn crowds. For the fused system each member's runs are redrawn independently. Top-1 is the share of replicas in which no alternative strictly beats the system's full-data winner; Exact the share reproducing its full-data ranking. Brackets are 95\% Wilson intervals, one decimal (a printed 100.0 lower limit is above 99.95\%), over 20{,}000 replicas. Which rivals the crowd does not separate from the winner is in Table~\ref{tab:cdm_candidates}.}
+\label{tab:cdm_joint}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{llcc}
+\toprule
+\textbf{Model} & \textbf{Resampled} & \textbf{Top-1} & \textbf{Exact} \\
+\midrule
+  \multirow{3}{*}{Gemma 4 E4B} & runs & 98.7\% \tiny[98.5, 98.8] & 54.4\% \tiny[53.7, 55.1] \\
+   & crowd & 55.9\% \tiny[55.2, 56.6] & 0.3\% \tiny[0.2, 0.4] \\
+   & both & 55.7\% \tiny[55.0, 56.4] & 0.3\% \tiny[0.2, 0.4] \\
+\midrule
+  \multirow{3}{*}{Ministral 3 8B} & runs & 88.9\% \tiny[88.5, 89.4] & 53.8\% \tiny[53.1, 54.5] \\
+   & crowd & 56.8\% \tiny[56.1, 57.5] & 0.2\% \tiny[0.1, 0.2] \\
+   & both & 55.6\% \tiny[54.9, 56.3] & 0.2\% \tiny[0.1, 0.2] \\
+\midrule
+  \multirow{3}{*}{Qwen 3.6 35B} & runs & 100.0\% \tiny[100.0, 100.0] & 83.5\% \tiny[83.0, 84.1] \\
+   & crowd & 90.1\% \tiny[89.7, 90.5] & 0.1\% \tiny[0.1, 0.2] \\
+   & both & 89.5\% \tiny[89.0, 89.9] & 0.1\% \tiny[0.1, 0.1] \\
+\midrule
+  \multirow{3}{*}{Fusion (open-weight)} & runs & 100.0\% \tiny[100.0, 100.0] & 98.1\% \tiny[97.9, 98.3] \\
+   & crowd & 63.8\% \tiny[63.2, 64.5] & 0.3\% \tiny[0.2, 0.4] \\
+   & both & 63.4\% \tiny[62.8, 64.1] & 0.3\% \tiny[0.2, 0.4] \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

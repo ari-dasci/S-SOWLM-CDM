@@ -1,0 +1,5 @@
+system,winner,runner_up,lead,se,var_part,var_inf_1,ratio_k1_pct,ratio_k3_pct,ratio_k10_pct,k_star_10pct,k_star_5pct,mc_over_exact_min,mc_over_exact_max,mc_over_exact_accepted,normal_top1_pct,multivariate_top1_pct,top1_pct
+Gemma 4 E4B,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,0.034,0.11476,0.013169948530392718,0.0024920000000000003,18.92,6.31,1.89,2,4,0.979,1.007,0.994,61.6,56.6,55.9
+Ministral 3 8B,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,0.03009,0.11911,0.01418813204393645,0.0061105174999600085,43.07,14.36,4.31,5,9,1.004,1.127,0.998,60.0,54.5,56.8
+Qwen 3.6 35B,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,0.128,0.08223,0.006762350961362017,0.0014160000000000002,20.94,6.98,2.09,3,5,0.992,1.019,0.988,94.0,84.5,90.1
+Fusion (open-weight),Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,0.05797,0.1109,0.01229864906945048,0.00103539083332889,8.42,2.81,0.84,1,2,0.993,1.012,1.012,69.9,63.2,63.8

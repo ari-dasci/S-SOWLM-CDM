@@ -1,0 +1,289 @@
+model,scheme,alternative,beta,n,hierarchy,two_tuple,rank
+Fusion (open-weight),LABEL-5,Zenith Brunch & Cocktails - Valverde,3.628095238095238,50,two_level,"(Very Positive, -0.37)",1
+Fusion (open-weight),LABEL-5,Los Montes de Galicia,3.5701243386243386,50,two_level,"(Very Positive, -0.43)",2
+Fusion (open-weight),LABEL-5,Taberna Mas Al Sur,3.5022592592592594,50,two_level,"(Very Positive, -0.50)",3
+Fusion (open-weight),LABEL-5,Meson Restaurante La Mi Venta,3.4477037037037035,50,two_level,"(Positive, +0.45)",4
+Fusion (open-weight),LABEL-5,Inclan Brutal Bar,3.3930000000000002,50,two_level,"(Positive, +0.39)",5
+Fusion (open-weight),LABEL-5,Oven Mozzarella Fuencarral,3.307555555555556,50,two_level,"(Positive, +0.31)",6
+Fusion (open-weight),LABEL-5,La Cabana Argentina,3.1711746031746033,50,two_level,"(Positive, +0.17)",7
+Fusion (open-weight),LABEL-5,Oven Mozzarella Gran Via 6,3.1469735449735454,50,two_level,"(Positive, +0.15)",8
+Fusion (open-weight),LABEL-5,Rosi La Loca,3.0889629629629627,50,two_level,"(Positive, +0.09)",9
+Fusion (open-weight),LABEL-5,Mercado de San Miguel,2.9567592592592593,50,two_level,"(Positive, -0.04)",10
+Fusion (open-weight),LABEL-5,Restaurante Botin,2.9288888888888893,50,two_level,"(Positive, -0.07)",11
+Fusion (open-weight),LABEL-5,La Barraca,2.5941190476190474,50,two_level,"(Positive, -0.41)",12
+Fusion (open-weight),LABEL-7,Zenith Brunch & Cocktails - Valverde,5.386888888888889,50,two_level,"(Very Positive, +0.39)",1
+Fusion (open-weight),LABEL-7,Los Montes de Galicia,5.286666666666666,50,two_level,"(Very Positive, +0.29)",2
+Fusion (open-weight),LABEL-7,Taberna Mas Al Sur,5.189333333333333,50,two_level,"(Very Positive, +0.19)",3
+Fusion (open-weight),LABEL-7,Meson Restaurante La Mi Venta,5.0986666666666665,50,two_level,"(Very Positive, +0.10)",4
+Fusion (open-weight),LABEL-7,Inclan Brutal Bar,5.048,50,two_level,"(Very Positive, +0.05)",5
+Fusion (open-weight),LABEL-7,Oven Mozzarella Fuencarral,4.930666666666666,50,two_level,"(Very Positive, -0.07)",6
+Fusion (open-weight),LABEL-7,La Cabana Argentina,4.707333333333334,50,two_level,"(Very Positive, -0.29)",7
+Fusion (open-weight),LABEL-7,Oven Mozzarella Gran Via 6,4.66,50,two_level,"(Very Positive, -0.34)",8
+Fusion (open-weight),LABEL-7,Rosi La Loca,4.562666666666667,50,two_level,"(Very Positive, -0.44)",9
+Fusion (open-weight),LABEL-7,Mercado de San Miguel,4.373333333333333,50,two_level,"(Positive, +0.37)",10
+Fusion (open-weight),LABEL-7,Restaurante Botin,4.306222222222222,50,two_level,"(Positive, +0.31)",11
+Fusion (open-weight),LABEL-7,La Barraca,3.8996296296296293,50,two_level,"(Positive, -0.10)",12
+Fusion (open-weight),SCORE,Zenith Brunch & Cocktails - Valverde,3.8273866666666665,50,two_level,"(Very Positive, -0.17)",1
+Fusion (open-weight),SCORE,Taberna Mas Al Sur,3.7647999999999997,50,two_level,"(Very Positive, -0.24)",2
+Fusion (open-weight),SCORE,Los Montes de Galicia,3.7188866666666667,50,two_level,"(Very Positive, -0.28)",3
+Fusion (open-weight),SCORE,Meson Restaurante La Mi Venta,3.6636933333333332,50,two_level,"(Very Positive, -0.34)",4
+Fusion (open-weight),SCORE,Oven Mozzarella Fuencarral,3.606813333333333,50,two_level,"(Very Positive, -0.39)",5
+Fusion (open-weight),SCORE,Inclan Brutal Bar,3.571373333333333,50,two_level,"(Very Positive, -0.43)",6
+Fusion (open-weight),SCORE,La Cabana Argentina,3.4666666666666663,50,two_level,"(Positive, +0.47)",7
+Fusion (open-weight),SCORE,Oven Mozzarella Gran Via 6,3.429146666666666,50,two_level,"(Positive, +0.43)",8
+Fusion (open-weight),SCORE,Mercado de San Miguel,3.3427333333333333,50,two_level,"(Positive, +0.34)",9
+Fusion (open-weight),SCORE,Rosi La Loca,3.3263399999999996,50,two_level,"(Positive, +0.33)",10
+Fusion (open-weight),SCORE,Restaurante Botin,3.2319466666666665,50,two_level,"(Positive, +0.23)",11
+Fusion (open-weight),SCORE,La Barraca,2.88384,50,two_level,"(Positive, -0.12)",12
+Gemma 4 E4B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.714,50,two_level,"(Very Positive, -0.29)",1
+Gemma 4 E4B,LABEL-5,Los Montes de Galicia,3.68,50,two_level,"(Very Positive, -0.32)",2
+Gemma 4 E4B,LABEL-5,Taberna Mas Al Sur,3.562,50,two_level,"(Very Positive, -0.44)",3
+Gemma 4 E4B,LABEL-5,Inclan Brutal Bar,3.5039999999999996,50,two_level,"(Very Positive, -0.50)",4
+Gemma 4 E4B,LABEL-5,Meson Restaurante La Mi Venta,3.5,50,two_level,"(Very Positive, -0.50)",5
+Gemma 4 E4B,LABEL-5,Oven Mozzarella Fuencarral,3.284,50,two_level,"(Positive, +0.28)",6
+Gemma 4 E4B,LABEL-5,Oven Mozzarella Gran Via 6,3.234,50,two_level,"(Positive, +0.23)",7
+Gemma 4 E4B,LABEL-5,La Cabana Argentina,3.2,50,two_level,"(Positive, +0.20)",8
+Gemma 4 E4B,LABEL-5,Rosi La Loca,3.142,50,two_level,"(Positive, +0.14)",9
+Gemma 4 E4B,LABEL-5,Mercado de San Miguel,2.952,50,two_level,"(Positive, -0.05)",10
+Gemma 4 E4B,LABEL-5,Restaurante Botin,2.926,50,two_level,"(Positive, -0.07)",11
+Gemma 4 E4B,LABEL-5,La Barraca,2.592,50,two_level,"(Positive, -0.41)",12
+Gemma 4 E4B,LABEL-7,Zenith Brunch & Cocktails - Valverde,5.577999999999999,50,two_level,"(Extremely Positive, -0.42)",1
+Gemma 4 E4B,LABEL-7,Los Montes de Galicia,5.524,50,two_level,"(Extremely Positive, -0.48)",2
+Gemma 4 E4B,LABEL-7,Taberna Mas Al Sur,5.396,50,two_level,"(Very Positive, +0.40)",3
+Gemma 4 E4B,LABEL-7,Meson Restaurante La Mi Venta,5.246,50,two_level,"(Very Positive, +0.25)",4
+Gemma 4 E4B,LABEL-7,Inclan Brutal Bar,5.194,50,two_level,"(Very Positive, +0.19)",5
+Gemma 4 E4B,LABEL-7,Oven Mozzarella Fuencarral,5.02,50,two_level,"(Very Positive, +0.02)",6
+Gemma 4 E4B,LABEL-7,Oven Mozzarella Gran Via 6,4.803999999999999,50,two_level,"(Very Positive, -0.20)",7
+Gemma 4 E4B,LABEL-7,La Cabana Argentina,4.762,50,two_level,"(Very Positive, -0.24)",8
+Gemma 4 E4B,LABEL-7,Rosi La Loca,4.692,50,two_level,"(Very Positive, -0.31)",9
+Gemma 4 E4B,LABEL-7,Mercado de San Miguel,4.408,50,two_level,"(Positive, +0.41)",10
+Gemma 4 E4B,LABEL-7,Restaurante Botin,4.388,50,two_level,"(Positive, +0.39)",11
+Gemma 4 E4B,LABEL-7,La Barraca,3.8819999999999997,50,two_level,"(Positive, -0.12)",12
+Gemma 4 E4B,SCORE,Zenith Brunch & Cocktails - Valverde,3.7717999999999994,50,two_level,"(Very Positive, -0.23)",1
+Gemma 4 E4B,SCORE,Taberna Mas Al Sur,3.7017999999999995,50,two_level,"(Very Positive, -0.30)",2
+Gemma 4 E4B,SCORE,Los Montes de Galicia,3.679,50,two_level,"(Very Positive, -0.32)",3
+Gemma 4 E4B,SCORE,Meson Restaurante La Mi Venta,3.6259999999999994,50,two_level,"(Very Positive, -0.37)",4
+Gemma 4 E4B,SCORE,Oven Mozzarella Fuencarral,3.5491999999999995,50,two_level,"(Very Positive, -0.45)",5
+Gemma 4 E4B,SCORE,Inclan Brutal Bar,3.5372,50,two_level,"(Very Positive, -0.46)",6
+Gemma 4 E4B,SCORE,Oven Mozzarella Gran Via 6,3.4108,50,two_level,"(Positive, +0.41)",7
+Gemma 4 E4B,SCORE,La Cabana Argentina,3.3985999999999996,50,two_level,"(Positive, +0.40)",8
+Gemma 4 E4B,SCORE,Rosi La Loca,3.3279999999999994,50,two_level,"(Positive, +0.33)",9
+Gemma 4 E4B,SCORE,Mercado de San Miguel,3.3042000000000002,50,two_level,"(Positive, +0.30)",10
+Gemma 4 E4B,SCORE,Restaurante Botin,3.2014,50,two_level,"(Positive, +0.20)",11
+Gemma 4 E4B,SCORE,La Barraca,2.8634,50,two_level,"(Positive, -0.14)",12
+Ministral 3 8B,LABEL-5,Los Montes de Galicia,3.2643730158730158,50,two_level,"(Positive, +0.26)",1
+Ministral 3 8B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.2342857142857144,50,two_level,"(Positive, +0.23)",2
+Ministral 3 8B,LABEL-5,Taberna Mas Al Sur,3.136777777777778,50,two_level,"(Positive, +0.14)",3
+Ministral 3 8B,LABEL-5,Meson Restaurante La Mi Venta,3.101111111111111,50,two_level,"(Positive, +0.10)",4
+Ministral 3 8B,LABEL-5,Inclan Brutal Bar,3.0669999999999997,50,two_level,"(Positive, +0.07)",5
+Ministral 3 8B,LABEL-5,Oven Mozzarella Fuencarral,2.996666666666667,50,two_level,"(Positive, 0.00)",6
+Ministral 3 8B,LABEL-5,La Cabana Argentina,2.83752380952381,50,two_level,"(Positive, -0.16)",7
+Ministral 3 8B,LABEL-5,Rosi La Loca,2.814888888888889,50,two_level,"(Positive, -0.19)",8
+Ministral 3 8B,LABEL-5,Oven Mozzarella Gran Via 6,2.774920634920635,50,two_level,"(Positive, -0.23)",9
+Ministral 3 8B,LABEL-5,Mercado de San Miguel,2.6462777777777777,50,two_level,"(Positive, -0.35)",10
+Ministral 3 8B,LABEL-5,Restaurante Botin,2.6146666666666665,50,two_level,"(Positive, -0.39)",11
+Ministral 3 8B,LABEL-5,La Barraca,2.316357142857143,50,two_level,"(Neutral, +0.32)",12
+Ministral 3 8B,LABEL-7,Zenith Brunch & Cocktails - Valverde,4.756666666666667,50,two_level,"(Very Positive, -0.24)",1
+Ministral 3 8B,LABEL-7,Los Montes de Galicia,4.704,50,two_level,"(Very Positive, -0.30)",2
+Ministral 3 8B,LABEL-7,Taberna Mas Al Sur,4.586,50,two_level,"(Very Positive, -0.41)",3
+Ministral 3 8B,LABEL-7,Meson Restaurante La Mi Venta,4.556,50,two_level,"(Very Positive, -0.44)",4
+Ministral 3 8B,LABEL-7,Inclan Brutal Bar,4.544,50,two_level,"(Very Positive, -0.46)",5
+Ministral 3 8B,LABEL-7,Oven Mozzarella Fuencarral,4.44,50,two_level,"(Positive, +0.44)",6
+Ministral 3 8B,LABEL-7,La Cabana Argentina,4.282,50,two_level,"(Positive, +0.28)",7
+Ministral 3 8B,LABEL-7,Oven Mozzarella Gran Via 6,4.1819999999999995,50,two_level,"(Positive, +0.18)",8
+Ministral 3 8B,LABEL-7,Rosi La Loca,4.15,50,two_level,"(Positive, +0.15)",9
+Ministral 3 8B,LABEL-7,Mercado de San Miguel,3.9539999999999997,50,two_level,"(Positive, -0.05)",10
+Ministral 3 8B,LABEL-7,Restaurante Botin,3.8866666666666667,50,two_level,"(Positive, -0.11)",11
+Ministral 3 8B,LABEL-7,La Barraca,3.574888888888889,50,two_level,"(Positive, -0.43)",12
+Ministral 3 8B,SCORE,Zenith Brunch & Cocktails - Valverde,3.81852,50,two_level,"(Very Positive, -0.18)",1
+Ministral 3 8B,SCORE,Taberna Mas Al Sur,3.75224,50,two_level,"(Very Positive, -0.25)",2
+Ministral 3 8B,SCORE,Los Montes de Galicia,3.7011399999999997,50,two_level,"(Very Positive, -0.30)",3
+Ministral 3 8B,SCORE,Meson Restaurante La Mi Venta,3.6414400000000002,50,two_level,"(Very Positive, -0.36)",4
+Ministral 3 8B,SCORE,Oven Mozzarella Fuencarral,3.62756,50,two_level,"(Very Positive, -0.37)",5
+Ministral 3 8B,SCORE,Inclan Brutal Bar,3.567599999999999,50,two_level,"(Very Positive, -0.43)",6
+Ministral 3 8B,SCORE,La Cabana Argentina,3.4920799999999996,50,two_level,"(Positive, +0.49)",7
+Ministral 3 8B,SCORE,Oven Mozzarella Gran Via 6,3.4139599999999994,50,two_level,"(Positive, +0.41)",8
+Ministral 3 8B,SCORE,Mercado de San Miguel,3.3720799999999995,50,two_level,"(Positive, +0.37)",9
+Ministral 3 8B,SCORE,Rosi La Loca,3.32654,50,two_level,"(Positive, +0.33)",10
+Ministral 3 8B,SCORE,Restaurante Botin,3.1856799999999996,50,two_level,"(Positive, +0.19)",11
+Ministral 3 8B,SCORE,La Barraca,2.8802,50,two_level,"(Positive, -0.12)",12
+Qwen 3.6 35B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.9360000000000004,50,two_level,"(Very Positive, -0.06)",1
+Qwen 3.6 35B,LABEL-5,Taberna Mas Al Sur,3.8080000000000003,50,two_level,"(Very Positive, -0.19)",2
+Qwen 3.6 35B,LABEL-5,Los Montes de Galicia,3.766,50,two_level,"(Very Positive, -0.23)",3
+Qwen 3.6 35B,LABEL-5,Meson Restaurante La Mi Venta,3.742,50,two_level,"(Very Positive, -0.26)",4
+Qwen 3.6 35B,LABEL-5,Oven Mozzarella Fuencarral,3.642,50,two_level,"(Very Positive, -0.36)",5
+Qwen 3.6 35B,LABEL-5,Inclan Brutal Bar,3.608,50,two_level,"(Very Positive, -0.39)",6
+Qwen 3.6 35B,LABEL-5,La Cabana Argentina,3.4760000000000004,50,two_level,"(Positive, +0.48)",7
+Qwen 3.6 35B,LABEL-5,Oven Mozzarella Gran Via 6,3.432,50,two_level,"(Positive, +0.43)",8
+Qwen 3.6 35B,LABEL-5,Rosi La Loca,3.31,50,two_level,"(Positive, +0.31)",9
+Qwen 3.6 35B,LABEL-5,Mercado de San Miguel,3.272,50,two_level,"(Positive, +0.27)",10
+Qwen 3.6 35B,LABEL-5,Restaurante Botin,3.2460000000000004,50,two_level,"(Positive, +0.25)",11
+Qwen 3.6 35B,LABEL-5,La Barraca,2.8739999999999997,50,two_level,"(Positive, -0.13)",12
+Qwen 3.6 35B,LABEL-7,Zenith Brunch & Cocktails - Valverde,5.8260000000000005,50,two_level,"(Extremely Positive, -0.17)",1
+Qwen 3.6 35B,LABEL-7,Los Montes de Galicia,5.632000000000001,50,two_level,"(Extremely Positive, -0.37)",2
+Qwen 3.6 35B,LABEL-7,Taberna Mas Al Sur,5.586,50,two_level,"(Extremely Positive, -0.41)",3
+Qwen 3.6 35B,LABEL-7,Meson Restaurante La Mi Venta,5.494,50,two_level,"(Very Positive, +0.49)",4
+Qwen 3.6 35B,LABEL-7,Inclan Brutal Bar,5.406000000000001,50,two_level,"(Very Positive, +0.41)",5
+Qwen 3.6 35B,LABEL-7,Oven Mozzarella Fuencarral,5.332000000000001,50,two_level,"(Very Positive, +0.33)",6
+Qwen 3.6 35B,LABEL-7,La Cabana Argentina,5.078,50,two_level,"(Very Positive, +0.08)",7
+Qwen 3.6 35B,LABEL-7,Oven Mozzarella Gran Via 6,4.994,50,two_level,"(Very Positive, -0.01)",8
+Qwen 3.6 35B,LABEL-7,Rosi La Loca,4.846,50,two_level,"(Very Positive, -0.15)",9
+Qwen 3.6 35B,LABEL-7,Mercado de San Miguel,4.758,50,two_level,"(Very Positive, -0.24)",10
+Qwen 3.6 35B,LABEL-7,Restaurante Botin,4.644,50,two_level,"(Very Positive, -0.36)",11
+Qwen 3.6 35B,LABEL-7,La Barraca,4.242,50,two_level,"(Positive, +0.24)",12
+Qwen 3.6 35B,SCORE,Zenith Brunch & Cocktails - Valverde,3.8918399999999997,50,two_level,"(Very Positive, -0.11)",1
+Qwen 3.6 35B,SCORE,Taberna Mas Al Sur,3.84036,50,two_level,"(Very Positive, -0.16)",2
+Qwen 3.6 35B,SCORE,Los Montes de Galicia,3.7765199999999997,50,two_level,"(Very Positive, -0.22)",3
+Qwen 3.6 35B,SCORE,Meson Restaurante La Mi Venta,3.7236399999999996,50,two_level,"(Very Positive, -0.28)",4
+Qwen 3.6 35B,SCORE,Oven Mozzarella Fuencarral,3.64368,50,two_level,"(Very Positive, -0.36)",5
+Qwen 3.6 35B,SCORE,Inclan Brutal Bar,3.6093199999999994,50,two_level,"(Very Positive, -0.39)",6
+Qwen 3.6 35B,SCORE,La Cabana Argentina,3.50932,50,two_level,"(Very Positive, -0.49)",7
+Qwen 3.6 35B,SCORE,Oven Mozzarella Gran Via 6,3.4626799999999998,50,two_level,"(Positive, +0.46)",8
+Qwen 3.6 35B,SCORE,Mercado de San Miguel,3.3519200000000002,50,two_level,"(Positive, +0.35)",9
+Qwen 3.6 35B,SCORE,Rosi La Loca,3.32448,50,two_level,"(Positive, +0.32)",10
+Qwen 3.6 35B,SCORE,Restaurante Botin,3.30876,50,two_level,"(Positive, +0.31)",11
+Qwen 3.6 35B,SCORE,La Barraca,2.90792,50,two_level,"(Positive, -0.09)",12
+Fusion (open-weight),LABEL-5,Zenith Brunch & Cocktails - Valverde,3.628095238095238,50,three_level,"(Very Positive, -0.37)",1
+Fusion (open-weight),LABEL-5,Los Montes de Galicia,3.5701243386243386,50,three_level,"(Very Positive, -0.43)",2
+Fusion (open-weight),LABEL-5,Taberna Mas Al Sur,3.5022592592592594,50,three_level,"(Very Positive, -0.50)",3
+Fusion (open-weight),LABEL-5,Meson Restaurante La Mi Venta,3.4477037037037035,50,three_level,"(Positive, +0.45)",4
+Fusion (open-weight),LABEL-5,Inclan Brutal Bar,3.3930000000000002,50,three_level,"(Positive, +0.39)",5
+Fusion (open-weight),LABEL-5,Oven Mozzarella Fuencarral,3.307555555555556,50,three_level,"(Positive, +0.31)",6
+Fusion (open-weight),LABEL-5,La Cabana Argentina,3.1711746031746033,50,three_level,"(Positive, +0.17)",7
+Fusion (open-weight),LABEL-5,Oven Mozzarella Gran Via 6,3.1469735449735454,50,three_level,"(Positive, +0.15)",8
+Fusion (open-weight),LABEL-5,Rosi La Loca,3.0889629629629627,50,three_level,"(Positive, +0.09)",9
+Fusion (open-weight),LABEL-5,Mercado de San Miguel,2.9567592592592593,50,three_level,"(Positive, -0.04)",10
+Fusion (open-weight),LABEL-5,Restaurante Botin,2.9288888888888893,50,three_level,"(Positive, -0.07)",11
+Fusion (open-weight),LABEL-5,La Barraca,2.5941190476190474,50,three_level,"(Positive, -0.41)",12
+Fusion (open-weight),LABEL-7,Zenith Brunch & Cocktails - Valverde,5.386888888888889,50,three_level,"(Very Positive, +0.39)",1
+Fusion (open-weight),LABEL-7,Los Montes de Galicia,5.286666666666666,50,three_level,"(Very Positive, +0.29)",2
+Fusion (open-weight),LABEL-7,Taberna Mas Al Sur,5.189333333333333,50,three_level,"(Very Positive, +0.19)",3
+Fusion (open-weight),LABEL-7,Meson Restaurante La Mi Venta,5.0986666666666665,50,three_level,"(Very Positive, +0.10)",4
+Fusion (open-weight),LABEL-7,Inclan Brutal Bar,5.048,50,three_level,"(Very Positive, +0.05)",5
+Fusion (open-weight),LABEL-7,Oven Mozzarella Fuencarral,4.930666666666666,50,three_level,"(Very Positive, -0.07)",6
+Fusion (open-weight),LABEL-7,La Cabana Argentina,4.707333333333334,50,three_level,"(Very Positive, -0.29)",7
+Fusion (open-weight),LABEL-7,Oven Mozzarella Gran Via 6,4.66,50,three_level,"(Very Positive, -0.34)",8
+Fusion (open-weight),LABEL-7,Rosi La Loca,4.562666666666667,50,three_level,"(Very Positive, -0.44)",9
+Fusion (open-weight),LABEL-7,Mercado de San Miguel,4.373333333333333,50,three_level,"(Positive, +0.37)",10
+Fusion (open-weight),LABEL-7,Restaurante Botin,4.306222222222222,50,three_level,"(Positive, +0.31)",11
+Fusion (open-weight),LABEL-7,La Barraca,3.8996296296296293,50,three_level,"(Positive, -0.10)",12
+Fusion (open-weight),SCORE,Zenith Brunch & Cocktails - Valverde,3.8273866666666665,50,three_level,"(Very Positive, -0.17)",1
+Fusion (open-weight),SCORE,Taberna Mas Al Sur,3.7647999999999997,50,three_level,"(Very Positive, -0.24)",2
+Fusion (open-weight),SCORE,Los Montes de Galicia,3.7188866666666667,50,three_level,"(Very Positive, -0.28)",3
+Fusion (open-weight),SCORE,Meson Restaurante La Mi Venta,3.6636933333333332,50,three_level,"(Very Positive, -0.34)",4
+Fusion (open-weight),SCORE,Oven Mozzarella Fuencarral,3.606813333333333,50,three_level,"(Very Positive, -0.39)",5
+Fusion (open-weight),SCORE,Inclan Brutal Bar,3.571373333333333,50,three_level,"(Very Positive, -0.43)",6
+Fusion (open-weight),SCORE,La Cabana Argentina,3.4666666666666663,50,three_level,"(Positive, +0.47)",7
+Fusion (open-weight),SCORE,Oven Mozzarella Gran Via 6,3.429146666666666,50,three_level,"(Positive, +0.43)",8
+Fusion (open-weight),SCORE,Mercado de San Miguel,3.3427333333333333,50,three_level,"(Positive, +0.34)",9
+Fusion (open-weight),SCORE,Rosi La Loca,3.3263399999999996,50,three_level,"(Positive, +0.33)",10
+Fusion (open-weight),SCORE,Restaurante Botin,3.2319466666666665,50,three_level,"(Positive, +0.23)",11
+Fusion (open-weight),SCORE,La Barraca,2.88384,50,three_level,"(Positive, -0.12)",12
+Gemma 4 E4B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.714,50,three_level,"(Very Positive, -0.29)",1
+Gemma 4 E4B,LABEL-5,Los Montes de Galicia,3.68,50,three_level,"(Very Positive, -0.32)",2
+Gemma 4 E4B,LABEL-5,Taberna Mas Al Sur,3.562,50,three_level,"(Very Positive, -0.44)",3
+Gemma 4 E4B,LABEL-5,Inclan Brutal Bar,3.5039999999999996,50,three_level,"(Very Positive, -0.50)",4
+Gemma 4 E4B,LABEL-5,Meson Restaurante La Mi Venta,3.5,50,three_level,"(Very Positive, -0.50)",5
+Gemma 4 E4B,LABEL-5,Oven Mozzarella Fuencarral,3.284,50,three_level,"(Positive, +0.28)",6
+Gemma 4 E4B,LABEL-5,Oven Mozzarella Gran Via 6,3.234,50,three_level,"(Positive, +0.23)",7
+Gemma 4 E4B,LABEL-5,La Cabana Argentina,3.2,50,three_level,"(Positive, +0.20)",8
+Gemma 4 E4B,LABEL-5,Rosi La Loca,3.142,50,three_level,"(Positive, +0.14)",9
+Gemma 4 E4B,LABEL-5,Mercado de San Miguel,2.952,50,three_level,"(Positive, -0.05)",10
+Gemma 4 E4B,LABEL-5,Restaurante Botin,2.926,50,three_level,"(Positive, -0.07)",11
+Gemma 4 E4B,LABEL-5,La Barraca,2.592,50,three_level,"(Positive, -0.41)",12
+Gemma 4 E4B,LABEL-7,Zenith Brunch & Cocktails - Valverde,5.577999999999999,50,three_level,"(Extremely Positive, -0.42)",1
+Gemma 4 E4B,LABEL-7,Los Montes de Galicia,5.524,50,three_level,"(Extremely Positive, -0.48)",2
+Gemma 4 E4B,LABEL-7,Taberna Mas Al Sur,5.396,50,three_level,"(Very Positive, +0.40)",3
+Gemma 4 E4B,LABEL-7,Meson Restaurante La Mi Venta,5.246,50,three_level,"(Very Positive, +0.25)",4
+Gemma 4 E4B,LABEL-7,Inclan Brutal Bar,5.194,50,three_level,"(Very Positive, +0.19)",5
+Gemma 4 E4B,LABEL-7,Oven Mozzarella Fuencarral,5.02,50,three_level,"(Very Positive, +0.02)",6
+Gemma 4 E4B,LABEL-7,Oven Mozzarella Gran Via 6,4.803999999999999,50,three_level,"(Very Positive, -0.20)",7
+Gemma 4 E4B,LABEL-7,La Cabana Argentina,4.762,50,three_level,"(Very Positive, -0.24)",8
+Gemma 4 E4B,LABEL-7,Rosi La Loca,4.692,50,three_level,"(Very Positive, -0.31)",9
+Gemma 4 E4B,LABEL-7,Mercado de San Miguel,4.408,50,three_level,"(Positive, +0.41)",10
+Gemma 4 E4B,LABEL-7,Restaurante Botin,4.388,50,three_level,"(Positive, +0.39)",11
+Gemma 4 E4B,LABEL-7,La Barraca,3.8819999999999997,50,three_level,"(Positive, -0.12)",12
+Gemma 4 E4B,SCORE,Zenith Brunch & Cocktails - Valverde,3.7717999999999994,50,three_level,"(Very Positive, -0.23)",1
+Gemma 4 E4B,SCORE,Taberna Mas Al Sur,3.7017999999999995,50,three_level,"(Very Positive, -0.30)",2
+Gemma 4 E4B,SCORE,Los Montes de Galicia,3.679,50,three_level,"(Very Positive, -0.32)",3
+Gemma 4 E4B,SCORE,Meson Restaurante La Mi Venta,3.6259999999999994,50,three_level,"(Very Positive, -0.37)",4
+Gemma 4 E4B,SCORE,Oven Mozzarella Fuencarral,3.5491999999999995,50,three_level,"(Very Positive, -0.45)",5
+Gemma 4 E4B,SCORE,Inclan Brutal Bar,3.5372,50,three_level,"(Very Positive, -0.46)",6
+Gemma 4 E4B,SCORE,Oven Mozzarella Gran Via 6,3.4108,50,three_level,"(Positive, +0.41)",7
+Gemma 4 E4B,SCORE,La Cabana Argentina,3.3985999999999996,50,three_level,"(Positive, +0.40)",8
+Gemma 4 E4B,SCORE,Rosi La Loca,3.3279999999999994,50,three_level,"(Positive, +0.33)",9
+Gemma 4 E4B,SCORE,Mercado de San Miguel,3.3042000000000002,50,three_level,"(Positive, +0.30)",10
+Gemma 4 E4B,SCORE,Restaurante Botin,3.2014,50,three_level,"(Positive, +0.20)",11
+Gemma 4 E4B,SCORE,La Barraca,2.8634,50,three_level,"(Positive, -0.14)",12
+Ministral 3 8B,LABEL-5,Los Montes de Galicia,3.2643730158730158,50,three_level,"(Positive, +0.26)",1
+Ministral 3 8B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.2342857142857144,50,three_level,"(Positive, +0.23)",2
+Ministral 3 8B,LABEL-5,Taberna Mas Al Sur,3.136777777777778,50,three_level,"(Positive, +0.14)",3
+Ministral 3 8B,LABEL-5,Meson Restaurante La Mi Venta,3.101111111111111,50,three_level,"(Positive, +0.10)",4
+Ministral 3 8B,LABEL-5,Inclan Brutal Bar,3.0669999999999997,50,three_level,"(Positive, +0.07)",5
+Ministral 3 8B,LABEL-5,Oven Mozzarella Fuencarral,2.996666666666667,50,three_level,"(Positive, 0.00)",6
+Ministral 3 8B,LABEL-5,La Cabana Argentina,2.83752380952381,50,three_level,"(Positive, -0.16)",7
+Ministral 3 8B,LABEL-5,Rosi La Loca,2.814888888888889,50,three_level,"(Positive, -0.19)",8
+Ministral 3 8B,LABEL-5,Oven Mozzarella Gran Via 6,2.774920634920635,50,three_level,"(Positive, -0.23)",9
+Ministral 3 8B,LABEL-5,Mercado de San Miguel,2.6462777777777777,50,three_level,"(Positive, -0.35)",10
+Ministral 3 8B,LABEL-5,Restaurante Botin,2.6146666666666665,50,three_level,"(Positive, -0.39)",11
+Ministral 3 8B,LABEL-5,La Barraca,2.316357142857143,50,three_level,"(Neutral, +0.32)",12
+Ministral 3 8B,LABEL-7,Zenith Brunch & Cocktails - Valverde,4.756666666666667,50,three_level,"(Very Positive, -0.24)",1
+Ministral 3 8B,LABEL-7,Los Montes de Galicia,4.704,50,three_level,"(Very Positive, -0.30)",2
+Ministral 3 8B,LABEL-7,Taberna Mas Al Sur,4.586,50,three_level,"(Very Positive, -0.41)",3
+Ministral 3 8B,LABEL-7,Meson Restaurante La Mi Venta,4.556,50,three_level,"(Very Positive, -0.44)",4
+Ministral 3 8B,LABEL-7,Inclan Brutal Bar,4.544,50,three_level,"(Very Positive, -0.46)",5
+Ministral 3 8B,LABEL-7,Oven Mozzarella Fuencarral,4.44,50,three_level,"(Positive, +0.44)",6
+Ministral 3 8B,LABEL-7,La Cabana Argentina,4.282,50,three_level,"(Positive, +0.28)",7
+Ministral 3 8B,LABEL-7,Oven Mozzarella Gran Via 6,4.1819999999999995,50,three_level,"(Positive, +0.18)",8
+Ministral 3 8B,LABEL-7,Rosi La Loca,4.15,50,three_level,"(Positive, +0.15)",9
+Ministral 3 8B,LABEL-7,Mercado de San Miguel,3.9539999999999997,50,three_level,"(Positive, -0.05)",10
+Ministral 3 8B,LABEL-7,Restaurante Botin,3.8866666666666667,50,three_level,"(Positive, -0.11)",11
+Ministral 3 8B,LABEL-7,La Barraca,3.574888888888889,50,three_level,"(Positive, -0.43)",12
+Ministral 3 8B,SCORE,Zenith Brunch & Cocktails - Valverde,3.81852,50,three_level,"(Very Positive, -0.18)",1
+Ministral 3 8B,SCORE,Taberna Mas Al Sur,3.75224,50,three_level,"(Very Positive, -0.25)",2
+Ministral 3 8B,SCORE,Los Montes de Galicia,3.7011399999999997,50,three_level,"(Very Positive, -0.30)",3
+Ministral 3 8B,SCORE,Meson Restaurante La Mi Venta,3.6414400000000002,50,three_level,"(Very Positive, -0.36)",4
+Ministral 3 8B,SCORE,Oven Mozzarella Fuencarral,3.62756,50,three_level,"(Very Positive, -0.37)",5
+Ministral 3 8B,SCORE,Inclan Brutal Bar,3.567599999999999,50,three_level,"(Very Positive, -0.43)",6
+Ministral 3 8B,SCORE,La Cabana Argentina,3.4920799999999996,50,three_level,"(Positive, +0.49)",7
+Ministral 3 8B,SCORE,Oven Mozzarella Gran Via 6,3.4139599999999994,50,three_level,"(Positive, +0.41)",8
+Ministral 3 8B,SCORE,Mercado de San Miguel,3.3720799999999995,50,three_level,"(Positive, +0.37)",9
+Ministral 3 8B,SCORE,Rosi La Loca,3.32654,50,three_level,"(Positive, +0.33)",10
+Ministral 3 8B,SCORE,Restaurante Botin,3.1856799999999996,50,three_level,"(Positive, +0.19)",11
+Ministral 3 8B,SCORE,La Barraca,2.8802,50,three_level,"(Positive, -0.12)",12
+Qwen 3.6 35B,LABEL-5,Zenith Brunch & Cocktails - Valverde,3.9360000000000004,50,three_level,"(Very Positive, -0.06)",1
+Qwen 3.6 35B,LABEL-5,Taberna Mas Al Sur,3.8080000000000003,50,three_level,"(Very Positive, -0.19)",2
+Qwen 3.6 35B,LABEL-5,Los Montes de Galicia,3.766,50,three_level,"(Very Positive, -0.23)",3
+Qwen 3.6 35B,LABEL-5,Meson Restaurante La Mi Venta,3.742,50,three_level,"(Very Positive, -0.26)",4
+Qwen 3.6 35B,LABEL-5,Oven Mozzarella Fuencarral,3.642,50,three_level,"(Very Positive, -0.36)",5
+Qwen 3.6 35B,LABEL-5,Inclan Brutal Bar,3.608,50,three_level,"(Very Positive, -0.39)",6
+Qwen 3.6 35B,LABEL-5,La Cabana Argentina,3.4760000000000004,50,three_level,"(Positive, +0.48)",7
+Qwen 3.6 35B,LABEL-5,Oven Mozzarella Gran Via 6,3.432,50,three_level,"(Positive, +0.43)",8
+Qwen 3.6 35B,LABEL-5,Rosi La Loca,3.31,50,three_level,"(Positive, +0.31)",9
+Qwen 3.6 35B,LABEL-5,Mercado de San Miguel,3.272,50,three_level,"(Positive, +0.27)",10
+Qwen 3.6 35B,LABEL-5,Restaurante Botin,3.2460000000000004,50,three_level,"(Positive, +0.25)",11
+Qwen 3.6 35B,LABEL-5,La Barraca,2.8739999999999997,50,three_level,"(Positive, -0.13)",12
+Qwen 3.6 35B,LABEL-7,Zenith Brunch & Cocktails - Valverde,5.8260000000000005,50,three_level,"(Extremely Positive, -0.17)",1
+Qwen 3.6 35B,LABEL-7,Los Montes de Galicia,5.632000000000001,50,three_level,"(Extremely Positive, -0.37)",2
+Qwen 3.6 35B,LABEL-7,Taberna Mas Al Sur,5.586,50,three_level,"(Extremely Positive, -0.41)",3
+Qwen 3.6 35B,LABEL-7,Meson Restaurante La Mi Venta,5.494,50,three_level,"(Very Positive, +0.49)",4
+Qwen 3.6 35B,LABEL-7,Inclan Brutal Bar,5.406000000000001,50,three_level,"(Very Positive, +0.41)",5
+Qwen 3.6 35B,LABEL-7,Oven Mozzarella Fuencarral,5.332000000000001,50,three_level,"(Very Positive, +0.33)",6
+Qwen 3.6 35B,LABEL-7,La Cabana Argentina,5.078,50,three_level,"(Very Positive, +0.08)",7
+Qwen 3.6 35B,LABEL-7,Oven Mozzarella Gran Via 6,4.994,50,three_level,"(Very Positive, -0.01)",8
+Qwen 3.6 35B,LABEL-7,Rosi La Loca,4.846,50,three_level,"(Very Positive, -0.15)",9
+Qwen 3.6 35B,LABEL-7,Mercado de San Miguel,4.758,50,three_level,"(Very Positive, -0.24)",10
+Qwen 3.6 35B,LABEL-7,Restaurante Botin,4.644,50,three_level,"(Very Positive, -0.36)",11
+Qwen 3.6 35B,LABEL-7,La Barraca,4.242,50,three_level,"(Positive, +0.24)",12
+Qwen 3.6 35B,SCORE,Zenith Brunch & Cocktails - Valverde,3.8918399999999997,50,three_level,"(Very Positive, -0.11)",1
+Qwen 3.6 35B,SCORE,Taberna Mas Al Sur,3.84036,50,three_level,"(Very Positive, -0.16)",2
+Qwen 3.6 35B,SCORE,Los Montes de Galicia,3.7765199999999997,50,three_level,"(Very Positive, -0.22)",3
+Qwen 3.6 35B,SCORE,Meson Restaurante La Mi Venta,3.7236399999999996,50,three_level,"(Very Positive, -0.28)",4
+Qwen 3.6 35B,SCORE,Oven Mozzarella Fuencarral,3.64368,50,three_level,"(Very Positive, -0.36)",5
+Qwen 3.6 35B,SCORE,Inclan Brutal Bar,3.6093199999999994,50,three_level,"(Very Positive, -0.39)",6
+Qwen 3.6 35B,SCORE,La Cabana Argentina,3.50932,50,three_level,"(Very Positive, -0.49)",7
+Qwen 3.6 35B,SCORE,Oven Mozzarella Gran Via 6,3.4626799999999998,50,three_level,"(Positive, +0.46)",8
+Qwen 3.6 35B,SCORE,Mercado de San Miguel,3.3519200000000002,50,three_level,"(Positive, +0.35)",9
+Qwen 3.6 35B,SCORE,Rosi La Loca,3.32448,50,three_level,"(Positive, +0.32)",10
+Qwen 3.6 35B,SCORE,Restaurante Botin,3.30876,50,three_level,"(Positive, +0.31)",11
+Qwen 3.6 35B,SCORE,La Barraca,2.90792,50,three_level,"(Positive, -0.09)",12

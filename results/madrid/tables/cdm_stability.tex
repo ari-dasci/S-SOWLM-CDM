@@ -1,0 +1,26 @@
+\begin{table*}[htbp]
+\centering
+\caption{Stability of the collective ranking under resampling of each review's repeated runs, with the crowd held fixed: this is the decision's exposure to the models' own inference variability, and says nothing about its exposure to who happened to write the reviews (Table~\ref{tab:cdm_crowd}). $\tau$ is the mean Kendall correlation between a replica's ranking and the full-data ranking; Exact is the percentage of replicas reproducing that ranking outright; Top-1 the percentage in which no alternative strictly beats Winner, the alternative ranked first on the full data (a tie for first keeps it); Top the $\beta$ lead of Winner over the runner-up and Min the smallest $\beta$ gap between any two adjacently ranked alternatives, both on the full data. Brackets give the 95\% Wilson interval over 20{,}000 replicas; an interval printed as [100.0, 100.0] has its lower limit above 99.95\%. Reproducibility under a resampling and the size of the margin are different properties and are reported separately.}
+\label{tab:cdm_stability}
+\small
+\begin{tabular}{llccclrr}
+\toprule
+\textbf{Model} & \textbf{Operator} & \textbf{$\tau$} & \textbf{Exact} & \textbf{Top-1} & \textbf{Winner} & \textbf{Lead} & \textbf{Min gap} \\
+\midrule
+  \multirow{4}{*}{Gemma 4 E4B} & \texttt{two\_tuple} & 0.987 & 54.3\% \tiny[53.6, 55.0] & 98.7\% \tiny[98.6, 98.9] & Zenith Brunch \& Cocktails--Valverde & 0.0340 & 0.0040 \\
+   & \texttt{mean\_round} & 0.978 & 5.7\% \tiny[5.4, 6.0] & 99.6\% \tiny[99.5, 99.6] & Zenith Brunch \& Cocktails--Valverde & 0.1000 & 0.0000 \\
+   & \texttt{median\_round} & 0.978 & 5.7\% \tiny[5.4, 6.0] & 99.6\% \tiny[99.5, 99.6] & Zenith Brunch \& Cocktails--Valverde & 0.1000 & 0.0000 \\
+   & \texttt{majority} & 0.967 & 2.2\% \tiny[2.0, 2.4] & 90.8\% \tiny[90.3, 91.1] & Zenith Brunch \& Cocktails--Valverde & 0.0600 & 0.0000 \\
+\midrule
+  \multirow{4}{*}{Ministral 3 8B} & \texttt{two\_tuple} & 0.983 & 54.1\% \tiny[53.4, 54.8] & 88.9\% \tiny[88.4, 89.3] & Los Montes de Galicia & 0.0301 & 0.0226 \\
+   & \texttt{mean\_round} & 0.946 & 1.1\% \tiny[0.9, 1.2] & 75.4\% \tiny[74.8, 76.0] & Los Montes de Galicia & 0.0200 & 0.0000 \\
+   & \texttt{median\_round} & 0.943 & 1.0\% \tiny[0.9, 1.1] & 75.4\% \tiny[74.8, 76.0] & Los Montes de Galicia & 0.0200 & 0.0000 \\
+   & \texttt{majority} & 0.917 & 0.1\% \tiny[0.0, 0.1] & 77.4\% \tiny[76.8, 78.0] & Los Montes de Galicia & -0.0000 & 0.0000 \\
+\midrule
+  \multirow{4}{*}{Qwen 3.6 35B} & \texttt{two\_tuple} & 0.996 & 84.6\% \tiny[84.1, 85.1] & 100.0\% \tiny[100.0, 100.0] & Zenith Brunch \& Cocktails--Valverde & 0.1280 & 0.0240 \\
+   & \texttt{mean\_round} & 0.984 & 10.6\% \tiny[10.2, 11.0] & 100.0\% \tiny[100.0, 100.0] & Zenith Brunch \& Cocktails--Valverde & 0.1200 & 0.0000 \\
+   & \texttt{median\_round} & 0.984 & 10.6\% \tiny[10.2, 11.0] & 100.0\% \tiny[100.0, 100.0] & Zenith Brunch \& Cocktails--Valverde & 0.1200 & 0.0000 \\
+   & \texttt{majority} & 0.964 & 8.4\% \tiny[8.0, 8.8] & 100.0\% \tiny[100.0, 100.0] & Zenith Brunch \& Cocktails--Valverde & 0.1400 & 0.0200 \\
+\bottomrule
+\end{tabular}
+\end{table*}

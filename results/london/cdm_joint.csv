@@ -1,0 +1,22 @@
+operator,hierarchy,model,scheme,condition,reviews,experts,reference_winner,top1_pct,top1_lo,top1_hi,exact_pct,exact_lo,exact_hi,margin_min,margin_lo,margin_hi,inverts_pct,invert_1,invert_2,invert_3,replicas
+two_tuple,two_level,Gemma 4 31B,LABEL-5,runs,474,132,J. Sheekey,100.0,100.0,100.0,100.0,100.0,100.0,0.02288,0.01328,0.03262,0.0,0.0,0.0,0.0,20000
+two_tuple,two_level,Gemma 4 31B,LABEL-5,experts,474,132,J. Sheekey,71.1,70.5,71.7,33.5,32.8,34.2,0.02288,-0.297,0.11387,66.5,27.4,9.7,43.9,20000
+two_tuple,two_level,Gemma 4 31B,LABEL-5,both,474,132,J. Sheekey,71.2,70.6,71.9,33.4,32.8,34.1,0.02288,-0.29811,0.11427,66.6,27.3,9.8,44.0,20000
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,runs,474,132,The Ivy,85.8,85.3,86.3,48.4,47.8,49.1,0.00266,-0.0299,0.02533,51.6,14.2,0.0,43.6,20000
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,experts,474,132,The Ivy,47.4,46.7,48.1,17.1,16.5,17.6,0.00266,-0.30153,0.06487,83.0,44.3,19.5,49.8,20000
+two_tuple,two_level,Gemma 4 E4B,LABEL-5,both,474,132,The Ivy,47.0,46.3,47.6,16.6,16.1,17.1,0.00266,-0.30544,0.066,83.4,44.5,19.9,49.6,20000
+two_tuple,two_level,GPT-5.2,LABEL-5,runs,474,132,J. Sheekey,100.0,100.0,100.0,100.0,100.0,100.0,0.08039,0.06837,0.08881,0.0,0.0,0.0,0.0,20000
+two_tuple,two_level,GPT-5.2,LABEL-5,experts,474,132,J. Sheekey,81.2,80.7,81.7,41.0,40.3,41.7,0.08039,-0.23396,0.1289,59.0,15.3,22.1,30.1,20000
+two_tuple,two_level,GPT-5.2,LABEL-5,both,474,132,J. Sheekey,81.2,80.7,81.7,40.8,40.1,41.5,0.08039,-0.23413,0.12808,59.2,15.4,22.3,30.1,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,runs,474,132,J. Sheekey,90.3,89.9,90.7,46.8,46.1,47.5,0.00085,-0.036,0.02973,53.2,9.7,0.0,48.4,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,experts,474,132,J. Sheekey,53.8,53.1,54.4,22.4,21.8,22.9,0.00085,-0.24844,0.07291,77.6,41.5,12.1,50.1,20000
+two_tuple,two_level,Ministral 3 8B,LABEL-5,both,474,132,J. Sheekey,53.4,52.7,54.1,22.1,21.5,22.7,0.00085,-0.25577,0.07244,77.9,41.8,12.6,50.0,20000
+two_tuple,two_level,Ornith 35B,LABEL-5,runs,474,132,J. Sheekey,100.0,100.0,100.0,99.9,99.8,99.9,0.0387,0.01386,0.06042,0.1,0.0,0.0,0.1,20000
+two_tuple,two_level,Ornith 35B,LABEL-5,experts,474,132,J. Sheekey,70.7,70.0,71.3,38.2,37.5,38.9,0.0387,-0.24549,0.11691,61.8,28.3,4.5,39.6,20000
+two_tuple,two_level,Ornith 35B,LABEL-5,both,474,132,J. Sheekey,70.3,69.7,71.0,37.8,37.1,38.5,0.0387,-0.24955,0.11721,62.2,28.4,4.7,39.6,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,runs,474,132,J. Sheekey,99.9,99.9,99.9,99.9,99.9,99.9,0.03555,0.01301,0.054,0.1,0.1,0.0,0.0,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,experts,474,132,J. Sheekey,61.3,60.6,62.0,36.0,35.4,36.7,0.03555,-0.2569,0.12432,64.0,38.2,2.1,36.7,20000
+two_tuple,two_level,Qwen 3.6 35B,LABEL-5,both,474,132,J. Sheekey,61.2,60.6,61.9,36.1,35.4,36.7,0.03555,-0.26025,0.1242,63.9,38.2,2.2,36.5,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,runs,474,132,J. Sheekey,100.0,100.0,100.0,99.0,98.8,99.1,0.01454,0.00229,0.02666,1.0,0.0,0.0,1.0,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,experts,474,132,J. Sheekey,60.8,60.1,61.4,29.2,28.6,29.8,0.01454,-0.26735,0.10024,70.8,37.4,4.7,46.3,20000
+two_tuple,two_level,Fusion (open-weight),LABEL-5,both,474,132,J. Sheekey,60.6,59.9,61.3,29.0,28.4,29.6,0.01454,-0.26823,0.10124,71.0,37.6,4.7,46.3,20000

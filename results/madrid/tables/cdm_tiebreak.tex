@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\caption{The tie rule of the \texttt{majority} operator (LABEL-5, two-level hierarchy). The reported rule breaks a tie between modal terms towards the lower term; the alternative breaks it towards the upper one. Changed is the number of reviews whose review-level value differs between the rules (for the fusion, whose mode is taken over its members' review values). Min is the smallest adjacent gap of the collective ranking under each rule.}
+\label{tab:cdm_tiebreak}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrllcrr}
+\toprule
+\textbf{System} & \textbf{Changed} & \textbf{Winner (lower)} & \textbf{Winner (upper)} & \textbf{Same order} & \textbf{Min gap (lower)} & \textbf{Min gap (upper)} \\
+\midrule
+  Gemma 4 E4B & 15 & Zenith Brunch \& Cocktails--Valverde & Zenith Brunch \& Cocktails--Valverde & no & 0.0000 & 0.0000 \\
+  Ministral 3 8B & 36 & Los Montes de Galicia & Los Montes de Galicia & no & 0.0000 & 0.0200 \\
+  Qwen 3.6 35B & 11 & Zenith Brunch \& Cocktails--Valverde & Zenith Brunch \& Cocktails--Valverde & yes & 0.0200 & 0.0000 \\
+  Fusion (open-weight) & 29 & Zenith Brunch \& Cocktails--Valverde & Zenith Brunch \& Cocktails--Valverde & yes & 0.0000 & 0.0200 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

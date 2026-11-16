@@ -1,0 +1,16 @@
+\begin{table*}[htbp]
+\centering
+\caption{Prompts, verbatim from \texttt{config/experiments.yaml}. The system prompt is empty for every scheme; \texttt{\{review\}} is replaced by the review text. The $T = 0$ collection uses the LABEL-5 prompt unchanged. Every call to a locally served model sets the temperature shown, caps the reply at 2{,}048 tokens and disables the reasoning trace (\texttt{think: false}), except where Table~\ref{tab:decoding} records the setting as unrecorded.}
+\label{tab:prompts}
+\small
+\begin{tabular}{lp{0.70\textwidth}r}
+\toprule
+\textbf{Scheme} & \textbf{User prompt} & \textbf{$T$} \\
+\midrule
+  SCORE & \texttt{Classify the sentiment of the following text using a score between -1 and 1, where -1 represents a completely negative sentiment, 0 a neutral sentiment and 1 a completely positive sentiment. The response must be only the score:  \{review\}} & 1.0 \\
+  LABEL-7 & \texttt{Classify the sentiment of the following text as extremely\_positive, very\_positive, positive, neutral, negative, very\_negative or extremely\_negative, the answer must be a single label:  \{review\}} & 1.0 \\
+  LABEL-5 & \texttt{Classify the sentiment of the following text as very\_positive, positive, neutral, negative or very\_negative, the answer must be a single label and one word:  \{review\}} & 1.0 \\
+  LABEL-5, $T = 0$ & \texttt{Classify the sentiment of the following text as very\_positive, positive, neutral, negative or very\_negative, the answer must be a single label and one word:  \{review\}} & 0.0 \\
+\bottomrule
+\end{tabular}
+\end{table*}

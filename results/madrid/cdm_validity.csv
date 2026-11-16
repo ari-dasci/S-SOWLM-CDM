@@ -1,0 +1,10 @@
+model,scheme,collected,accepted,rejected,rejected_pct
+Gemma 4 E4B,SCORE,6000,6000,0,0.0
+Gemma 4 E4B,LABEL-7,6000,6000,0,0.0
+Gemma 4 E4B,LABEL-5,6000,6000,0,0.0
+Ministral 3 8B,SCORE,6000,6000,0,0.0
+Ministral 3 8B,LABEL-7,6000,5997,3,0.05
+Ministral 3 8B,LABEL-5,6000,5922,78,1.3
+Qwen 3.6 35B,SCORE,6000,6000,0,0.0
+Qwen 3.6 35B,LABEL-7,6000,6000,0,0.0
+Qwen 3.6 35B,LABEL-5,6000,6000,0,0.0

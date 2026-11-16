@@ -1,0 +1,3 @@
+model,scheme,reviews_affected,mean_y_affected,mean_y_rest,min_alt_rate,max_alt_rate
+Ministral 3 8B,LABEL-7,3,0.4568,0.4337,0.0,2.0
+Ministral 3 8B,LABEL-5,43,0.511,0.4455,2.0,12.0

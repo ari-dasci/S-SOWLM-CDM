@@ -1,0 +1,46 @@
+\begin{table*}[htbp]
+\centering
+\caption{Stability of the collective ranking under resampling of the \emph{experts}, with each expert carrying all of their reviews and the model outputs held fixed. Reviews by one expert are not independent observations of the crowd, so they are drawn as a cluster. This is the uncertainty a decision maker actually faces (a different sample of diners might have ranked the restaurants differently), and it is a different quantity from Table~\ref{tab:cdm_stability}, not a robustness check on it. Every row is scored on the same redrawn crowds, those of the crowd rows of Table~\ref{tab:cdm_joint}; Top-1 and Exact are defined as in Table~\ref{tab:cdm_stability}. Min gap gives the full-data value with the 2.5th and 97.5th percentiles across 20{,}000 replicas, measured between alternatives consecutive in the full-data ranking so that it goes negative when a replica inverts a pair; Inv.\ is the share of replicas in which it does. An interval reaching below zero means the surveyed crowd does not determine the complete ranking; which rivals it leaves undistinguished from the winner is in Table~\ref{tab:cdm_candidates}.}
+\label{tab:cdm_crowd}
+\small
+\begin{tabular}{llccclr}
+\toprule
+\textbf{Model} & \textbf{Operator} & \textbf{$\tau$} & \textbf{Exact} & \textbf{Top-1} & \textbf{Min gap [95\%]} & \textbf{Inv.} \\
+\midrule
+  \multirow{4}{*}{Gemma 4 E4B} & \texttt{two\_tuple} & 0.451 & 17.1\% \tiny[16.5, 17.6] & 47.4\% \tiny[46.7, 48.1] & 0.0027 [-0.3015, 0.0649] & 83\% \\
+   & \texttt{mean\_round} & 0.469 & 16.9\% \tiny[16.4, 17.4] & 46.6\% \tiny[45.9, 47.3] & 0.0106 [-0.3240, 0.0700] & 83\% \\
+   & \texttt{median\_round} & 0.443 & 15.8\% \tiny[15.3, 16.3] & 44.8\% \tiny[44.2, 45.5] & 0.0070 [-0.3273, 0.0664] & 84\% \\
+   & \texttt{majority} & 0.498 & 18.2\% \tiny[17.7, 18.7] & 46.3\% \tiny[45.6, 47.0] & 0.0079 [-0.3204, 0.0774] & 82\% \\
+\midrule
+  \multirow{4}{*}{Ministral 3 8B} & \texttt{two\_tuple} & 0.513 & 22.4\% \tiny[21.8, 22.9] & 53.8\% \tiny[53.1, 54.4] & 0.0008 [-0.2484, 0.0729] & 78\% \\
+   & \texttt{mean\_round} & 0.443 & 20.8\% \tiny[20.2, 21.4] & 58.6\% \tiny[57.9, 59.3] & 0.0167 [-0.2475, 0.0690] & 79\% \\
+   & \texttt{median\_round} & 0.473 & 16.8\% \tiny[16.3, 17.4] & 71.0\% \tiny[70.3, 71.6] & 0.0013 [-0.2617, 0.0575] & 83\% \\
+   & \texttt{majority} & 0.451 & 20.6\% \tiny[20.1, 21.2] & 59.9\% \tiny[59.2, 60.6] & 0.0263 [-0.2364, 0.0668] & 79\% \\
+\midrule
+  \multirow{4}{*}{Gemma 4 31B} & \texttt{two\_tuple} & 0.699 & 33.5\% \tiny[32.8, 34.2] & 71.1\% \tiny[70.5, 71.7] & 0.0229 [-0.2970, 0.1139] & 66\% \\
+   & \texttt{mean\_round} & 0.681 & 31.0\% \tiny[30.4, 31.7] & 70.8\% \tiny[70.2, 71.4] & 0.0126 [-0.3061, 0.1086] & 69\% \\
+   & \texttt{median\_round} & 0.681 & 31.0\% \tiny[30.4, 31.7] & 70.8\% \tiny[70.2, 71.4] & 0.0126 [-0.3061, 0.1086] & 69\% \\
+   & \texttt{majority} & 0.705 & 34.6\% \tiny[33.9, 35.2] & 70.3\% \tiny[69.6, 70.9] & 0.0320 [-0.2898, 0.1147] & 65\% \\
+\midrule
+  \multirow{4}{*}{Ornith 35B} & \texttt{two\_tuple} & 0.713 & 38.2\% \tiny[37.5, 38.9] & 70.7\% \tiny[70.0, 71.3] & 0.0387 [-0.2455, 0.1169] & 62\% \\
+   & \texttt{mean\_round} & 0.720 & 40.4\% \tiny[39.7, 41.1] & 70.8\% \tiny[70.1, 71.4] & 0.0593 [-0.2342, 0.1203] & 60\% \\
+   & \texttt{median\_round} & 0.718 & 39.6\% \tiny[39.0, 40.3] & 68.9\% \tiny[68.2, 69.5] & 0.0593 [-0.2356, 0.1206] & 60\% \\
+   & \texttt{majority} & 0.724 & 38.8\% \tiny[38.2, 39.5] & 74.4\% \tiny[73.8, 75.0] & 0.0312 [-0.2628, 0.1225] & 61\% \\
+\midrule
+  \multirow{4}{*}{Qwen 3.6 35B} & \texttt{two\_tuple} & 0.711 & 36.0\% \tiny[35.4, 36.7] & 61.3\% \tiny[60.6, 62.0] & 0.0355 [-0.2569, 0.1243] & 64\% \\
+   & \texttt{mean\_round} & 0.686 & 33.6\% \tiny[33.0, 34.3] & 65.0\% \tiny[64.4, 65.7] & 0.0216 [-0.2872, 0.1255] & 66\% \\
+   & \texttt{median\_round} & 0.686 & 33.6\% \tiny[33.0, 34.3] & 65.0\% \tiny[64.4, 65.7] & 0.0216 [-0.2872, 0.1255] & 66\% \\
+   & \texttt{majority} & 0.649 & 28.0\% \tiny[27.4, 28.7] & 58.2\% \tiny[57.5, 58.9] & 0.0128 [-0.2992, 0.1132] & 72\% \\
+\midrule
+  \multirow{4}{*}{GPT-5.2} & \texttt{two\_tuple} & 0.696 & 41.0\% \tiny[40.3, 41.7] & 81.2\% \tiny[80.7, 81.7] & 0.0804 [-0.2340, 0.1289] & 59\% \\
+   & \texttt{mean\_round} & 0.697 & 41.0\% \tiny[40.3, 41.7] & 82.9\% \tiny[82.3, 83.4] & 0.0764 [-0.2385, 0.1321] & 59\% \\
+   & \texttt{median\_round} & 0.697 & 41.0\% \tiny[40.3, 41.7] & 82.9\% \tiny[82.3, 83.4] & 0.0764 [-0.2385, 0.1321] & 59\% \\
+   & \texttt{majority} & 0.692 & 40.3\% \tiny[39.6, 41.0] & 83.8\% \tiny[83.3, 84.3] & 0.0764 [-0.2399, 0.1310] & 60\% \\
+\midrule
+  \multirow{4}{*}{Fusion (open-weight)} & \texttt{two\_tuple} & 0.636 & 29.2\% \tiny[28.6, 29.8] & 60.8\% \tiny[60.1, 61.4] & 0.0145 [-0.2673, 0.1002] & 71\% \\
+   & \texttt{mean\_round} & 0.671 & 33.5\% \tiny[32.8, 34.1] & 65.9\% \tiny[65.2, 66.5] & 0.0251 [-0.2736, 0.1180] & 66\% \\
+   & \texttt{median\_round} & 0.700 & 36.3\% \tiny[35.6, 37.0] & 67.4\% \tiny[66.7, 68.0] & 0.0356 [-0.2653, 0.1246] & 64\% \\
+   & \texttt{majority} & 0.737 & 41.8\% \tiny[41.1, 42.5] & 74.2\% \tiny[73.5, 74.8] & 0.0509 [-0.2473, 0.1351] & 58\% \\
+\bottomrule
+\end{tabular}
+\end{table*}

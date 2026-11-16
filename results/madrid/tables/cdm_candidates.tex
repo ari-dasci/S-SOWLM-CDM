@@ -1,0 +1,24 @@
+\begin{table*}[htbp]
+\centering
+\caption{Candidate sets under resampling of the crowd (LABEL-5, 2-tuple operator, two-level hierarchy). Every difference between two alternatives of a system is recomputed on 20{,}000 redrawn crowds, the same crowds for every system. Set (simult.)\ is the reported candidate set, a confidence set for the best alternative: the alternatives no rival is simultaneously better than, from bootstrap max-$t$ intervals over all pairwise differences of the system (critical value $c$ = 3.25 to 3.27 under \emph{participants}; 3.24 to 3.26 under \emph{strat.}); Not excluded lists its members other than the winner. Coverage is simultaneous over all pairwise differences of a system under this resampling design, not with respect to a population of platform users. Set (pairw.)\ is the pairwise sensitivity statement: the winner and every rival whose gap to it has its 2.5th percentile at or below zero, one pair at a time. Neither set shows its members to be equivalent to each other. Lead is the gap to the runner-up with its 2.5th and 97.5th percentiles; Adjacent pairs separated applies the pairwise test to pairs consecutive in the full-data ranking and lists the ranks of those it separates. Alternatives are given by their rank in the system's own full-data ranking. \emph{participants} redraws participants across the corpus; \emph{strat.}\ redraws them within each alternative, keeping its number of reviewers.}
+\label{tab:cdm_candidates}
+\small
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllccclcl}
+\toprule
+\textbf{System} & \textbf{Crowd} & \textbf{Winner} & \textbf{Top-1} & \textbf{Set (pairw.)} & \textbf{Set (simult.)} & \textbf{Not excluded (simult.)} & \textbf{Lead [95\%]} & \textbf{Adjacent pairs separated} \\
+\midrule
+  Gemma 4 E4B & participants & Zenith Brunch \& Cocktails--Valverde & 55.9\% & 4 of 12 & 5 of 12 & 2, 3, 4, 5 & +0.0340 [-0.1762, +0.2715] & 0 of 11 \\
+   & strat. & Zenith Brunch \& Cocktails--Valverde & 56.7\% & 4 of 12 & 5 of 12 & 2, 3, 4, 5 & +0.0340 [-0.1700, +0.2680] & 0 of 11 \\
+  Ministral 3 8B & participants & Los Montes de Galicia & 56.8\% & 6 of 12 & 8 of 12 & 2, 3, 4, 5, 6, 7, 8 & +0.0301 [-0.2116, +0.2535] & 0 of 11 \\
+   & strat. & Los Montes de Galicia & 57.7\% & 6 of 12 & 8 of 12 & 2, 3, 4, 5, 6, 7, 8 & +0.0301 [-0.2084, +0.2505] & 0 of 11 \\
+  Qwen 3.6 35B & participants & Zenith Brunch \& Cocktails--Valverde & 90.1\% & 3 of 12 & 6 of 12 & 2, 3, 4, 5, 6 & +0.1280 [-0.0136, +0.3073] & 0 of 11 \\
+   & strat. & Zenith Brunch \& Cocktails--Valverde & 91.3\% & 3 of 12 & 6 of 12 & 2, 3, 4, 5, 6 & +0.1280 [-0.0100, +0.3040] & 0 of 11 \\
+  Fusion (open-weight) & participants & Zenith Brunch \& Cocktails--Valverde & 63.8\% & 5 of 12 & 6 of 12 & 2, 3, 4, 5, 6 & +0.0580 [-0.1391, +0.2902] & 0 of 11 \\
+   & strat. & Zenith Brunch \& Cocktails--Valverde & 64.3\% & 4 of 12 & 6 of 12 & 2, 3, 4, 5, 6 & +0.0580 [-0.1379, +0.2873] & 0 of 11 \\
+  Stars (reference) & participants & Zenith Brunch \& Cocktails--Valverde & 86.4\% & 2 of 12 & 7 of 12 & 2, 3, 4, 5, 6, 8 & +0.1200 [-0.0638, +0.3455] & 1 of 11: 11--12 \\
+   & strat. & Zenith Brunch \& Cocktails--Valverde & 89.7\% & 2 of 12 & 6 of 12 & 2, 3, 4, 5, 8 & +0.1200 [-0.0600, +0.3400] & 1 of 11: 11--12 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

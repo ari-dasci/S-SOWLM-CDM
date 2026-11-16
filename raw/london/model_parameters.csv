@@ -1,0 +1,6 @@
+tag,digest,parameters,captured
+gemma4:e4b,dc35e8d9c606,top_k=64; top_p=0.95; draft_num_predict=3; temperature=1,2026-10-14
+ministral-3:8b,1922accd5827,temperature=0.15,2026-10-14
+gemma4:31b,6316f0629137,temperature=1; top_k=64; top_p=0.95,2026-10-14
+ornith:35b,5a470e0f652c,temperature=0.6; top_k=20; top_p=0.95,2026-10-14
+qwen3.6:35b,07d35212591f,temperature=1; top_k=20; top_p=0.95; min_p=0; presence_penalty=1.5; repeat_penalty=1,2026-10-14

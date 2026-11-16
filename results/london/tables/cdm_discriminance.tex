@@ -1,0 +1,41 @@
+\begin{table*}[htbp]
+\centering
+\caption{Between-review spread against the noise each operator leaves, in $\beta$ units. $\mathit{SD}_b$ is the spread of the aggregated per-review evaluation across reviews; $\mathit{SD}_{\mathrm{in}}$ the spread of the raw runs within a review, identical across operators by construction; $\mathit{SD}_{\mathrm{res}}$ the spread of the operator's own output under resampling of the runs, the noise that survives aggregation. Both within-review spreads are the square root of the mean of the per-review variances. Ratio is $\mathit{SD}_b/\mathit{SD}_{\mathrm{res}}$ and Share $\sigma^2_b/(\sigma^2_b+\sigma^2_{\mathrm{res}})$, descriptive ratios, not an ICC. Distinct counts the different review-level aggregates and the different collective values of the alternatives (two-level hierarchy).}
+\label{tab:cdm_discriminance}
+\small
+\begin{tabular}{llcccccrr}
+\toprule
+\textbf{Model} & \textbf{Operator} & \textbf{$\mathit{SD}_b$} & \textbf{$\mathit{SD}_{\mathrm{in}}$} & \textbf{$\mathit{SD}_{\mathrm{res}}$} & \textbf{Ratio} & \textbf{Share} & \textbf{Distinct (review)} & \textbf{Distinct (collective)} \\
+\midrule
+  \multirow{4}{*}{Gemma 4 E4B} & \texttt{two\_tuple} & 1.123 & 0.383 & 0.121 & 9.3 & 0.989 & 39 & 4 \\
+   & \texttt{mean\_round} & 1.193 & 0.383 & 0.265 & 4.5 & 0.953 & 5 & 4 \\
+   & \texttt{median\_round} & 1.201 & 0.383 & 0.264 & 4.5 & 0.954 & 5 & 4 \\
+   & \texttt{majority} & 1.209 & 0.383 & 0.266 & 4.5 & 0.954 & 5 & 4 \\
+\midrule
+  \multirow{4}{*}{Ministral 3 8B} & \texttt{two\_tuple} & 0.929 & 0.422 & 0.138 & 6.7 & 0.978 & 65 & 4 \\
+   & \texttt{mean\_round} & 0.964 & 0.422 & 0.280 & 3.4 & 0.922 & 5 & 4 \\
+   & \texttt{median\_round} & 0.966 & 0.422 & 0.288 & 3.4 & 0.918 & 5 & 4 \\
+   & \texttt{majority} & 0.955 & 0.422 & 0.296 & 3.2 & 0.912 & 5 & 4 \\
+\midrule
+  \multirow{4}{*}{Gemma 4 31B} & \texttt{two\_tuple} & 1.109 & 0.105 & 0.033 & 33.5 & 0.999 & 21 & 4 \\
+   & \texttt{mean\_round} & 1.109 & 0.105 & 0.073 & 15.2 & 0.996 & 5 & 4 \\
+   & \texttt{median\_round} & 1.109 & 0.105 & 0.073 & 15.2 & 0.996 & 5 & 4 \\
+   & \texttt{majority} & 1.111 & 0.105 & 0.075 & 14.8 & 0.996 & 5 & 4 \\
+\midrule
+  \multirow{4}{*}{Ornith 35B} & \texttt{two\_tuple} & 1.013 & 0.295 & 0.093 & 10.8 & 0.992 & 37 & 4 \\
+   & \texttt{mean\_round} & 1.049 & 0.295 & 0.190 & 5.5 & 0.968 & 5 & 4 \\
+   & \texttt{median\_round} & 1.048 & 0.295 & 0.193 & 5.4 & 0.967 & 5 & 4 \\
+   & \texttt{majority} & 1.057 & 0.295 & 0.198 & 5.3 & 0.966 & 5 & 4 \\
+\midrule
+  \multirow{4}{*}{Qwen 3.6 35B} & \texttt{two\_tuple} & 1.067 & 0.281 & 0.089 & 12.0 & 0.993 & 41 & 4 \\
+   & \texttt{mean\_round} & 1.099 & 0.281 & 0.180 & 6.1 & 0.974 & 5 & 4 \\
+   & \texttt{median\_round} & 1.099 & 0.281 & 0.180 & 6.1 & 0.974 & 5 & 4 \\
+   & \texttt{majority} & 1.113 & 0.281 & 0.188 & 5.9 & 0.972 & 5 & 4 \\
+\midrule
+  \multirow{4}{*}{GPT-5.2} & \texttt{two\_tuple} & 1.143 & 0.146 & 0.046 & 24.8 & 0.998 & 25 & 4 \\
+   & \texttt{mean\_round} & 1.150 & 0.146 & 0.085 & 13.5 & 0.995 & 5 & 4 \\
+   & \texttt{median\_round} & 1.150 & 0.146 & 0.085 & 13.5 & 0.995 & 5 & 4 \\
+   & \texttt{majority} & 1.153 & 0.146 & 0.085 & 13.6 & 0.995 & 5 & 4 \\
+\bottomrule
+\end{tabular}
+\end{table*}

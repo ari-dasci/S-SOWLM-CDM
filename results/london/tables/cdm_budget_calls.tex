@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\caption{The budget counted in model calls per review (LABEL-5, 2-tuple operator, two-level hierarchy, $T = 1.0$): one model with $k$ runs makes $k$ calls, the five-member fusion $5k$, its $k$-subsets applied by rounds. Single is the single model with the highest crowd Top-1 at that count, chosen with hindsight; Top-1 is the median over $k$-subsets of the share of redrawn crowds in which no alternative strictly beats the subset's winner. Seconds are estimated from per-request medians. Full curve: Table~\ref{tab:cdm_budget}.}
+\label{tab:cdm_budget_calls}
+\small
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{rlrrrr}
+\toprule
+ & \multicolumn{3}{c}{\textbf{Best single model}} & \multicolumn{2}{c}{\textbf{Fusion}} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-6}
+\textbf{Calls} & \textbf{System} & \textbf{Top-1} & \textbf{s} & \textbf{Top-1} & \textbf{s} \\
+\midrule
+  1 & Gemma 4 31B & 72.0\% & 0.32 & -- & -- \\
+  2 & Gemma 4 31B & 70.7\% & 0.63 & -- & -- \\
+  3 & Gemma 4 31B & 71.0\% & 0.95 & -- & -- \\
+  5 & Gemma 4 31B & 71.1\% & 1.58 & 60.5\% & 1.10 \\
+  10 & Gemma 4 31B & 71.1\% & 3.17 & 60.5\% & 2.20 \\
+  15 & -- & -- & -- & 60.9\% & 3.29 \\
+  25 & -- & -- & -- & 60.8\% & 5.49 \\
+  50 & -- & -- & -- & 60.8\% & 10.98 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

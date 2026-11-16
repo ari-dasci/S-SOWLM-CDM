@@ -1,0 +1,1321 @@
+model,scheme,crowd_mode,method,i,j,i_rank,j_rank,gap_full,se,lo_simult,hi_simult,excluded_by
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,0.11476,-0.34096,0.40896,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,0.09757,-0.1668,0.4708,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,0.1266,-0.20364,0.62364,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.10602,-0.13241,0.56041,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.11906,0.04099,0.81901,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.13077,0.05271,0.90729,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.13215,0.08223,0.94577,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.14509,0.09793,1.04607,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.10242,0.42734,1.09666,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.13147,0.35844,1.21756,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.18135,0.52948,1.71452,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,0.12955,-0.30528,0.54128,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,4,0.176,0.15219,-0.32124,0.67324,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,5,0.18,0.13673,-0.26673,0.62673,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.396,0.14671,-0.08334,0.87534,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,7,0.446,0.15628,-0.06462,0.95662,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,La Cabana Argentina,2,8,0.48,0.1567,-0.03199,0.99199,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.538,0.16825,-0.01172,1.08772,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Mercado de San Miguel,2,10,0.728,0.13319,0.29281,1.16319,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,Restaurante Botin,2,11,0.754,0.1573,0.24004,1.26796,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Los Montes de Galicia,La Barraca,2,12,1.088,0.20076,0.43205,1.74395,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,0.14071,-0.40173,0.51773,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,5,0.062,0.12277,-0.33913,0.46313,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.278,0.13352,-0.15824,0.71424,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,7,0.328,0.14524,-0.14656,0.80256,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,8,0.362,0.14572,-0.11412,0.83812,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.42,0.15723,-0.09371,0.93371,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.61,0.1199,0.21824,1.00176,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.636,0.14465,0.16339,1.10861,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.97,0.19202,0.34259,1.59741,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,0.14607,-0.47326,0.48126,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,4,6,0.22,0.15612,-0.2901,0.7301,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,4,7,0.27,0.16609,-0.27268,0.81268,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Cabana Argentina,4,8,0.304,0.16535,-0.23625,0.84425,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Rosi La Loca,4,9,0.362,0.17479,-0.20911,0.93311,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Mercado de San Miguel,4,10,0.552,0.14366,0.08261,1.02139,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,Restaurante Botin,4,11,0.578,0.166,0.03562,1.12038,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Barraca,4,12,0.912,0.2084,0.2311,1.5929,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,0.14028,-0.24236,0.67436,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,5,7,0.266,0.15096,-0.22724,0.75924,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,5,8,0.3,0.15141,-0.19472,0.79472,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,5,9,0.358,0.16247,-0.17283,0.88883,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,5,10,0.548,0.12649,0.13471,0.96129,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,5,11,0.574,0.14995,0.08407,1.06393,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Barraca,5,12,0.908,0.19606,0.26739,1.54861,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,0.15954,-0.47128,0.57128,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,8,0.084,0.16074,-0.44119,0.60919,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.142,0.17161,-0.41872,0.70272,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.332,0.13762,-0.11764,0.78164,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.358,0.16193,-0.17108,0.88708,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.692,0.20459,0.02352,1.36048,True
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,0.16838,-0.51615,0.58415,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,7,9,0.092,0.17982,-0.49555,0.67955,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,7,10,0.282,0.14847,-0.20312,0.76712,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,7,11,0.308,0.16889,-0.24382,0.85982,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Barraca,7,12,0.642,0.21012,-0.04453,1.32853,False
+Gemma 4 E4B,LABEL-5,experts,max_t,La Cabana Argentina,Rosi La Loca,8,9,0.058,0.18002,-0.53018,0.64618,False
+Gemma 4 E4B,LABEL-5,experts,max_t,La Cabana Argentina,Mercado de San Miguel,8,10,0.248,0.1489,-0.23852,0.73452,False
+Gemma 4 E4B,LABEL-5,experts,max_t,La Cabana Argentina,Restaurante Botin,8,11,0.274,0.17,-0.28144,0.82944,False
+Gemma 4 E4B,LABEL-5,experts,max_t,La Cabana Argentina,La Barraca,8,12,0.608,0.21188,-0.08429,1.30029,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.19,0.16003,-0.33289,0.71289,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Rosi La Loca,Restaurante Botin,9,11,0.216,0.17995,-0.37197,0.80397,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Rosi La Loca,La Barraca,9,12,0.55,0.21985,-0.16831,1.26831,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.14892,-0.46058,0.51258,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Mercado de San Miguel,La Barraca,10,12,0.36,0.19398,-0.2738,0.9938,False
+Gemma 4 E4B,LABEL-5,experts,max_t,Restaurante Botin,La Barraca,11,12,0.334,0.21025,-0.35297,1.02097,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,0.11911,-0.35812,0.4183,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,0.1222,-0.27066,0.52585,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,0.13478,-0.276,0.60253,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,0.14116,-0.26267,0.65742,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,0.13838,-0.1833,0.71872,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.15118,-0.06585,0.91955,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.15555,-0.05748,0.95645,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.15738,-0.02347,1.00238,False
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.14347,0.15049,1.0857,True
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.15751,0.13635,1.16306,True
+Ministral 3 8B,LABEL-5,experts,max_t,Los Montes de Galicia,La Barraca,1,12,0.94802,0.18097,0.35822,1.53781,True
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,0.10077,-0.23092,0.42593,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,2,4,0.13317,0.11458,-0.24026,0.50661,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,2,5,0.16729,0.12286,-0.23312,0.56769,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,2,6,0.23762,0.11959,-0.15214,0.62738,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,2,7,0.39676,0.13484,-0.0427,0.83622,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,2,8,0.4194,0.13927,-0.03451,0.8733,False
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,2,9,0.45937,0.13992,0.00335,0.91538,True
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,2,10,0.58801,0.12511,0.18027,0.99575,True
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,2,11,0.61962,0.14001,0.16331,1.07593,True
+Ministral 3 8B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,2,12,0.91793,0.1677,0.37138,1.46448,True
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,0.11891,-0.35188,0.42321,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.06978,0.12692,-0.34388,0.48344,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.14011,0.12377,-0.26328,0.5435,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.29925,0.13832,-0.15155,0.75005,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Rosi La Loca,3,8,0.32189,0.14253,-0.14263,0.78641,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,9,0.36186,0.14455,-0.10927,0.83298,False
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.4905,0.13018,0.06623,0.91477,True
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.52211,0.14444,0.05135,0.99288,True
+Ministral 3 8B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.82042,0.17088,0.2635,1.37734,True
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,0.13769,-0.41464,0.48286,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.10444,0.13505,-0.33571,0.5446,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.26359,0.14931,-0.22303,0.7502,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,8,0.28622,0.15275,-0.21161,0.78405,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,9,0.32619,0.15509,-0.17928,0.83166,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.45483,0.14091,-0.0044,0.91407,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.48644,0.15391,-0.01518,0.98807,False
+Ministral 3 8B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.78475,0.17899,0.20141,1.3681,True
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,0.14261,-0.39447,0.53513,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22948,0.15484,-0.27518,0.73413,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,Rosi La Loca,5,8,0.25211,0.15767,-0.26175,0.76597,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,9,0.29208,0.16099,-0.23261,0.81677,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.42072,0.14713,-0.05881,0.90025,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,Restaurante Botin,5,11,0.45233,0.16136,-0.07357,0.97823,False
+Ministral 3 8B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Barraca,5,12,0.75064,0.18451,0.14928,1.352,True
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,0.15305,-0.33965,0.65794,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,8,0.18178,0.15657,-0.32852,0.69208,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,9,0.22175,0.15724,-0.29073,0.73422,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.35039,0.14565,-0.12429,0.82507,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.382,0.15914,-0.13668,0.90068,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.68031,0.18298,0.08396,1.27666,True
+Ministral 3 8B,LABEL-5,experts,max_t,La Cabana Argentina,Rosi La Loca,7,8,0.02263,0.16833,-0.52597,0.57124,False
+Ministral 3 8B,LABEL-5,experts,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,9,0.0626,0.168,-0.48493,0.61014,False
+Ministral 3 8B,LABEL-5,experts,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.19125,0.15838,-0.32493,0.70742,False
+Ministral 3 8B,LABEL-5,experts,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.22286,0.17001,-0.33124,0.77695,False
+Ministral 3 8B,LABEL-5,experts,max_t,La Cabana Argentina,La Barraca,7,12,0.52117,0.19279,-0.10715,1.14948,False
+Ministral 3 8B,LABEL-5,experts,max_t,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,0.17263,-0.52267,0.60261,False
+Ministral 3 8B,LABEL-5,experts,max_t,Rosi La Loca,Mercado de San Miguel,8,10,0.16861,0.16103,-0.3562,0.69342,False
+Ministral 3 8B,LABEL-5,experts,max_t,Rosi La Loca,Restaurante Botin,8,11,0.20022,0.17348,-0.36517,0.76561,False
+Ministral 3 8B,LABEL-5,experts,max_t,Rosi La Loca,La Barraca,8,12,0.49853,0.19545,-0.13847,1.13553,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,0.16258,-0.40124,0.65853,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,9,11,0.16025,0.17469,-0.40908,0.72959,False
+Ministral 3 8B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Barraca,9,12,0.45856,0.19677,-0.18273,1.09986,False
+Ministral 3 8B,LABEL-5,experts,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,0.16296,-0.4995,0.56272,False
+Ministral 3 8B,LABEL-5,experts,max_t,Mercado de San Miguel,La Barraca,10,12,0.32992,0.18594,-0.27609,0.93593,False
+Ministral 3 8B,LABEL-5,experts,max_t,Restaurante Botin,La Barraca,11,12,0.29831,0.19647,-0.34202,0.93864,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,0.08223,-0.14071,0.39671,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,0.11583,-0.20848,0.54848,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.09523,-0.1172,0.5052,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.11951,-0.09653,0.68453,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.14342,-0.14064,0.79664,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.12521,0.05085,0.86915,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.13478,0.0636,0.9444,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.16795,0.07719,1.17481,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.11627,0.28405,1.04395,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.13856,0.23723,1.14277,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.20427,0.39452,1.72948,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,0.13281,-0.39198,0.47598,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,2,4,0.066,0.11579,-0.31237,0.44437,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,2,5,0.166,0.13605,-0.27856,0.61056,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,2,6,0.2,0.15727,-0.31392,0.71392,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Cabana Argentina,2,7,0.332,0.14154,-0.13052,0.79452,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,2,8,0.376,0.15053,-0.11588,0.86788,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Rosi La Loca,2,9,0.498,0.18029,-0.09115,1.08715,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Mercado de San Miguel,2,10,0.536,0.13432,0.09708,0.97492,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,Restaurante Botin,2,11,0.562,0.15284,0.06256,1.06144,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Taberna Mas Al Sur,La Barraca,2,12,0.934,0.21501,0.2314,1.6366,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,0.14139,-0.43803,0.48603,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,3,5,0.124,0.1582,-0.39294,0.64094,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Inclan Brutal Bar,3,6,0.158,0.17721,-0.42106,0.73706,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,La Cabana Argentina,3,7,0.29,0.16246,-0.24088,0.82088,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,3,8,0.334,0.17035,-0.22264,0.89064,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Rosi La Loca,3,9,0.456,0.19715,-0.18823,1.10023,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Mercado de San Miguel,3,10,0.494,0.15561,-0.0145,1.0025,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,Restaurante Botin,3,11,0.52,0.17282,-0.04473,1.08473,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Los Montes de Galicia,La Barraca,3,12,0.892,0.22888,0.1441,1.6399,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,0.14498,-0.37375,0.57375,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,6,0.134,0.16458,-0.40378,0.67178,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.266,0.14938,-0.22213,0.75413,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.31,0.15813,-0.20673,0.82673,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.432,0.18668,-0.17802,1.04202,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.47,0.14235,0.00486,0.93514,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.496,0.15965,-0.0257,1.0177,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.868,0.22003,0.14901,1.58699,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,0.17973,-0.55331,0.62131,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,5,7,0.166,0.16596,-0.37631,0.70831,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,5,8,0.21,0.17289,-0.35497,0.77497,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,5,9,0.332,0.19989,-0.3212,0.9852,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,5,10,0.37,0.16016,-0.15336,0.89336,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,5,11,0.396,0.17852,-0.18733,0.97933,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Barraca,5,12,0.768,0.23261,0.0079,1.5281,True
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,0.18261,-0.46471,0.72871,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,6,8,0.176,0.19161,-0.45013,0.80213,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,Rosi La Loca,6,9,0.298,0.21389,-0.40094,0.99694,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,Mercado de San Miguel,6,10,0.336,0.17825,-0.24646,0.91846,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,Restaurante Botin,6,11,0.362,0.19342,-0.27004,0.99404,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Inclan Brutal Bar,La Barraca,6,12,0.734,0.24534,-0.06769,1.53569,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,0.1768,-0.53374,0.62174,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.166,0.20319,-0.49796,0.82996,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.204,0.16405,-0.33206,0.74006,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.23,0.18026,-0.35902,0.81902,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,La Cabana Argentina,La Barraca,7,12,0.602,0.23516,-0.16644,1.37044,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,0.20927,-0.56184,0.80584,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.16,0.17211,-0.40241,0.72241,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.186,0.18669,-0.42403,0.79603,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.558,0.24025,-0.22708,1.34308,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.038,0.19745,-0.6072,0.6832,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Rosi La Loca,Restaurante Botin,9,11,0.064,0.21132,-0.62652,0.75452,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Rosi La Loca,La Barraca,9,12,0.436,0.26021,-0.4143,1.2863,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.17406,-0.54278,0.59478,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Mercado de San Miguel,La Barraca,10,12,0.398,0.23015,-0.35407,1.15007,False
+Qwen 3.6 35B,LABEL-5,experts,max_t,Restaurante Botin,La Barraca,11,12,0.372,0.24138,-0.41674,1.16074,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,0.1109,-0.30337,0.41932,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,0.08567,-0.15331,0.40498,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,0.098,-0.13892,0.4997,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,0.12505,-0.17235,0.64254,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.11207,-0.04461,0.68568,False
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.12345,0.05468,0.85916,True
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.1277,0.06505,0.8972,True
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.14549,0.06507,1.01319,True
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.10696,0.32283,1.01985,True
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.12963,0.27682,1.12159,True
+Fusion (open-weight),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.17854,0.45223,1.61572,True
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,0.12261,-0.33163,0.46736,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.12242,0.13207,-0.3079,0.55274,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.17712,0.15255,-0.31993,0.67417,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.26257,0.14235,-0.20125,0.72638,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,La Cabana Argentina,2,7,0.39895,0.15091,-0.09277,0.89067,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.42315,0.1553,-0.08285,0.92915,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.48116,0.16963,-0.07154,1.03386,False
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Mercado de San Miguel,2,10,0.61337,0.13826,0.16287,1.06386,True
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,Restaurante Botin,2,11,0.64124,0.15696,0.12982,1.15265,True
+Fusion (open-weight),LABEL-5,experts,max_t,Los Montes de Galicia,La Barraca,2,12,0.97601,0.19871,0.32853,1.62348,True
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,0.11202,-0.31044,0.41955,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.10926,0.13604,-0.33401,0.55253,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.1947,0.12406,-0.20952,0.59893,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.33108,0.13471,-0.10786,0.77003,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.35529,0.13936,-0.0988,0.80937,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.4133,0.15487,-0.09133,0.91792,False
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.5455,0.12066,0.15237,0.93863,True
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.57337,0.14038,0.11597,1.03077,True
+Fusion (open-weight),LABEL-5,experts,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.90814,0.18691,0.29914,1.51714,True
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,0.14374,-0.41365,0.52306,False
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.14015,0.1332,-0.29385,0.57415,False
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.27653,0.14299,-0.18937,0.74243,False
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.30073,0.14755,-0.18002,0.78148,False
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.35874,0.16202,-0.16918,0.88667,False
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.49094,0.12929,0.06967,0.91221,True
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.51881,0.14758,0.03796,0.99967,True
+Fusion (open-weight),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.85358,0.19252,0.22629,1.48088,True
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,0.15406,-0.41654,0.58743,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22183,0.16163,-0.3048,0.74845,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.24603,0.16682,-0.29753,0.78958,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,Rosi La Loca,5,9,0.30404,0.17813,-0.27637,0.88444,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.43624,0.15047,-0.05403,0.92651,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,Restaurante Botin,5,11,0.46411,0.16787,-0.08287,1.0111,False
+Fusion (open-weight),LABEL-5,experts,max_t,Inclan Brutal Bar,La Barraca,5,12,0.79888,0.20797,0.12125,1.47651,True
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,0.15297,-0.36204,0.6348,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.16058,0.15605,-0.34786,0.66903,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.21859,0.17099,-0.33855,0.77574,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.3508,0.14069,-0.10762,0.80921,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.37867,0.15983,-0.1421,0.89943,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.71344,0.20104,0.05837,1.3685,True
+Fusion (open-weight),LABEL-5,experts,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,0.16369,-0.50915,0.55755,False
+Fusion (open-weight),LABEL-5,experts,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.08221,0.17823,-0.49852,0.66295,False
+Fusion (open-weight),LABEL-5,experts,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.21442,0.1498,-0.27367,0.7025,False
+Fusion (open-weight),LABEL-5,experts,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.24229,0.16635,-0.29974,0.78432,False
+Fusion (open-weight),LABEL-5,experts,max_t,La Cabana Argentina,La Barraca,7,12,0.57706,0.20711,-0.09777,1.25188,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,0.18148,-0.5333,0.64932,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.19021,0.1537,-0.31058,0.69101,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.21808,0.16956,-0.33439,0.77055,False
+Fusion (open-weight),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.55285,0.20939,-0.12939,1.2351,False
+Fusion (open-weight),LABEL-5,experts,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,0.16737,-0.41315,0.67756,False
+Fusion (open-weight),LABEL-5,experts,max_t,Rosi La Loca,Restaurante Botin,9,11,0.16007,0.18288,-0.43579,0.75594,False
+Fusion (open-weight),LABEL-5,experts,max_t,Rosi La Loca,La Barraca,9,12,0.49484,0.22051,-0.22364,1.21333,False
+Fusion (open-weight),LABEL-5,experts,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,0.15494,-0.47698,0.53272,False
+Fusion (open-weight),LABEL-5,experts,max_t,Mercado de San Miguel,La Barraca,10,12,0.36264,0.19729,-0.28018,1.00546,False
+Fusion (open-weight),LABEL-5,experts,max_t,Restaurante Botin,La Barraca,11,12,0.33477,0.21003,-0.34956,1.0191,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,0.1042,-0.2191,0.4591,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.08624,-0.10064,0.46064,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.09012,-0.11326,0.47326,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.12053,-0.11223,0.67223,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.12379,-0.00284,0.80284,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.11289,0.03262,0.76738,True
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.12911,-0.00018,0.84018,False
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.1454,0.14682,1.09318,True
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.14242,0.17652,1.10348,True
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.1174,0.31793,1.08207,True
+Stars (reference),LABEL-5,experts,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.19067,0.5395,1.7805,True
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,0.11919,-0.32789,0.44789,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.06,0.1226,-0.33897,0.45897,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.16,0.14602,-0.31521,0.63521,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.28,0.14903,-0.20499,0.76499,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,La Cabana Argentina,2,7,0.28,0.13947,-0.17389,0.73389,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.3,0.15337,-0.19911,0.79911,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.5,0.16751,-0.04513,1.04513,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Restaurante Botin,2,10,0.52,0.16358,-0.01234,1.05234,False
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,Mercado de San Miguel,2,11,0.58,0.14288,0.11503,1.04497,True
+Stars (reference),LABEL-5,experts,max_t,Los Montes de Galicia,La Barraca,2,12,1.04,0.20752,0.36466,1.71534,True
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,0.10717,-0.34877,0.34877,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.1,0.13391,-0.33579,0.53579,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.22,0.13695,-0.22567,0.66567,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.22,0.12704,-0.19342,0.63342,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.24,0.14275,-0.22455,0.70455,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.44,0.15657,-0.06951,0.94951,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Restaurante Botin,3,10,0.46,0.15298,-0.03784,0.95784,False
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,11,0.52,0.1321,0.09011,0.94989,True
+Stars (reference),LABEL-5,experts,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.98,0.19958,0.33051,1.62949,True
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,0.13678,-0.34512,0.54512,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.22,0.13943,-0.23374,0.67374,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.22,0.13049,-0.20464,0.64464,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.24,0.14518,-0.23247,0.71247,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.44,0.15893,-0.0772,0.9572,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,10,0.46,0.15599,-0.04764,0.96764,False
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,11,0.52,0.1343,0.08294,0.95706,True
+Stars (reference),LABEL-5,experts,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.98,0.20214,0.32216,1.63784,True
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,0.16054,-0.40245,0.64245,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.12,0.15136,-0.37259,0.61259,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.14,0.16573,-0.39934,0.67934,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,Rosi La Loca,5,9,0.34,0.17657,-0.23461,0.91461,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,Restaurante Botin,5,10,0.36,0.17518,-0.21009,0.93009,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,11,0.42,0.15599,-0.08765,0.92765,False
+Stars (reference),LABEL-5,experts,max_t,Inclan Brutal Bar,La Barraca,5,12,0.88,0.21602,0.17699,1.58301,True
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,0.15524,-0.50518,0.50518,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.02,0.1671,-0.5238,0.5638,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.22,0.18019,-0.36639,0.80639,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,10,0.24,0.17954,-0.34429,0.82429,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,11,0.3,0.15899,-0.21739,0.81739,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.76,0.2199,0.04437,1.47563,True
+Stars (reference),LABEL-5,experts,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,0.15962,-0.49946,0.53946,False
+Stars (reference),LABEL-5,experts,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.22,0.1733,-0.34397,0.78397,False
+Stars (reference),LABEL-5,experts,max_t,La Cabana Argentina,Restaurante Botin,7,10,0.24,0.17017,-0.31379,0.79379,False
+Stars (reference),LABEL-5,experts,max_t,La Cabana Argentina,Mercado de San Miguel,7,11,0.3,0.15115,-0.19189,0.79189,False
+Stars (reference),LABEL-5,experts,max_t,La Cabana Argentina,La Barraca,7,12,0.76,0.21331,0.06583,1.45417,True
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,0.18434,-0.39991,0.79991,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,10,0.22,0.18196,-0.37216,0.81216,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,11,0.28,0.1637,-0.25274,0.81274,False
+Stars (reference),LABEL-5,experts,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.74,0.22089,0.02116,1.45884,True
+Stars (reference),LABEL-5,experts,max_t,Rosi La Loca,Restaurante Botin,9,10,0.02,0.19269,-0.60707,0.64707,False
+Stars (reference),LABEL-5,experts,max_t,Rosi La Loca,Mercado de San Miguel,9,11,0.08,0.17496,-0.48936,0.64936,False
+Stars (reference),LABEL-5,experts,max_t,Rosi La Loca,La Barraca,9,12,0.54,0.23199,-0.21498,1.29498,False
+Stars (reference),LABEL-5,experts,max_t,Restaurante Botin,Mercado de San Miguel,10,11,0.06,0.17296,-0.50286,0.62286,False
+Stars (reference),LABEL-5,experts,max_t,Restaurante Botin,La Barraca,10,12,0.52,0.22818,-0.22256,1.26256,False
+Stars (reference),LABEL-5,experts,max_t,Mercado de San Miguel,La Barraca,11,12,0.46,0.21555,-0.24145,1.16145,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,0.11476,-0.53161,0.59961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,0.09757,-0.41361,0.71761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,0.1266,-0.35561,0.77561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.10602,-0.35161,0.77961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.11906,-0.13561,0.99561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.13077,-0.08561,1.04561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.13215,-0.05161,1.07961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.14509,0.00639,1.13761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.10242,0.19639,1.32761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.13147,0.22239,1.35361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.18135,0.55639,1.68761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,0.12955,-0.44761,0.68361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,4,0.176,0.15219,-0.38961,0.74161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,5,0.18,0.13673,-0.38561,0.74561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.396,0.14671,-0.16961,0.96161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,7,0.446,0.15628,-0.11961,1.01161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,8,0.48,0.1567,-0.08561,1.04561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.538,0.16825,-0.02761,1.10361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,10,0.728,0.13319,0.16239,1.29361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Restaurante Botin,2,11,0.754,0.1573,0.18839,1.31961,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Barraca,2,12,1.088,0.20076,0.52239,1.65361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,0.14071,-0.50761,0.62361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,5,0.062,0.12277,-0.50361,0.62761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.278,0.13352,-0.28761,0.84361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,7,0.328,0.14524,-0.23761,0.89361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,8,0.362,0.14572,-0.20361,0.92761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.42,0.15723,-0.14561,0.98561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.61,0.1199,0.04439,1.17561,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.636,0.14465,0.07039,1.20161,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.97,0.19202,0.40439,1.53561,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,0.14607,-0.56161,0.56961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,4,6,0.22,0.15612,-0.34561,0.78561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,4,7,0.27,0.16609,-0.29561,0.83561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Cabana Argentina,4,8,0.304,0.16535,-0.26161,0.86961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Rosi La Loca,4,9,0.362,0.17479,-0.20361,0.92761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,4,10,0.552,0.14366,-0.01361,1.11761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Restaurante Botin,4,11,0.578,0.166,0.01239,1.14361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Barraca,4,12,0.912,0.2084,0.34639,1.47761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,0.14028,-0.34961,0.78161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,5,7,0.266,0.15096,-0.29961,0.83161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,5,8,0.3,0.15141,-0.26561,0.86561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,5,9,0.358,0.16247,-0.20761,0.92361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,5,10,0.548,0.12649,-0.01761,1.11361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,5,11,0.574,0.14995,0.00839,1.13961,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Barraca,5,12,0.908,0.19606,0.34239,1.47361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,0.15954,-0.51561,0.61561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,8,0.084,0.16074,-0.48161,0.64961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.142,0.17161,-0.42361,0.70761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.332,0.13762,-0.23361,0.89761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.358,0.16193,-0.20761,0.92361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.692,0.20459,0.12639,1.25761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,0.16838,-0.53161,0.59961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,7,9,0.092,0.17982,-0.47361,0.65761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,7,10,0.282,0.14847,-0.28361,0.84761,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,7,11,0.308,0.16889,-0.25761,0.87361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,7,12,0.642,0.21012,0.07639,1.20761,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,La Cabana Argentina,Rosi La Loca,8,9,0.058,0.18002,-0.50761,0.62361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,La Cabana Argentina,Mercado de San Miguel,8,10,0.248,0.1489,-0.31761,0.81361,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,La Cabana Argentina,Restaurante Botin,8,11,0.274,0.17,-0.29161,0.83961,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,La Cabana Argentina,La Barraca,8,12,0.608,0.21188,0.04239,1.17361,True
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.19,0.16003,-0.37561,0.75561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.216,0.17995,-0.34961,0.78161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Rosi La Loca,La Barraca,9,12,0.55,0.21985,-0.01561,1.11561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.14892,-0.53961,0.59161,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.36,0.19398,-0.20561,0.92561,False
+Gemma 4 E4B,LABEL-5,experts,percentile_max,Restaurante Botin,La Barraca,11,12,0.334,0.21025,-0.23161,0.89961,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,0.11911,-0.50262,0.56279,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,0.1222,-0.40511,0.6603,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,0.13478,-0.36945,0.69597,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,0.14116,-0.33533,0.73008,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,0.13838,-0.265,0.80041,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.15118,-0.10586,0.95956,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.15555,-0.08322,0.98219,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.15738,-0.04326,1.02216,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.14347,0.08539,1.1508,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.15751,0.117,1.18241,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Barraca,1,12,0.94802,0.18097,0.41531,1.48072,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,0.10077,-0.4352,0.63022,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,2,4,0.13317,0.11458,-0.39953,0.66588,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,2,5,0.16729,0.12286,-0.36542,0.69999,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,2,6,0.23762,0.11959,-0.29509,0.77033,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,2,7,0.39676,0.13484,-0.13595,0.92947,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,2,8,0.4194,0.13927,-0.11331,0.9521,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,2,9,0.45937,0.13992,-0.07334,0.99207,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,2,10,0.58801,0.12511,0.0553,1.12072,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,2,11,0.61962,0.14001,0.08691,1.15233,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,2,12,0.91793,0.1677,0.38522,1.45064,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,0.11891,-0.49704,0.56837,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.06978,0.12692,-0.46293,0.60249,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.14011,0.12377,-0.3926,0.67282,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.29925,0.13832,-0.23345,0.83196,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,8,0.32189,0.14253,-0.21082,0.8546,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,9,0.36186,0.14455,-0.17085,0.89456,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.4905,0.13018,-0.04221,1.02321,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.52211,0.14444,-0.0106,1.05482,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.82042,0.17088,0.28771,1.35313,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,0.13769,-0.4986,0.56682,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.10444,0.13505,-0.42826,0.63715,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.26359,0.14931,-0.26912,0.79629,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,8,0.28622,0.15275,-0.24649,0.81893,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,9,0.32619,0.15509,-0.20652,0.8589,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.45483,0.14091,-0.07787,0.98754,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.48644,0.15391,-0.04626,1.01915,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.78475,0.17899,0.25205,1.31746,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,0.14261,-0.46237,0.60304,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22948,0.15484,-0.30323,0.76218,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,8,0.25211,0.15767,-0.2806,0.78482,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,9,0.29208,0.16099,-0.24063,0.82479,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.42072,0.14713,-0.11199,0.95343,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,11,0.45233,0.16136,-0.08037,0.98504,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.75064,0.18451,0.21794,1.28335,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,0.15305,-0.37356,0.69185,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,8,0.18178,0.15657,-0.35093,0.71449,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,9,0.22175,0.15724,-0.31096,0.75445,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.35039,0.14565,-0.18232,0.8831,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.382,0.15914,-0.15071,0.91471,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.68031,0.18298,0.1476,1.21302,True
+Ministral 3 8B,LABEL-5,experts,percentile_max,La Cabana Argentina,Rosi La Loca,7,8,0.02263,0.16833,-0.51007,0.55534,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,9,0.0626,0.168,-0.4701,0.59531,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.19125,0.15838,-0.34146,0.72395,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.22286,0.17001,-0.30985,0.75556,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,La Cabana Argentina,La Barraca,7,12,0.52117,0.19279,-0.01154,1.05387,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,0.17263,-0.49274,0.57268,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Rosi La Loca,Mercado de San Miguel,8,10,0.16861,0.16103,-0.3641,0.70132,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Rosi La Loca,Restaurante Botin,8,11,0.20022,0.17348,-0.33249,0.73293,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Rosi La Loca,La Barraca,8,12,0.49853,0.19545,-0.03418,1.03124,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,0.16258,-0.40406,0.66135,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,9,11,0.16025,0.17469,-0.37245,0.69296,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,9,12,0.45856,0.19677,-0.07414,0.99127,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,0.16296,-0.5011,0.56432,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.32992,0.18594,-0.20279,0.86263,False
+Ministral 3 8B,LABEL-5,experts,percentile_max,Restaurante Botin,La Barraca,11,12,0.29831,0.19647,-0.2344,0.83102,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,0.08223,-0.52006,0.77606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,0.11583,-0.47806,0.81806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.09523,-0.45406,0.84206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.11951,-0.35406,0.94206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.14342,-0.32006,0.97606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.12521,-0.18806,1.10806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.13478,-0.14406,1.15206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.16795,-0.02206,1.27406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.11627,0.01594,1.31206,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.13856,0.04194,1.33806,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.20427,0.41394,1.71006,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,0.13281,-0.60606,0.69006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,2,4,0.066,0.11579,-0.58206,0.71406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,2,5,0.166,0.13605,-0.48206,0.81406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,2,6,0.2,0.15727,-0.44806,0.84806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,2,7,0.332,0.14154,-0.31606,0.98006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,2,8,0.376,0.15053,-0.27206,1.02406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Rosi La Loca,2,9,0.498,0.18029,-0.15006,1.14606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,2,10,0.536,0.13432,-0.11206,1.18406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Restaurante Botin,2,11,0.562,0.15284,-0.08606,1.21006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Barraca,2,12,0.934,0.21501,0.28594,1.58206,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,0.14139,-0.62406,0.67206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,3,5,0.124,0.1582,-0.52406,0.77206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,3,6,0.158,0.17721,-0.49006,0.80606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Cabana Argentina,3,7,0.29,0.16246,-0.35806,0.93806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,3,8,0.334,0.17035,-0.31406,0.98206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Rosi La Loca,3,9,0.456,0.19715,-0.19206,1.10406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Mercado de San Miguel,3,10,0.494,0.15561,-0.15406,1.14206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,Restaurante Botin,3,11,0.52,0.17282,-0.12806,1.16806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Los Montes de Galicia,La Barraca,3,12,0.892,0.22888,0.24394,1.54006,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,0.14498,-0.54806,0.74806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,6,0.134,0.16458,-0.51406,0.78206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.266,0.14938,-0.38206,0.91406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.31,0.15813,-0.33806,0.95806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.432,0.18668,-0.21606,1.08006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.47,0.14235,-0.17806,1.11806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.496,0.15965,-0.15206,1.14406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.868,0.22003,0.21994,1.51606,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,0.17973,-0.61406,0.68206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,5,7,0.166,0.16596,-0.48206,0.81406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,5,8,0.21,0.17289,-0.43806,0.85806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,5,9,0.332,0.19989,-0.31606,0.98006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,5,10,0.37,0.16016,-0.27806,1.01806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,5,11,0.396,0.17852,-0.25206,1.04406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Barraca,5,12,0.768,0.23261,0.11994,1.41606,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,0.18261,-0.51606,0.78006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,6,8,0.176,0.19161,-0.47206,0.82406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Rosi La Loca,6,9,0.298,0.21389,-0.35006,0.94606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,6,10,0.336,0.17825,-0.31206,0.98406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,Restaurante Botin,6,11,0.362,0.19342,-0.28606,1.01006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Barraca,6,12,0.734,0.24534,0.08594,1.38206,True
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,0.1768,-0.60406,0.69206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.166,0.20319,-0.48206,0.81406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.204,0.16405,-0.44406,0.85206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.23,0.18026,-0.41806,0.87806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,La Cabana Argentina,La Barraca,7,12,0.602,0.23516,-0.04606,1.25006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,0.20927,-0.52606,0.77006,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.16,0.17211,-0.48806,0.80806,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.186,0.18669,-0.46206,0.83406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.558,0.24025,-0.09006,1.20606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.038,0.19745,-0.61006,0.68606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.064,0.21132,-0.58406,0.71206,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Rosi La Loca,La Barraca,9,12,0.436,0.26021,-0.21206,1.08406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.17406,-0.62206,0.67406,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.398,0.23015,-0.25006,1.04606,False
+Qwen 3.6 35B,LABEL-5,experts,percentile_max,Restaurante Botin,La Barraca,11,12,0.372,0.24138,-0.27606,1.02006,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,0.1109,-0.50519,0.62113,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,0.08567,-0.43732,0.689,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,0.098,-0.38277,0.74355,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,0.12505,-0.32806,0.79825,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.11207,-0.24262,0.8837,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.12345,-0.10624,1.02008,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.1277,-0.08204,1.04428,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.14549,-0.02403,1.10229,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.10696,0.10818,1.2345,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.12963,0.13605,1.26237,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.17854,0.47082,1.59714,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,0.12261,-0.49529,0.63102,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.12242,0.13207,-0.44074,0.68558,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.17712,0.15255,-0.38603,0.74028,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.26257,0.14235,-0.30059,0.82573,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,7,0.39895,0.15091,-0.16421,0.96211,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.42315,0.1553,-0.14001,0.98631,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.48116,0.16963,-0.082,1.04432,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,10,0.61337,0.13826,0.05021,1.17652,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,Restaurante Botin,2,11,0.64124,0.15696,0.07808,1.20439,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Los Montes de Galicia,La Barraca,2,12,0.97601,0.19871,0.41285,1.53916,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,0.11202,-0.5086,0.61771,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.10926,0.13604,-0.4539,0.67242,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.1947,0.12406,-0.36846,0.75786,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.33108,0.13471,-0.23207,0.89424,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.35529,0.13936,-0.20787,0.91844,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.4133,0.15487,-0.14986,0.97646,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.5455,0.12066,-0.01766,1.10866,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.57337,0.14038,0.01021,1.13653,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.90814,0.18691,0.34498,1.4713,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,0.14374,-0.50846,0.61786,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.14015,0.1332,-0.42301,0.70331,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.27653,0.14299,-0.28663,0.83969,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.30073,0.14755,-0.26243,0.86389,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.35874,0.16202,-0.20442,0.9219,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.49094,0.12929,-0.07221,1.0541,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.51881,0.14758,-0.04434,1.08197,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.85358,0.19252,0.29043,1.41674,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,0.15406,-0.47771,0.6486,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22183,0.16163,-0.34133,0.78498,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.24603,0.16682,-0.31713,0.80919,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,9,0.30404,0.17813,-0.25912,0.8672,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.43624,0.15047,-0.12692,0.9994,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,11,0.46411,0.16787,-0.09905,1.02727,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.79888,0.20797,0.23572,1.36204,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,0.15297,-0.42678,0.69954,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.16058,0.15605,-0.40258,0.72374,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.21859,0.17099,-0.34457,0.78175,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.3508,0.14069,-0.21236,0.91396,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.37867,0.15983,-0.18449,0.94183,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.71344,0.20104,0.15028,1.2766,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,0.16369,-0.53896,0.58736,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.08221,0.17823,-0.48095,0.64537,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.21442,0.1498,-0.34874,0.77757,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.24229,0.16635,-0.32087,0.80544,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,La Cabana Argentina,La Barraca,7,12,0.57706,0.20711,0.0139,1.14021,True
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,0.18148,-0.50515,0.62117,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.19021,0.1537,-0.37294,0.75337,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.21808,0.16956,-0.34507,0.78124,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.55285,0.20939,-0.0103,1.11601,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,0.16737,-0.43096,0.69536,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.16007,0.18288,-0.40309,0.72323,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Rosi La Loca,La Barraca,9,12,0.49484,0.22051,-0.06832,1.058,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,0.15494,-0.53529,0.59103,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.36264,0.19729,-0.20052,0.9258,False
+Fusion (open-weight),LABEL-5,experts,percentile_max,Restaurante Botin,La Barraca,11,12,0.33477,0.21003,-0.22839,0.89793,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,0.1042,-0.46465,0.70465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.08624,-0.40465,0.76465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.09012,-0.40465,0.76465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.12053,-0.30465,0.86465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.12379,-0.18465,0.98465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.11289,-0.18465,0.98465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.12911,-0.16465,1.00465,False
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.1454,0.03535,1.20465,True
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.14242,0.05535,1.22465,True
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.1174,0.11535,1.28465,True
+Stars (reference),LABEL-5,experts,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.19067,0.57535,1.74465,True
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,0.11919,-0.52465,0.64465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.06,0.1226,-0.52465,0.64465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.16,0.14602,-0.42465,0.74465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.28,0.14903,-0.30465,0.86465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,7,0.28,0.13947,-0.30465,0.86465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.3,0.15337,-0.28465,0.88465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.5,0.16751,-0.08465,1.08465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Restaurante Botin,2,10,0.52,0.16358,-0.06465,1.10465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,11,0.58,0.14288,-0.00465,1.16465,False
+Stars (reference),LABEL-5,experts,percentile_max,Los Montes de Galicia,La Barraca,2,12,1.04,0.20752,0.45535,1.62465,True
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,0.10717,-0.58465,0.58465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.1,0.13391,-0.48465,0.68465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.22,0.13695,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.22,0.12704,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.24,0.14275,-0.34465,0.82465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.44,0.15657,-0.14465,1.02465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,10,0.46,0.15298,-0.12465,1.04465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,11,0.52,0.1321,-0.06465,1.10465,False
+Stars (reference),LABEL-5,experts,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.98,0.19958,0.39535,1.56465,True
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,0.13678,-0.48465,0.68465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.22,0.13943,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.22,0.13049,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.24,0.14518,-0.34465,0.82465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.44,0.15893,-0.14465,1.02465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,10,0.46,0.15599,-0.12465,1.04465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,11,0.52,0.1343,-0.06465,1.10465,False
+Stars (reference),LABEL-5,experts,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.98,0.20214,0.39535,1.56465,True
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,0.16054,-0.46465,0.70465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.12,0.15136,-0.46465,0.70465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.14,0.16573,-0.44465,0.72465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,9,0.34,0.17657,-0.24465,0.92465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,10,0.36,0.17518,-0.22465,0.94465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,11,0.42,0.15599,-0.16465,1.00465,False
+Stars (reference),LABEL-5,experts,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.88,0.21602,0.29535,1.46465,True
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,0.15524,-0.58465,0.58465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.02,0.1671,-0.56465,0.60465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.22,0.18019,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,10,0.24,0.17954,-0.34465,0.82465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,11,0.3,0.15899,-0.28465,0.88465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.76,0.2199,0.17535,1.34465,True
+Stars (reference),LABEL-5,experts,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,0.15962,-0.56465,0.60465,False
+Stars (reference),LABEL-5,experts,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.22,0.1733,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,La Cabana Argentina,Restaurante Botin,7,10,0.24,0.17017,-0.34465,0.82465,False
+Stars (reference),LABEL-5,experts,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,11,0.3,0.15115,-0.28465,0.88465,False
+Stars (reference),LABEL-5,experts,percentile_max,La Cabana Argentina,La Barraca,7,12,0.76,0.21331,0.17535,1.34465,True
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,0.18434,-0.38465,0.78465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,10,0.22,0.18196,-0.36465,0.80465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,11,0.28,0.1637,-0.30465,0.86465,False
+Stars (reference),LABEL-5,experts,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.74,0.22089,0.15535,1.32465,True
+Stars (reference),LABEL-5,experts,percentile_max,Rosi La Loca,Restaurante Botin,9,10,0.02,0.19269,-0.56465,0.60465,False
+Stars (reference),LABEL-5,experts,percentile_max,Rosi La Loca,Mercado de San Miguel,9,11,0.08,0.17496,-0.50465,0.66465,False
+Stars (reference),LABEL-5,experts,percentile_max,Rosi La Loca,La Barraca,9,12,0.54,0.23199,-0.04465,1.12465,False
+Stars (reference),LABEL-5,experts,percentile_max,Restaurante Botin,Mercado de San Miguel,10,11,0.06,0.17296,-0.52465,0.64465,False
+Stars (reference),LABEL-5,experts,percentile_max,Restaurante Botin,La Barraca,10,12,0.52,0.22818,-0.06465,1.10465,False
+Stars (reference),LABEL-5,experts,percentile_max,Mercado de San Miguel,La Barraca,11,12,0.46,0.21555,-0.12465,1.04465,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,0.11225,-0.32957,0.39757,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,0.09632,-0.15995,0.46395,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,0.1269,-0.20102,0.62102,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.10477,-0.12534,0.55334,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.11712,0.05067,0.80933,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.13191,0.05279,0.90721,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.1309,0.09004,0.93796,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.14455,0.10384,1.04016,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.10041,0.43679,1.08721,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.12848,0.37188,1.20412,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.1787,0.54324,1.70076,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,0.12724,-0.29411,0.53011,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,4,0.176,0.15162,-0.31507,0.66707,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,5,0.18,0.13452,-0.25567,0.61567,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.396,0.14386,-0.06995,0.86195,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,7,0.446,0.156,-0.05926,0.95126,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Cabana Argentina,2,8,0.48,0.15707,-0.0287,0.9887,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.538,0.16726,-0.00373,1.07973,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Mercado de San Miguel,2,10,0.728,0.13153,0.30202,1.15398,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,Restaurante Botin,2,11,0.754,0.15337,0.25728,1.25072,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Barraca,2,12,1.088,0.19651,0.45155,1.72445,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,0.14162,-0.40067,0.51667,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,5,0.062,0.1211,-0.33022,0.45422,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.278,0.13105,-0.14644,0.70244,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,7,0.328,0.14427,-0.13926,0.79526,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,8,0.362,0.14468,-0.10659,0.83059,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.42,0.15605,-0.08542,0.92542,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.61,0.11752,0.22939,0.99061,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.636,0.14264,0.17401,1.09799,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.97,0.1886,0.35916,1.58084,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,0.14664,-0.47093,0.47893,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,4,6,0.22,0.15623,-0.286,0.726,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,4,7,0.27,0.1676,-0.27281,0.81281,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Cabana Argentina,4,8,0.304,0.16673,-0.23601,0.84401,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Rosi La Loca,4,9,0.362,0.17742,-0.21263,0.93663,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Mercado de San Miguel,4,10,0.552,0.14345,0.08739,1.01661,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Restaurante Botin,4,11,0.578,0.16453,0.04512,1.11088,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Barraca,4,12,0.912,0.20606,0.24462,1.57938,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,0.1382,-0.2316,0.6636,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,5,7,0.266,0.15039,-0.22108,0.75308,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,5,8,0.3,0.14941,-0.1839,0.7839,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,5,9,0.358,0.16159,-0.16535,0.88135,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,5,10,0.548,0.12409,0.14611,0.94989,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,5,11,0.574,0.14898,0.09147,1.05653,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Barraca,5,12,0.908,0.193,0.28292,1.53308,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,0.15927,-0.46585,0.56585,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,8,0.084,0.15905,-0.43113,0.59913,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.142,0.1705,-0.41022,0.69422,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.332,0.13542,-0.10659,0.77059,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.358,0.15687,-0.15005,0.86605,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.692,0.19971,0.04519,1.33881,True
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,0.17008,-0.51685,0.58485,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,7,9,0.092,0.1807,-0.49325,0.67725,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,7,10,0.282,0.148,-0.19735,0.76135,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,7,11,0.308,0.16759,-0.23478,0.85078,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Barraca,7,12,0.642,0.2075,-0.03004,1.31404,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,La Cabana Argentina,Rosi La Loca,8,9,0.058,0.18088,-0.52785,0.64385,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,La Cabana Argentina,Mercado de San Miguel,8,10,0.248,0.14769,-0.23032,0.72632,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,La Cabana Argentina,Restaurante Botin,8,11,0.274,0.16659,-0.26556,0.81356,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,La Cabana Argentina,La Barraca,8,12,0.608,0.20834,-0.06677,1.28277,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.19,0.15873,-0.3241,0.7041,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Rosi La Loca,Restaurante Botin,9,11,0.216,0.17846,-0.36199,0.79399,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Rosi La Loca,La Barraca,9,12,0.55,0.21786,-0.15561,1.25561,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.14578,-0.44615,0.49815,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Mercado de San Miguel,La Barraca,10,12,0.36,0.19089,-0.25825,0.97825,False
+Gemma 4 E4B,LABEL-5,stratified,max_t,Restaurante Botin,La Barraca,11,12,0.334,0.2073,-0.33739,1.00539,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,0.11681,-0.35032,0.4105,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,0.1207,-0.26547,0.52066,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,0.13257,-0.26844,0.59497,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,0.14088,-0.2614,0.65614,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,0.13587,-0.17477,0.71018,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.15322,-0.07211,0.92581,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.15488,-0.05487,0.95384,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.15594,-0.01836,0.99727,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.14231,0.15465,1.08154,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.15457,0.14635,1.15306,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Barraca,1,12,0.94802,0.17796,0.36848,1.52755,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,0.09883,-0.22435,0.41936,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,2,4,0.13317,0.11288,-0.23442,0.50077,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,2,5,0.16729,0.12303,-0.23336,0.56793,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,2,6,0.23762,0.11688,-0.14301,0.61825,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,2,7,0.39676,0.13454,-0.04137,0.83489,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,2,8,0.4194,0.13801,-0.03004,0.86883,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,2,9,0.45937,0.14038,0.00222,0.91651,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,2,10,0.58801,0.12355,0.18567,0.99034,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,2,11,0.61962,0.1385,0.16858,1.07066,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,2,12,0.91793,0.16487,0.38104,1.45482,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,0.11699,-0.34531,0.41664,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.06978,0.12794,-0.34685,0.4864,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.14011,0.1207,-0.25295,0.53318,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.29925,0.138,-0.15016,0.74867,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Rosi La Loca,3,8,0.32189,0.14163,-0.13932,0.7831,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,9,0.36186,0.1433,-0.10479,0.82851,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.4905,0.12808,0.0734,0.9076,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.52211,0.14252,0.05799,0.98624,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.82042,0.16748,0.27503,1.36581,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,0.13767,-0.41421,0.48243,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.10444,0.1327,-0.32769,0.53658,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.26359,0.14813,-0.2188,0.74597,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,8,0.28622,0.1515,-0.20716,0.7796,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,9,0.32619,0.15338,-0.17328,0.82566,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.45483,0.13858,0.00354,0.90612,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.48644,0.15231,-0.00954,0.98243,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.78475,0.17648,0.21004,1.35947,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,0.14225,-0.39292,0.53359,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22948,0.1571,-0.28211,0.74106,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Rosi La Loca,5,8,0.25211,0.15937,-0.26687,0.7711,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,9,0.29208,0.16192,-0.23521,0.81937,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.42072,0.14673,-0.05711,0.89856,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Restaurante Botin,5,11,0.45233,0.15968,-0.06766,0.97233,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Barraca,5,12,0.75064,0.1829,0.15501,1.34628,True
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,0.15171,-0.33491,0.6532,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,8,0.18178,0.15516,-0.3235,0.68706,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,9,0.22175,0.15657,-0.28814,0.73163,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.35039,0.14327,-0.11619,0.81697,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.382,0.15514,-0.1232,0.8872,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.68031,0.17882,0.09796,1.26266,True
+Ministral 3 8B,LABEL-5,stratified,max_t,La Cabana Argentina,Rosi La Loca,7,8,0.02263,0.16916,-0.52826,0.57353,False
+Ministral 3 8B,LABEL-5,stratified,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,9,0.0626,0.17068,-0.49323,0.61844,False
+Ministral 3 8B,LABEL-5,stratified,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.19125,0.15709,-0.32032,0.70282,False
+Ministral 3 8B,LABEL-5,stratified,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.22286,0.16786,-0.32377,0.76948,False
+Ministral 3 8B,LABEL-5,stratified,max_t,La Cabana Argentina,La Barraca,7,12,0.52117,0.19095,-0.10067,1.143,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,0.17315,-0.52388,0.60382,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Rosi La Loca,Mercado de San Miguel,8,10,0.16861,0.15935,-0.35033,0.68755,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Rosi La Loca,Restaurante Botin,8,11,0.20022,0.17259,-0.36181,0.76225,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Rosi La Loca,La Barraca,8,12,0.49853,0.19371,-0.1323,1.12936,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,0.16143,-0.39706,0.65435,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,9,11,0.16025,0.17206,-0.40006,0.72057,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Barraca,9,12,0.45856,0.19341,-0.17128,1.0884,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,0.16009,-0.48973,0.55296,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Mercado de San Miguel,La Barraca,10,12,0.32992,0.18322,-0.26673,0.92657,False
+Ministral 3 8B,LABEL-5,stratified,max_t,Restaurante Botin,La Barraca,11,12,0.29831,0.19432,-0.3345,0.93112,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,0.08032,-0.1322,0.3882,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,0.11252,-0.19454,0.53454,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.09392,-0.11026,0.49826,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.11666,-0.08394,0.67194,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.14428,-0.13942,0.79542,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.12415,0.05779,0.86221,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.13617,0.06286,0.94514,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.16666,0.08607,1.16593,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.11495,0.2916,1.0364,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.13504,0.2525,1.1275,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.20033,0.413,1.711,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,0.12899,-0.3759,0.4599,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,2,4,0.066,0.11332,-0.30111,0.43311,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,2,5,0.166,0.13336,-0.26604,0.59804,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,2,6,0.2,0.15901,-0.31515,0.71515,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Cabana Argentina,2,7,0.332,0.14004,-0.12167,0.78567,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,2,8,0.376,0.15024,-0.11072,0.86272,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Rosi La Loca,2,9,0.498,0.17876,-0.08114,1.07714,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Mercado de San Miguel,2,10,0.536,0.13149,0.11002,0.96198,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,Restaurante Botin,2,11,0.562,0.14952,0.07759,1.04641,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Barraca,2,12,0.934,0.21056,0.25183,1.61617,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,0.1386,-0.42502,0.47302,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,3,5,0.124,0.15507,-0.37839,0.62639,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Inclan Brutal Bar,3,6,0.158,0.17593,-0.41197,0.72797,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Cabana Argentina,3,7,0.29,0.16207,-0.23506,0.81506,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,3,8,0.334,0.16958,-0.21539,0.88339,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Rosi La Loca,3,9,0.456,0.1952,-0.1764,1.0884,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Mercado de San Miguel,3,10,0.494,0.15398,-0.00486,0.99286,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,Restaurante Botin,3,11,0.52,0.16898,-0.02744,1.06744,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Los Montes de Galicia,La Barraca,3,12,0.892,0.22345,0.16808,1.61592,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,0.14134,-0.35789,0.55789,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,6,0.134,0.16504,-0.40068,0.66868,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.266,0.14774,-0.21265,0.74465,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.31,0.15742,-0.2,0.82,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.432,0.18462,-0.16611,1.03011,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.47,0.13988,0.01684,0.92316,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.496,0.15793,-0.01566,1.00766,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.868,0.2159,0.16856,1.56744,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,0.17988,-0.54875,0.61675,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,5,7,0.166,0.16432,-0.36635,0.69835,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,5,8,0.21,0.17235,-0.34837,0.76837,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,5,9,0.332,0.19904,-0.31283,0.97683,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,5,10,0.37,0.15707,-0.13887,0.87887,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,5,11,0.396,0.17215,-0.16172,0.95372,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Barraca,5,12,0.768,0.22708,0.03233,1.50367,True
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,0.18423,-0.46487,0.72887,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,6,8,0.176,0.19323,-0.45002,0.80202,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Rosi La Loca,6,9,0.298,0.21507,-0.39876,0.99476,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Mercado de San Miguel,6,10,0.336,0.17702,-0.2375,0.9095,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,Restaurante Botin,6,11,0.362,0.19153,-0.2585,0.9825,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Inclan Brutal Bar,La Barraca,6,12,0.734,0.2423,-0.05099,1.51899,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,0.17841,-0.534,0.622,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.166,0.20316,-0.49217,0.82417,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.204,0.16286,-0.32361,0.73161,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.23,0.17595,-0.34003,0.80003,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,La Cabana Argentina,La Barraca,7,12,0.602,0.2309,-0.14605,1.35005,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,0.20902,-0.55517,0.79917,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.16,0.17116,-0.39451,0.71451,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.186,0.18544,-0.41478,0.78678,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.558,0.23597,-0.20647,1.32247,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.038,0.1959,-0.59667,0.67267,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Rosi La Loca,Restaurante Botin,9,11,0.064,0.20913,-0.61352,0.74152,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Rosi La Loca,La Barraca,9,12,0.436,0.25701,-0.39665,1.26865,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.17102,-0.52806,0.58006,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Mercado de San Miguel,La Barraca,10,12,0.398,0.2258,-0.33351,1.12951,False
+Qwen 3.6 35B,LABEL-5,stratified,max_t,Restaurante Botin,La Barraca,11,12,0.372,0.23751,-0.39746,1.14146,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,0.1082,-0.29311,0.40906,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,0.084,-0.14673,0.39841,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,0.09662,-0.13311,0.49389,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,0.12564,-0.17258,0.64277,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.1096,-0.03509,0.67617,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.12275,0.05862,0.85522,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.12878,0.06326,0.89898,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.14452,0.07022,1.00805,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.10538,0.32939,1.01328,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.12694,0.28734,1.11108,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.17543,0.46477,1.60318,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,0.12008,-0.32175,0.45748,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.12242,0.12974,-0.29855,0.54339,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.17712,0.1519,-0.31575,0.67,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.26257,0.13945,-0.18991,0.71505,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,La Cabana Argentina,2,7,0.39895,0.15177,-0.09348,0.89138,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.42315,0.15461,-0.0785,0.9248,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.48116,0.1685,-0.06559,1.02791,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Mercado de San Miguel,2,10,0.61337,0.13682,0.16942,1.05731,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,Restaurante Botin,2,11,0.64124,0.15331,0.14378,1.13869,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Los Montes de Galicia,La Barraca,2,12,0.97601,0.19449,0.34493,1.60708,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,0.10991,-0.30207,0.41118,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.10926,0.13739,-0.33652,0.55504,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.1947,0.12134,-0.19901,0.58842,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.33108,0.13389,-0.10334,0.76551,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.35529,0.13868,-0.09469,0.80526,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.4133,0.15376,-0.08561,0.91221,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.5455,0.11816,0.16211,0.92889,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Restaurante Botin,3,11,0.57337,0.13794,0.12578,1.02096,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.90814,0.18321,0.31368,1.5026,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,0.14421,-0.41321,0.52262,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.14015,0.13055,-0.28344,0.56373,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.27653,0.14151,-0.18264,0.73569,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.30073,0.14664,-0.17507,0.77653,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.35874,0.16072,-0.16277,0.88025,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.49094,0.12693,0.0791,0.90279,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.51881,0.1463,0.04411,0.99352,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.85358,0.18933,0.23927,1.4679,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,0.1541,-0.41456,0.58545,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22183,0.16352,-0.30877,0.75242,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.24603,0.16833,-0.30017,0.79222,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,Rosi La Loca,5,9,0.30404,0.18009,-0.2803,0.88837,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.43624,0.1499,-0.05015,0.92263,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,Restaurante Botin,5,11,0.46411,0.16619,-0.07513,1.00336,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Inclan Brutal Bar,La Barraca,5,12,0.79888,0.20569,0.13148,1.46628,True
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,0.15149,-0.35514,0.62791,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.16058,0.15569,-0.3446,0.66576,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.21859,0.16989,-0.33264,0.76983,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.3508,0.13813,-0.09741,0.799,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.37867,0.15461,-0.12301,0.88034,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.71344,0.19616,0.07696,1.34992,True
+Fusion (open-weight),LABEL-5,stratified,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,0.16582,-0.51384,0.56224,False
+Fusion (open-weight),LABEL-5,stratified,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.08221,0.17891,-0.49831,0.66273,False
+Fusion (open-weight),LABEL-5,stratified,max_t,La Cabana Argentina,Mercado de San Miguel,7,10,0.21442,0.14863,-0.26783,0.69666,False
+Fusion (open-weight),LABEL-5,stratified,max_t,La Cabana Argentina,Restaurante Botin,7,11,0.24229,0.16312,-0.287,0.77158,False
+Fusion (open-weight),LABEL-5,stratified,max_t,La Cabana Argentina,La Barraca,7,12,0.57706,0.20391,-0.08457,1.23868,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,0.18197,-0.53244,0.64846,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.19021,0.15283,-0.30567,0.6861,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.21808,0.16789,-0.32668,0.76284,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.55285,0.20597,-0.11547,1.22118,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,0.16591,-0.40611,0.67052,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Rosi La Loca,Restaurante Botin,9,11,0.16007,0.18139,-0.42849,0.74864,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Rosi La Loca,La Barraca,9,12,0.49484,0.2183,-0.21348,1.20317,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,0.1519,-0.46499,0.52073,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Mercado de San Miguel,La Barraca,10,12,0.36264,0.19384,-0.26631,0.99159,False
+Fusion (open-weight),LABEL-5,stratified,max_t,Restaurante Botin,La Barraca,11,12,0.33477,0.20705,-0.33706,1.00659,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,0.10153,-0.20928,0.44928,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.08433,-0.09349,0.45349,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.08938,-0.10986,0.46986,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.12075,-0.11161,0.67161,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.12141,0.00626,0.79374,True
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.11159,0.03809,0.76191,True
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.13011,-0.00196,0.84196,False
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.14395,0.15316,1.08684,True
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.14025,0.18517,1.09483,True
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.11631,0.32278,1.07722,True
+Stars (reference),LABEL-5,stratified,max_t,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.18662,0.55478,1.76522,True
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,0.11576,-0.31542,0.43542,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.06,0.12085,-0.33192,0.45192,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.16,0.14463,-0.30904,0.62904,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.28,0.14582,-0.19291,0.75291,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,La Cabana Argentina,2,7,0.28,0.13869,-0.16978,0.72978,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.3,0.15232,-0.19398,0.79398,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Rosi La Loca,2,9,0.5,0.1649,-0.03479,1.03479,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Restaurante Botin,2,10,0.52,0.16078,-0.00144,1.04144,False
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,Mercado de San Miguel,2,11,0.58,0.14167,0.12055,1.03945,True
+Stars (reference),LABEL-5,stratified,max_t,Los Montes de Galicia,La Barraca,2,12,1.04,0.20199,0.38491,1.69509,True
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,0.10592,-0.3435,0.3435,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.1,0.13429,-0.33551,0.53551,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.22,0.13409,-0.21485,0.65485,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.22,0.1263,-0.18959,0.62959,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.24,0.14232,-0.22157,0.70157,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Rosi La Loca,3,9,0.44,0.15512,-0.06306,0.94306,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Restaurante Botin,3,10,0.46,0.15179,-0.03227,0.95227,False
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,Mercado de San Miguel,3,11,0.52,0.12941,0.10029,0.93971,True
+Stars (reference),LABEL-5,stratified,max_t,Taberna Mas Al Sur,La Barraca,3,12,0.98,0.19525,0.34679,1.61321,True
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,0.13694,-0.34411,0.54411,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.22,0.13709,-0.22461,0.66461,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.22,0.12908,-0.19863,0.63863,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.24,0.14508,-0.23051,0.71051,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.44,0.15722,-0.06988,0.94988,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Restaurante Botin,4,10,0.46,0.15477,-0.04194,0.96194,False
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,11,0.52,0.13344,0.08723,0.95277,True
+Stars (reference),LABEL-5,stratified,max_t,Meson Restaurante La Mi Venta,La Barraca,4,12,0.98,0.19782,0.33845,1.62155,True
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,0.16016,-0.39942,0.63942,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,La Cabana Argentina,5,7,0.12,0.15219,-0.37358,0.61358,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.14,0.16655,-0.40014,0.68014,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,Rosi La Loca,5,9,0.34,0.17685,-0.23355,0.91355,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,Restaurante Botin,5,10,0.36,0.17395,-0.20414,0.92414,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,Mercado de San Miguel,5,11,0.42,0.15563,-0.08471,0.92471,False
+Stars (reference),LABEL-5,stratified,max_t,Inclan Brutal Bar,La Barraca,5,12,0.88,0.21396,0.18611,1.57389,True
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,0.15356,-0.49802,0.49802,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.02,0.16698,-0.52152,0.56152,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.22,0.17789,-0.3569,0.7969,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Restaurante Botin,6,10,0.24,0.17414,-0.32475,0.80475,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,11,0.3,0.15648,-0.20748,0.80748,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Fuencarral,La Barraca,6,12,0.76,0.21413,0.06554,1.45446,True
+Stars (reference),LABEL-5,stratified,max_t,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,0.16078,-0.50142,0.54142,False
+Stars (reference),LABEL-5,stratified,max_t,La Cabana Argentina,Rosi La Loca,7,9,0.22,0.17191,-0.33752,0.77752,False
+Stars (reference),LABEL-5,stratified,max_t,La Cabana Argentina,Restaurante Botin,7,10,0.24,0.16718,-0.30219,0.78219,False
+Stars (reference),LABEL-5,stratified,max_t,La Cabana Argentina,Mercado de San Miguel,7,11,0.3,0.14987,-0.18605,0.78605,False
+Stars (reference),LABEL-5,stratified,max_t,La Cabana Argentina,La Barraca,7,12,0.76,0.20808,0.08517,1.43483,True
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,0.18284,-0.39295,0.79295,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Restaurante Botin,8,10,0.22,0.18181,-0.36964,0.80964,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,11,0.28,0.16289,-0.24827,0.80827,False
+Stars (reference),LABEL-5,stratified,max_t,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.74,0.21822,0.0323,1.4477,True
+Stars (reference),LABEL-5,stratified,max_t,Rosi La Loca,Restaurante Botin,9,10,0.02,0.19103,-0.59954,0.63954,False
+Stars (reference),LABEL-5,stratified,max_t,Rosi La Loca,Mercado de San Miguel,9,11,0.08,0.17267,-0.48,0.64,False
+Stars (reference),LABEL-5,stratified,max_t,Rosi La Loca,La Barraca,9,12,0.54,0.22828,-0.20034,1.28034,False
+Stars (reference),LABEL-5,stratified,max_t,Restaurante Botin,Mercado de San Miguel,10,11,0.06,0.17179,-0.49712,0.61712,False
+Stars (reference),LABEL-5,stratified,max_t,Restaurante Botin,La Barraca,10,12,0.52,0.22583,-0.21238,1.25238,False
+Stars (reference),LABEL-5,stratified,max_t,Mercado de San Miguel,La Barraca,11,12,0.46,0.21058,-0.22294,1.14294,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.034,0.11225,-0.52,0.588,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.152,0.09632,-0.402,0.706,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,4,0.21,0.1269,-0.344,0.764,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,5,0.214,0.10477,-0.34,0.768,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.43,0.11712,-0.124,0.984,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,7,0.48,0.13191,-0.074,1.034,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,8,0.514,0.1309,-0.04,1.068,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.572,0.14455,0.018,1.126,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.762,0.10041,0.208,1.316,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.788,0.12848,0.234,1.342,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.122,0.1787,0.568,1.676,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.118,0.12724,-0.436,0.672,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,4,0.176,0.15162,-0.378,0.73,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,5,0.18,0.13452,-0.374,0.734,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.396,0.14386,-0.158,0.95,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,7,0.446,0.156,-0.108,1.0,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,8,0.48,0.15707,-0.074,1.034,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.538,0.16726,-0.016,1.092,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,10,0.728,0.13153,0.174,1.282,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Restaurante Botin,2,11,0.754,0.15337,0.2,1.308,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Barraca,2,12,1.088,0.19651,0.534,1.642,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,4,0.058,0.14162,-0.496,0.612,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,5,0.062,0.1211,-0.492,0.616,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.278,0.13105,-0.276,0.832,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,7,0.328,0.14427,-0.226,0.882,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,8,0.362,0.14468,-0.192,0.916,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.42,0.15605,-0.134,0.974,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.61,0.11752,0.056,1.164,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.636,0.14264,0.082,1.19,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.97,0.1886,0.416,1.524,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Meson Restaurante La Mi Venta,4,5,0.004,0.14664,-0.55,0.558,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,4,6,0.22,0.15623,-0.334,0.774,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,4,7,0.27,0.1676,-0.284,0.824,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Cabana Argentina,4,8,0.304,0.16673,-0.25,0.858,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Rosi La Loca,4,9,0.362,0.17742,-0.192,0.916,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,4,10,0.552,0.14345,-0.002,1.106,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Restaurante Botin,4,11,0.578,0.16453,0.024,1.132,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Barraca,4,12,0.912,0.20606,0.358,1.466,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,5,6,0.216,0.1382,-0.338,0.77,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,5,7,0.266,0.15039,-0.288,0.82,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,5,8,0.3,0.14941,-0.254,0.854,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,5,9,0.358,0.16159,-0.196,0.912,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,5,10,0.548,0.12409,-0.006,1.102,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,5,11,0.574,0.14898,0.02,1.128,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Barraca,5,12,0.908,0.193,0.354,1.462,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,7,0.05,0.15927,-0.504,0.604,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,8,0.084,0.15905,-0.47,0.638,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.142,0.1705,-0.412,0.696,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.332,0.13542,-0.222,0.886,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.358,0.15687,-0.196,0.912,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.692,0.19971,0.138,1.246,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Cabana Argentina,7,8,0.034,0.17008,-0.52,0.588,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,7,9,0.092,0.1807,-0.462,0.646,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,7,10,0.282,0.148,-0.272,0.836,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,7,11,0.308,0.16759,-0.246,0.862,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,7,12,0.642,0.2075,0.088,1.196,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Rosi La Loca,8,9,0.058,0.18088,-0.496,0.612,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Mercado de San Miguel,8,10,0.248,0.14769,-0.306,0.802,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Restaurante Botin,8,11,0.274,0.16659,-0.28,0.828,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,La Cabana Argentina,La Barraca,8,12,0.608,0.20834,0.054,1.162,True
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.19,0.15873,-0.364,0.744,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.216,0.17846,-0.338,0.77,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Rosi La Loca,La Barraca,9,12,0.55,0.21786,-0.004,1.104,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.14578,-0.528,0.58,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.36,0.19089,-0.194,0.914,False
+Gemma 4 E4B,LABEL-5,stratified,percentile_max,Restaurante Botin,La Barraca,11,12,0.334,0.2073,-0.22,0.888,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Zenith Brunch & Cocktails - Valverde,1,2,0.03009,0.11681,-0.49436,0.55453,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,1,3,0.1276,0.1207,-0.39685,0.65204,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,1,4,0.16326,0.13257,-0.36118,0.68771,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,1,5,0.19737,0.14088,-0.32707,0.72182,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,1,6,0.26771,0.13587,-0.25674,0.79215,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Cabana Argentina,1,7,0.42685,0.15322,-0.0976,0.95129,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Rosi La Loca,1,8,0.44948,0.15488,-0.07496,0.97393,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,1,9,0.48945,0.15594,-0.03499,1.0139,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Mercado de San Miguel,1,10,0.6181,0.14231,0.09365,1.14254,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Restaurante Botin,1,11,0.64971,0.15457,0.12526,1.17415,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Barraca,1,12,0.94802,0.17796,0.42357,1.47246,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,2,3,0.09751,0.09883,-0.42694,0.62195,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,2,4,0.13317,0.11288,-0.39127,0.65762,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,2,5,0.16729,0.12303,-0.35716,0.69173,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,2,6,0.23762,0.11688,-0.28683,0.76206,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,2,7,0.39676,0.13454,-0.12768,0.92121,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,2,8,0.4194,0.13801,-0.10505,0.94384,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,2,9,0.45937,0.14038,-0.06508,0.98381,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,2,10,0.58801,0.12355,0.06356,1.11245,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,2,11,0.61962,0.1385,0.09517,1.14406,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,2,12,0.91793,0.16487,0.39348,1.44237,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.03567,0.11699,-0.48878,0.56011,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.06978,0.12794,-0.45467,0.59422,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.14011,0.1207,-0.38433,0.66456,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.29925,0.138,-0.22519,0.8237,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,8,0.32189,0.14163,-0.20256,0.84633,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,9,0.36186,0.1433,-0.16259,0.8863,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.4905,0.12808,-0.03394,1.01494,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.52211,0.14252,-0.00233,1.04656,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.82042,0.16748,0.29598,1.34487,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.03411,0.13767,-0.49033,0.55856,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.10444,0.1327,-0.42,0.62889,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.26359,0.14813,-0.26086,0.78803,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,8,0.28622,0.1515,-0.23822,0.81067,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,9,0.32619,0.15338,-0.19825,0.85063,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.45483,0.13858,-0.06961,0.97928,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.48644,0.15231,-0.038,1.01089,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.78475,0.17648,0.26031,1.3092,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.07033,0.14225,-0.45411,0.59478,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22948,0.1571,-0.29497,0.75392,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,8,0.25211,0.15937,-0.27233,0.77656,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,9,0.29208,0.16192,-0.23237,0.81652,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.42072,0.14673,-0.10372,0.94517,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,11,0.45233,0.15968,-0.07211,0.97678,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.75064,0.1829,0.2262,1.27509,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.15914,0.15171,-0.3653,0.68359,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,8,0.18178,0.15516,-0.34267,0.70622,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,9,0.22175,0.15657,-0.3027,0.74619,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.35039,0.14327,-0.17406,0.87483,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.382,0.15514,-0.14244,0.90644,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.68031,0.17882,0.15587,1.20475,True
+Ministral 3 8B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Rosi La Loca,7,8,0.02263,0.16916,-0.50181,0.54708,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,9,0.0626,0.17068,-0.46184,0.58705,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.19125,0.15709,-0.3332,0.71569,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.22286,0.16786,-0.30159,0.7473,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,La Cabana Argentina,La Barraca,7,12,0.52117,0.19095,-0.00328,1.04561,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Rosi La Loca,Oven Mozzarella Gran Via 6,8,9,0.03997,0.17315,-0.48448,0.56441,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Rosi La Loca,Mercado de San Miguel,8,10,0.16861,0.15935,-0.35583,0.69306,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Rosi La Loca,Restaurante Botin,8,11,0.20022,0.17259,-0.32422,0.72467,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Rosi La Loca,La Barraca,8,12,0.49853,0.19371,-0.02591,1.02298,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,9,10,0.12864,0.16143,-0.3958,0.65309,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,9,11,0.16025,0.17206,-0.36419,0.6847,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,9,12,0.45856,0.19341,-0.06588,0.98301,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.03161,0.16009,-0.49283,0.55606,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.32992,0.18322,-0.19452,0.85437,False
+Ministral 3 8B,LABEL-5,stratified,percentile_max,Restaurante Botin,La Barraca,11,12,0.29831,0.19432,-0.22613,0.82275,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,2,0.128,0.08032,-0.504,0.76,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,3,0.17,0.11252,-0.462,0.802,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.194,0.09392,-0.438,0.826,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,5,0.294,0.11666,-0.338,0.926,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,6,0.328,0.14428,-0.304,0.96,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.46,0.12415,-0.172,1.092,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.504,0.13617,-0.128,1.136,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.626,0.16666,-0.006,1.258,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.664,0.11495,0.032,1.296,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69,0.13504,0.058,1.322,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.062,0.20033,0.43,1.694,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Los Montes de Galicia,2,3,0.042,0.12899,-0.59,0.674,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,2,4,0.066,0.11332,-0.566,0.698,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,2,5,0.166,0.13336,-0.466,0.798,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,2,6,0.2,0.15901,-0.432,0.832,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,2,7,0.332,0.14004,-0.3,0.964,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,2,8,0.376,0.15024,-0.256,1.008,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Rosi La Loca,2,9,0.498,0.17876,-0.134,1.13,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,2,10,0.536,0.13149,-0.096,1.168,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Restaurante Botin,2,11,0.562,0.14952,-0.07,1.194,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Barraca,2,12,0.934,0.21056,0.302,1.566,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,3,4,0.024,0.1386,-0.608,0.656,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,3,5,0.124,0.15507,-0.508,0.756,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,3,6,0.158,0.17593,-0.474,0.79,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Cabana Argentina,3,7,0.29,0.16207,-0.342,0.922,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,3,8,0.334,0.16958,-0.298,0.966,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Rosi La Loca,3,9,0.456,0.1952,-0.176,1.088,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Mercado de San Miguel,3,10,0.494,0.15398,-0.138,1.126,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,Restaurante Botin,3,11,0.52,0.16898,-0.112,1.152,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Barraca,3,12,0.892,0.22345,0.26,1.524,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,5,0.1,0.14134,-0.532,0.732,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,6,0.134,0.16504,-0.498,0.766,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.266,0.14774,-0.366,0.898,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.31,0.15742,-0.322,0.942,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.432,0.18462,-0.2,1.064,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.47,0.13988,-0.162,1.102,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.496,0.15793,-0.136,1.128,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.868,0.2159,0.236,1.5,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Inclan Brutal Bar,5,6,0.034,0.17988,-0.598,0.666,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,5,7,0.166,0.16432,-0.466,0.798,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,5,8,0.21,0.17235,-0.422,0.842,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,5,9,0.332,0.19904,-0.3,0.964,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,5,10,0.37,0.15707,-0.262,1.002,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,5,11,0.396,0.17215,-0.236,1.028,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Barraca,5,12,0.768,0.22708,0.136,1.4,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Cabana Argentina,6,7,0.132,0.18423,-0.5,0.764,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,6,8,0.176,0.19323,-0.456,0.808,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Rosi La Loca,6,9,0.298,0.21507,-0.334,0.93,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,6,10,0.336,0.17702,-0.296,0.968,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Restaurante Botin,6,11,0.362,0.19153,-0.27,0.994,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Barraca,6,12,0.734,0.2423,0.102,1.366,True
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.044,0.17841,-0.588,0.676,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.166,0.20316,-0.466,0.798,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.204,0.16286,-0.428,0.836,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.23,0.17595,-0.402,0.862,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,La Cabana Argentina,La Barraca,7,12,0.602,0.2309,-0.03,1.234,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.122,0.20902,-0.51,0.754,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.16,0.17116,-0.472,0.792,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.186,0.18544,-0.446,0.818,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.558,0.23597,-0.074,1.19,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.038,0.1959,-0.594,0.67,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.064,0.20913,-0.568,0.696,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Rosi La Loca,La Barraca,9,12,0.436,0.25701,-0.196,1.068,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.026,0.17102,-0.606,0.658,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.398,0.2258,-0.234,1.03,False
+Qwen 3.6 35B,LABEL-5,stratified,percentile_max,Restaurante Botin,La Barraca,11,12,0.372,0.23751,-0.26,1.004,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.05797,0.1082,-0.49239,0.60833,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.12584,0.084,-0.42452,0.67619,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18039,0.09662,-0.36997,0.73075,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.2351,0.12564,-0.31526,0.78545,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.32054,0.1096,-0.22982,0.8709,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.45692,0.12275,-0.09344,1.00728,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.48112,0.12878,-0.06924,1.03148,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.53913,0.14452,-0.01123,1.08949,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,10,0.67134,0.10538,0.12098,1.22169,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,11,0.69921,0.12694,0.14885,1.24956,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.03398,0.17543,0.48362,1.58433,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06787,0.12008,-0.48249,0.61822,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.12242,0.12974,-0.42794,0.67278,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.17712,0.1519,-0.37323,0.72748,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.26257,0.13945,-0.28779,0.81293,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,7,0.39895,0.15177,-0.15141,0.94931,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.42315,0.15461,-0.12721,0.97351,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.48116,0.1685,-0.0692,1.03152,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,10,0.61337,0.13682,0.06301,1.16372,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Restaurante Botin,2,11,0.64124,0.15331,0.09088,1.19159,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Barraca,2,12,0.97601,0.19449,0.42565,1.52636,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.05456,0.10991,-0.4958,0.60491,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.10926,0.13739,-0.4411,0.65962,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.1947,0.12134,-0.35565,0.74506,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.33108,0.13389,-0.21927,0.88144,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.35529,0.13868,-0.19507,0.90564,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.4133,0.15376,-0.13706,0.96365,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,10,0.5455,0.11816,-0.00486,1.09586,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,11,0.57337,0.13794,0.02301,1.12373,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.90814,0.18321,0.35778,1.4585,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.0547,0.14421,-0.49565,0.60506,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.14015,0.13055,-0.41021,0.69051,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.27653,0.14151,-0.27383,0.82689,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.30073,0.14664,-0.24963,0.85109,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.35874,0.16072,-0.19162,0.9091,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,10,0.49094,0.12693,-0.05941,1.0413,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,11,0.51881,0.1463,-0.03154,1.06917,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.85358,0.18933,0.30323,1.40394,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.08544,0.1541,-0.46491,0.6358,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.22183,0.16352,-0.32853,0.77218,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.24603,0.16833,-0.30433,0.79638,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,9,0.30404,0.18009,-0.24632,0.8544,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,10,0.43624,0.1499,-0.11412,0.9866,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,11,0.46411,0.16619,-0.08625,1.01447,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.79888,0.20569,0.24852,1.34924,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.13638,0.15149,-0.41398,0.68674,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.16058,0.15569,-0.38978,0.71094,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.21859,0.16989,-0.33177,0.76895,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,10,0.3508,0.13813,-0.19956,0.90115,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,11,0.37867,0.15461,-0.17169,0.92903,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.71344,0.19616,0.16308,1.26379,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.0242,0.16582,-0.52616,0.57456,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.08221,0.17891,-0.46815,0.63257,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,10,0.21442,0.14863,-0.33594,0.76477,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,La Cabana Argentina,Restaurante Botin,7,11,0.24229,0.16312,-0.30807,0.79264,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,La Cabana Argentina,La Barraca,7,12,0.57706,0.20391,0.0267,1.12741,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.05801,0.18197,-0.49235,0.60837,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,10,0.19021,0.15283,-0.36014,0.74057,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,11,0.21808,0.16789,-0.33227,0.76844,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.55285,0.20597,0.0025,1.10321,True
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Rosi La Loca,Mercado de San Miguel,9,10,0.1322,0.16591,-0.41815,0.68256,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Rosi La Loca,Restaurante Botin,9,11,0.16007,0.18139,-0.39028,0.71043,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Rosi La Loca,La Barraca,9,12,0.49484,0.2183,-0.05551,1.0452,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Mercado de San Miguel,Restaurante Botin,10,11,0.02787,0.1519,-0.52249,0.57823,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Mercado de San Miguel,La Barraca,10,12,0.36264,0.19384,-0.18772,0.913,False
+Fusion (open-weight),LABEL-5,stratified,percentile_max,Restaurante Botin,La Barraca,11,12,0.33477,0.20705,-0.21559,0.88513,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Los Montes de Galicia,1,2,0.12,0.10153,-0.46,0.7,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Taberna Mas Al Sur,1,3,0.18,0.08433,-0.4,0.76,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Meson Restaurante La Mi Venta,1,4,0.18,0.08938,-0.4,0.76,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Inclan Brutal Bar,1,5,0.28,0.12075,-0.3,0.86,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Fuencarral,1,6,0.4,0.12141,-0.18,0.98,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Cabana Argentina,1,7,0.4,0.11159,-0.18,0.98,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Oven Mozzarella Gran Via 6,1,8,0.42,0.13011,-0.16,1.0,False
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Rosi La Loca,1,9,0.62,0.14395,0.04,1.2,True
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Restaurante Botin,1,10,0.64,0.14025,0.06,1.22,True
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,Mercado de San Miguel,1,11,0.7,0.11631,0.12,1.28,True
+Stars (reference),LABEL-5,stratified,percentile_max,Zenith Brunch & Cocktails - Valverde,La Barraca,1,12,1.16,0.18662,0.58,1.74,True
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Taberna Mas Al Sur,2,3,0.06,0.11576,-0.52,0.64,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Meson Restaurante La Mi Venta,2,4,0.06,0.12085,-0.52,0.64,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Inclan Brutal Bar,2,5,0.16,0.14463,-0.42,0.74,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Fuencarral,2,6,0.28,0.14582,-0.3,0.86,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Cabana Argentina,2,7,0.28,0.13869,-0.3,0.86,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Oven Mozzarella Gran Via 6,2,8,0.3,0.15232,-0.28,0.88,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Rosi La Loca,2,9,0.5,0.1649,-0.08,1.08,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Restaurante Botin,2,10,0.52,0.16078,-0.06,1.1,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,Mercado de San Miguel,2,11,0.58,0.14167,-0.0,1.16,False
+Stars (reference),LABEL-5,stratified,percentile_max,Los Montes de Galicia,La Barraca,2,12,1.04,0.20199,0.46,1.62,True
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Meson Restaurante La Mi Venta,3,4,0.0,0.10592,-0.58,0.58,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Inclan Brutal Bar,3,5,0.1,0.13429,-0.48,0.68,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Fuencarral,3,6,0.22,0.13409,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Cabana Argentina,3,7,0.22,0.1263,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Oven Mozzarella Gran Via 6,3,8,0.24,0.14232,-0.34,0.82,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Rosi La Loca,3,9,0.44,0.15512,-0.14,1.02,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Restaurante Botin,3,10,0.46,0.15179,-0.12,1.04,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,Mercado de San Miguel,3,11,0.52,0.12941,-0.06,1.1,False
+Stars (reference),LABEL-5,stratified,percentile_max,Taberna Mas Al Sur,La Barraca,3,12,0.98,0.19525,0.4,1.56,True
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Inclan Brutal Bar,4,5,0.1,0.13694,-0.48,0.68,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Fuencarral,4,6,0.22,0.13709,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Cabana Argentina,4,7,0.22,0.12908,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Oven Mozzarella Gran Via 6,4,8,0.24,0.14508,-0.34,0.82,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Rosi La Loca,4,9,0.44,0.15722,-0.14,1.02,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Restaurante Botin,4,10,0.46,0.15477,-0.12,1.04,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,Mercado de San Miguel,4,11,0.52,0.13344,-0.06,1.1,False
+Stars (reference),LABEL-5,stratified,percentile_max,Meson Restaurante La Mi Venta,La Barraca,4,12,0.98,0.19782,0.4,1.56,True
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Fuencarral,5,6,0.12,0.16016,-0.46,0.7,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Cabana Argentina,5,7,0.12,0.15219,-0.46,0.7,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Oven Mozzarella Gran Via 6,5,8,0.14,0.16655,-0.44,0.72,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Rosi La Loca,5,9,0.34,0.17685,-0.24,0.92,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Restaurante Botin,5,10,0.36,0.17395,-0.22,0.94,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,Mercado de San Miguel,5,11,0.42,0.15563,-0.16,1.0,False
+Stars (reference),LABEL-5,stratified,percentile_max,Inclan Brutal Bar,La Barraca,5,12,0.88,0.21396,0.3,1.46,True
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Cabana Argentina,6,7,0.0,0.15356,-0.58,0.58,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Oven Mozzarella Gran Via 6,6,8,0.02,0.16698,-0.56,0.6,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Rosi La Loca,6,9,0.22,0.17789,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Restaurante Botin,6,10,0.24,0.17414,-0.34,0.82,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,Mercado de San Miguel,6,11,0.3,0.15648,-0.28,0.88,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Fuencarral,La Barraca,6,12,0.76,0.21413,0.18,1.34,True
+Stars (reference),LABEL-5,stratified,percentile_max,La Cabana Argentina,Oven Mozzarella Gran Via 6,7,8,0.02,0.16078,-0.56,0.6,False
+Stars (reference),LABEL-5,stratified,percentile_max,La Cabana Argentina,Rosi La Loca,7,9,0.22,0.17191,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,La Cabana Argentina,Restaurante Botin,7,10,0.24,0.16718,-0.34,0.82,False
+Stars (reference),LABEL-5,stratified,percentile_max,La Cabana Argentina,Mercado de San Miguel,7,11,0.3,0.14987,-0.28,0.88,False
+Stars (reference),LABEL-5,stratified,percentile_max,La Cabana Argentina,La Barraca,7,12,0.76,0.20808,0.18,1.34,True
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Rosi La Loca,8,9,0.2,0.18284,-0.38,0.78,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Restaurante Botin,8,10,0.22,0.18181,-0.36,0.8,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,Mercado de San Miguel,8,11,0.28,0.16289,-0.3,0.86,False
+Stars (reference),LABEL-5,stratified,percentile_max,Oven Mozzarella Gran Via 6,La Barraca,8,12,0.74,0.21822,0.16,1.32,True
+Stars (reference),LABEL-5,stratified,percentile_max,Rosi La Loca,Restaurante Botin,9,10,0.02,0.19103,-0.56,0.6,False
+Stars (reference),LABEL-5,stratified,percentile_max,Rosi La Loca,Mercado de San Miguel,9,11,0.08,0.17267,-0.5,0.66,False
+Stars (reference),LABEL-5,stratified,percentile_max,Rosi La Loca,La Barraca,9,12,0.54,0.22828,-0.04,1.12,False
+Stars (reference),LABEL-5,stratified,percentile_max,Restaurante Botin,Mercado de San Miguel,10,11,0.06,0.17179,-0.52,0.64,False
+Stars (reference),LABEL-5,stratified,percentile_max,Restaurante Botin,La Barraca,10,12,0.52,0.22583,-0.06,1.1,False
+Stars (reference),LABEL-5,stratified,percentile_max,Mercado de San Miguel,La Barraca,11,12,0.46,0.21058,-0.12,1.04,False
